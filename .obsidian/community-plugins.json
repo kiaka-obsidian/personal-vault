@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "table-editor-obsidian",
   "better-word-count",
   "obsidian-kanban",
@@ -12,5 +11,6 @@
   "calendar",
   "periodic-notes",
   "obsidian-reminder-plugin",
-  "breadcrumbs"
+  "breadcrumbs",
+  "obsidian-git"
 ]
