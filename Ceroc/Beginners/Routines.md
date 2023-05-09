@@ -1,6 +1,6 @@
 
 ```dataview
-table Name, Return
+table
 from #ceroc and #moves and #beginners
 ```
 

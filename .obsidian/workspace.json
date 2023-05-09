@@ -8,22 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1de7d566961578d8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "b63c5ca9f433b161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Ceroc/Beginners/Moves/Basic Manspin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "318bfb29fe51d376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15453b45812c0afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Beginners/Routines.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ceroc/Beginners/Routines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ceroc/Beginners/Routines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ceroc/Beginners/Routines.md"
+              }
             }
           },
           {
@@ -220,12 +232,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "97d86e9c581ca681",
+  "active": "15453b45812c0afc",
   "lastOpenFiles": [
-    "Templates/Ceroc Move.md",
-    "Ceroc/Intermediates/Moves/Untitled.md",
-    "Ceroc/Beginners/Routines.md",
     "Ceroc/Beginners/Moves/Basic Manspin.md",
+    "Ceroc/Beginners/Routines.md",
+    "Ceroc/Intermediates/Moves/Untitled.md",
+    "Templates/Ceroc Move.md",
     "Ceroc/Intermediates/Moves/An Int Move goes here.md",
     "Templates",
     "Ceroc/Intermediates/Moves",
