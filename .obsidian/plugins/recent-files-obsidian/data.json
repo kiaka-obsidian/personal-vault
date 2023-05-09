@@ -1,22 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Ceroc Move Int Import",
-      "path": "Templates/Ceroc Move Int Import.md"
-    },
-    {
-      "basename": "Accordion Cleaver Anticlockwise",
-      "path": "Rewards/Accordion Cleaver Anticlockwise.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "TEST",
-      "path": "TEST.md"
-    },
-    {
       "basename": "Routines",
       "path": "Ceroc/Beginners/Routines.md"
     },
@@ -199,6 +183,22 @@
     {
       "basename": "Crawler Archetecture",
       "path": "Evernote Import/Progs/Crawler Archetecture.md"
+    },
+    {
+      "basename": "Yorkshire web",
+      "path": "Evernote Import/Personal/Yorkshire web.md"
+    },
+    {
+      "basename": "Docker initial commands",
+      "path": "Evernote Import/Daily Notes/Docker initial commands.md"
+    },
+    {
+      "basename": "image",
+      "path": "Evernote Import/Daily Notes/_resources/image.png"
+    },
+    {
+      "basename": "Daily Notes",
+      "path": "Evernote Import/Hexa/Daily Notes.md"
     }
   ],
   "omittedPaths": [],

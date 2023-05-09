@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Ceroc Move Int Import.md",
+                "file": "Ceroc/Beginners/Routines.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Ceroc Move Int Import.md",
+                "file": "Ceroc/Beginners/Routines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Ceroc Move Int Import.md",
+                "file": "Ceroc/Beginners/Routines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Ceroc Move Int Import.md"
+                "file": "Ceroc/Beginners/Routines.md"
               }
             }
           },
@@ -222,33 +222,14 @@
       "daily-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
+      "periodic-notes:Open this week": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "97d86e9c581ca681",
+  "active": "15453b45812c0afc",
   "lastOpenFiles": [
-    "Rewards/Accordion Cleaver Anticlockwise.md",
-    "Templates/Ceroc Move Int Import.md",
-    "Untitled.md",
-    "Rewards/Yoyo.md",
-    "Rewards/Wurlitzer.md",
-    "Rewards/Travelling Block Turn.md",
-    "Rewards/Sway.md",
-    "Rewards/Shouldersway Switch.md",
-    "Rewards/Pretzel.md",
-    "Rewards/Inside First.md",
-    "Rewards/High First Mambo.md",
-    "Rewards/DHR Shoulder Turnout.md",
-    "Rewards/Catapult.md",
-    "Rewards/Basket Winder.md",
-    "Rewards/Basket.md",
-    "Rewards/Basic Changing Places.md",
-    "Rewards/Almost Pretzel.md",
-    "Rewards",
-    "TEST.md",
-    "Ceroc/Beginners/Routines.md",
     "Ceroc/Beginners/Moves/Basic Treveling Return.md",
+    "Ceroc/Beginners/Routines.md",
     "Ceroc/Beginners/Moves/Basic Manspin.md",
     "Templates/Ceroc Move Int.md",
     "Templates/Ceroc Move Beg.md",
@@ -258,11 +239,29 @@
     "Ceroc/Intermediates/Moves",
     "Ceroc/CTTA/Course/Placeholder.md",
     "Ceroc/Beginners/Moves",
+    "Ceroc/CTTA/CTA April.md",
     "Ceroc/CTTA/Course",
     "Ceroc/CTTA",
     "Ceroc/Intermediates",
     "Ceroc/Beginners",
     "Ceroc",
+    "Sky/HEXA/Video/Video.md",
+    "Weekly Notes/19-2023.md",
+    "Sky/HEXA/Feeds/Feeds.md",
+    "Excalidraw/Drawing 2023-05-05 13.38.49.excalidraw.md",
+    "Evernote Import/Sky Sports/Sports Web/BOOST Time - The Fallback.md",
+    "Evernote Import/Sky Sports/Sports Web/What is a Sky SM.md",
+    "Evernote Import/Sky Sports/Sports Web/Welcome Back.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.16.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.13.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.15.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.11.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.9.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.8.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.7.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.5.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.4.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.3.md",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.1.png",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.png",
     "Untitled.canvas",
@@ -272,6 +271,7 @@
     "Evernote Import/Daily Notes/_resources/image.png",
     "Evernote Import/Line Reports/Line General/_resources/image.png",
     "Sky/HEXA/Team/attachments/Pasted image 20230505163044.png",
+    "Sky/Line Reports/General",
     "Sky/Line Reports/James Maskery/Untitled.canvas",
     "Evernote Import/Sky Sports/SSL HTTPS HSTS/_resources/unknown_filename.png",
     "Evernote Import/Sky Sports/Sports Web/_resources/unknown_filename.png",
