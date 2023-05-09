@@ -1,0 +1,43 @@
+{
+  "scanned": true,
+  "reminders": {
+    "Daily Notes/2023-05-07.md": [
+      {
+        "title": "Sarah needs to write a report",
+        "time": "2023-05-10",
+        "rowNumber": 0
+      }
+    ],
+    "Weekly Notes/19-2023.md": [
+      {
+        "title": "setup catch-ups with James and move Laura's",
+        "time": "2023-05-12",
+        "rowNumber": 6
+      },
+      {
+        "title": "tell Deepthi about plans to not take on board solutions role",
+        "time": "2023-05-12",
+        "rowNumber": 7
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "fda11c8c8f7244aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7d4c7830643631c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc8675b99e6ed912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-05-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c3d145330c61ac0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b599b53f39d444dd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3ad4d38670da4732",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "245c91a8342c87fe",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "eb9071a54a66f486",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "0d66a88afcd6063d",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f8c667c0c032ec8c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "204bbf74198b481a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Daily Notes/2023-05-09.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f282a30f8d33f12c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Daily Notes/2023-05-09.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "298ebe2e94b157b8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Daily Notes/2023-05-09.md"
+          }
+        }
+      },
+      {
+        "id": "17bb8a3f42e9910a",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "ecf85d1f739b508f",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
+      },
+      {
+        "id": "c7e65f6a2526b51c",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "d98c640a87e4ab08",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "b599b53f39d444dd",
+  "lastOpenFiles": [
+    "Sky/HEXA/Feeds/Feeds.md",
+    "Weekly Notes/19-2023.md",
+    "Weekly Notes/Feeds Overview.md",
+    "Daily Notes/2023-05-09.md",
+    "Sky/HEXA/Feeds/d.365dm.com URLS.md",
+    "Excalidraw/Drawing 2023-05-05 13.38.49.excalidraw.md",
+    "Weekly Notes/18-2023.md",
+    "Daily Notes/2023-05-07.md",
+    "Evernote Import/Sky Sports Republic/121 catchup etc.md",
+    "Evernote Import/Sky Sports/Release Archive/TO BE RELEASED.md",
+    "Evernote Import/Sky Sports/Release Archive/TBC.md",
+    "Evernote Import/Sky Sports/Release Archive/Weekly Planer • Colorful.md",
+    "Evernote Import/Sky Sports/Release Archive/05_02_2018 • Releases.md",
+    "Evernote Import/Sky Sports/Sports Web/Welcome Back.md",
+    "Evernote Import/Sky Sports/Sports Web/Release Plan.md",
+    "Evernote Import/Sky Sports/Sports Web/Squad Work Movements meeting.md",
+    "Evernote Import/Sky Sports/Sports Web/SSW Tech Debt.md",
+    "Evernote Import/Sky Sports/Sports Web/Tasks.md",
+    "Evernote Import/Sky Sports/Sports Web/thursady releases.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.5.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.7.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.6.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.8.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.9.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.10.md",
+    "Evernote Import/Sky Sports/Sports Web/Untitled Note.11.md",
+    "Untitled.canvas",
+    "Sky/Line Reports/James Maskery/Untitled.canvas",
+    "/Sky/Line Reports/James Maskery/Untitled.canvas",
+    "Weekly Notes",
+    "Sky/Line Reports/Laura Rowlands",
+    "Sky/Line Reports/James Maskery",
+    "Sky/HEXA/Video",
+    "Sky/HEXA/Feeds",
+    "Sky/Line Reports",
+    "Sky/HEXA",
+    "Sky",
+    "Excalidraw",
+    "Daily Notes"
+  ]
+}
