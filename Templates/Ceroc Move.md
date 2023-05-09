@@ -5,7 +5,7 @@ Return: U
 Demo: U
 Teach U
 ---
-#ceroc #moves #beginners #intermediates
+#template #ceroc #moves #beginners #intermediates
 ## Notes
 
 ## Top Tips
