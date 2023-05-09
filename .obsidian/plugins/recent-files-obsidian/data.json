@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "TEST",
+      "path": "TEST.md"
+    },
+    {
       "basename": "Routines",
       "path": "Ceroc/Beginners/Routines.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Docker initial commands",
       "path": "Evernote Import/Daily Notes/Docker initial commands.md"
-    },
-    {
-      "basename": "image",
-      "path": "Evernote Import/Daily Notes/_resources/image.png"
-    },
-    {
-      "basename": "Daily Notes",
-      "path": "Evernote Import/Hexa/Daily Notes.md"
     }
   ],
   "omittedPaths": [],

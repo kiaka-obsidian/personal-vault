@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f03338e68221e25e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
               }
             }
           },
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -222,14 +233,15 @@
       "daily-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open this week": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "15453b45812c0afc",
+  "active": "f03338e68221e25e",
   "lastOpenFiles": [
-    "Ceroc/Beginners/Moves/Basic Treveling Return.md",
+    "TEST.md",
+    "Untitled.md",
     "Ceroc/Beginners/Routines.md",
+    "Ceroc/Beginners/Moves/Basic Treveling Return.md",
     "Ceroc/Beginners/Moves/Basic Manspin.md",
     "Templates/Ceroc Move Int.md",
     "Templates/Ceroc Move Beg.md",
@@ -260,8 +272,6 @@
     "Evernote Import/Sky Sports/Sports Web/Untitled Note.8.md",
     "Evernote Import/Sky Sports/Sports Web/Untitled Note.7.md",
     "Evernote Import/Sky Sports/Sports Web/Untitled Note.5.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.4.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.3.md",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.1.png",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.png",
     "Untitled.canvas",
