@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Routines",
+      "path": "Ceroc/Beginners/Routines.md"
+    },
+    {
+      "basename": "Basic Treveling Return",
+      "path": "Ceroc/Beginners/Moves/Basic Treveling Return.md"
+    },
+    {
+      "basename": "Basic Manspin",
+      "path": "Ceroc/Beginners/Moves/Basic Manspin.md"
+    },
+    {
       "basename": "Ceroc Move Int",
       "path": "Templates/Ceroc Move Int.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "An Int Move goes here",
       "path": "Ceroc/Intermediates/Moves/An Int Move goes here.md"
-    },
-    {
-      "basename": "Basic Manspin",
-      "path": "Ceroc/Beginners/Moves/Basic Manspin.md"
-    },
-    {
-      "basename": "Routines",
-      "path": "Ceroc/Beginners/Routines.md"
     },
     {
       "basename": "Placeholder",
@@ -195,10 +199,6 @@
     {
       "basename": "Daily Notes",
       "path": "Evernote Import/Hexa/Daily Notes.md"
-    },
-    {
-      "basename": "In-Browser Streaming - w_ Deepthi",
-      "path": "Sky/HEXA/Video/In-Browser Streaming - w_ Deepthi.md"
     }
   ],
   "omittedPaths": [],

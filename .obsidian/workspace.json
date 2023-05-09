@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Ceroc Move Int.md",
+                "file": "Ceroc/Beginners/Routines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a1d922b3f496059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Beginners/Moves/Basic Manspin.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Ceroc Move Int.md",
+                "file": "Ceroc/Beginners/Routines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Ceroc Move Int.md",
+                "file": "Ceroc/Beginners/Routines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Ceroc Move Int.md"
+                "file": "Ceroc/Beginners/Routines.md"
               }
             }
           },
@@ -216,11 +228,12 @@
   },
   "active": "15453b45812c0afc",
   "lastOpenFiles": [
-    "Templates/Ceroc Move Beg.md",
-    "Templates/Ceroc Move Int.md",
-    "Ceroc/Intermediates/Moves/An Int Move goes here.md",
-    "Ceroc/Beginners/Moves/Basic Manspin.md",
+    "Ceroc/Beginners/Moves/Basic Treveling Return.md",
     "Ceroc/Beginners/Routines.md",
+    "Ceroc/Beginners/Moves/Basic Manspin.md",
+    "Templates/Ceroc Move Int.md",
+    "Templates/Ceroc Move Beg.md",
+    "Ceroc/Intermediates/Moves/An Int Move goes here.md",
     "Ceroc/Intermediates/Moves/Untitled.md",
     "Templates",
     "Ceroc/Intermediates/Moves",
@@ -249,7 +262,6 @@
     "Evernote Import/Sky Sports/Sports Web/Untitled Note.5.md",
     "Evernote Import/Sky Sports/Sports Web/Untitled Note.4.md",
     "Evernote Import/Sky Sports/Sports Web/Untitled Note.3.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.2.md",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.1.png",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.png",
     "Untitled.canvas",
