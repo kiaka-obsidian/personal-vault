@@ -1,11 +1,15 @@
 ---
 Name: Move Name
+Type: Beginner Variation|Classic|Interdiate|Hard|Workshop
 Beats: 0
 Return: U
 Demo: U
 Teach U
+Start Hand: U
+End Hand: U
+
 ---
-#template #ceroc #moves #beginners #intermediates
+#ceroc #moves #intermediates #template
 ## Notes
 
 ## Top Tips

@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Ceroc Move Int",
+      "path": "Templates/Ceroc Move Int.md"
+    },
+    {
+      "basename": "Ceroc Move Beg",
+      "path": "Templates/Ceroc Move Beg.md"
+    },
+    {
+      "basename": "An Int Move goes here",
+      "path": "Ceroc/Intermediates/Moves/An Int Move goes here.md"
+    },
+    {
       "basename": "Basic Manspin",
       "path": "Ceroc/Beginners/Moves/Basic Manspin.md"
     },
     {
       "basename": "Routines",
       "path": "Ceroc/Beginners/Routines.md"
-    },
-    {
-      "basename": "Ceroc Move",
-      "path": "Templates/Ceroc Move.md"
-    },
-    {
-      "basename": "An Int Move goes here",
-      "path": "Ceroc/Intermediates/Moves/An Int Move goes here.md"
     },
     {
       "basename": "Placeholder",
