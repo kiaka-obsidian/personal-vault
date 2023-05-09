@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Ceroc Move",
+      "path": "Templates/Ceroc Move.md"
+    },
+    {
       "basename": "Routines",
       "path": "Ceroc/Beginners/Routines.md"
+    },
+    {
+      "basename": "Basic Manspin",
+      "path": "Ceroc/Beginners/Moves/Basic Manspin.md"
+    },
+    {
+      "basename": "An Int Move goes here",
+      "path": "Ceroc/Intermediates/Moves/An Int Move goes here.md"
+    },
+    {
+      "basename": "Placeholder",
+      "path": "Ceroc/CTTA/Course/Placeholder.md"
+    },
+    {
+      "basename": "CTA April",
+      "path": "Ceroc/CTTA/CTA April.md"
     },
     {
       "basename": "19-2023",
@@ -175,30 +195,6 @@
     {
       "basename": "In-Browser Streaming - w_ Deepthi",
       "path": "Sky/HEXA/Video/In-Browser Streaming - w_ Deepthi.md"
-    },
-    {
-      "basename": "interview with Jason (Snr Dev)",
-      "path": "Evernote Import/Hexa/interview with Jason (Snr Dev).md"
-    },
-    {
-      "basename": "J",
-      "path": "Evernote Import/Hexa/J.md"
-    },
-    {
-      "basename": "Welcome Back - Catchup Notes",
-      "path": "Evernote Import/Hexa/Welcome Back - Catchup Notes.md"
-    },
-    {
-      "basename": "Untitled Note.15",
-      "path": "Evernote Import/Hexa/Untitled Note.15.md"
-    },
-    {
-      "basename": "Untitled Note.14",
-      "path": "Evernote Import/Hexa/Untitled Note.14.md"
-    },
-    {
-      "basename": "Untitled Note.13",
-      "path": "Evernote Import/Hexa/Untitled Note.13.md"
     }
   ],
   "omittedPaths": [],

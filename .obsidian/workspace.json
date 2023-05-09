@@ -18,19 +18,18 @@
             }
           },
           {
-            "id": "1f3876383a46b0a3",
+            "id": "b63c5ca9f433b161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md",
+                "file": "Ceroc/Beginners/Moves/Basic Manspin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ceroc/Beginners/Routines.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,9 +220,19 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "1f3876383a46b0a3",
+  "active": "97d86e9c581ca681",
   "lastOpenFiles": [
+    "Templates/Ceroc Move.md",
+    "Ceroc/Intermediates/Moves/Untitled.md",
     "Ceroc/Beginners/Routines.md",
+    "Ceroc/Beginners/Moves/Basic Manspin.md",
+    "Ceroc/Intermediates/Moves/An Int Move goes here.md",
+    "Templates",
+    "Ceroc/Intermediates/Moves",
+    "Ceroc/CTTA/Course/Placeholder.md",
+    "Ceroc/Beginners/Moves",
+    "Ceroc/CTTA/CTA April.md",
+    "Ceroc/CTTA/Course",
     "Ceroc/CTTA",
     "Ceroc/Intermediates",
     "Ceroc/Beginners",
@@ -251,12 +256,6 @@
     "Evernote Import/Sky Sports/Sports Web/Untitled Note.3.md",
     "Evernote Import/Sky Sports/Sports Web/Untitled Note.2.md",
     "Evernote Import/Sky Sports/Sports Web/Untitled.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.md",
-    "Evernote Import/Sky Sports/Sports Web/02_01_2019.md",
-    "Evernote Import/Sky Sports/CDN Migration/Tech Stuff and what is going on with the % split.md",
-    "Evernote Import/Sky Sports/CDN Migration/Tasks.md",
-    "Evernote Import/Sky Sports/CDN Migration/Catch up 8_10_2018.md",
-    "Evernote Import/Sky Sports/CDN Migration/Active checks.md",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.1.png",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.png",
     "Untitled.canvas",
@@ -267,12 +266,8 @@
     "Evernote Import/Line Reports/Line General/_resources/image.png",
     "Sky/HEXA/Team/attachments/Pasted image 20230505163044.png",
     "Sky/Line Reports/General",
-    "Sky/Line Reports/Laura Rowlands/PDP",
     "Sky/Line Reports/James Maskery/Untitled.canvas",
-    "Sky/Boost",
-    "Evernote Import/Sky Sports/Super 6",
     "Evernote Import/Sky Sports/SSL HTTPS HSTS/_resources/unknown_filename.png",
-    "Evernote Import/Sky Sports/SSL HTTPS HSTS/_resources/SkySportsSSL.docx",
     "Evernote Import/Sky Sports/Sports Web/_resources/unknown_filename.png",
     "Evernote Import/Sky Sports/Sports Web/_resources/unknown_filename.2.png",
     "Evernote Import/Sky Sports/Sports Web/_resources/unknown_filename.3.png",
