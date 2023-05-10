@@ -19,8 +19,12 @@
             "id": "3a4625e91335d86f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Moves/CTA/Yoyo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Ceroc/Intermediates/Moves/CTA/Yoyo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Ceroc/Intermediates/Moves/CTA/Yoyo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +130,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Ceroc/Intermediates/Moves/CTA/Yoyo.md"
+          }
         }
       },
       {
@@ -173,11 +181,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "3a4625e91335d86f",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Classic Moves Index.md",
+    "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
+    "Ceroc/CTTA/CTA April.md",
     "TEST.md",
     "Sky/HEXA/Feeds/Feeds.md",
     "Weekly Notes/19-2023.md",
@@ -201,9 +213,6 @@
     "Evernote Import/Sky Sports/Sports Web/Untitled Note.5.md",
     "Evernote Import/Sky Sports/Sports Web/Untitled Note.7.md",
     "Evernote Import/Sky Sports/Sports Web/Untitled Note.6.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.8.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.9.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.10.md",
     "Untitled.canvas",
     "Sky/Line Reports/James Maskery/Untitled.canvas",
     "/Sky/Line Reports/James Maskery/Untitled.canvas",
