@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f32e29c4cef4718",
+        "id": "14bd348829259a45",
         "type": "tabs",
         "children": [
           {
-            "id": "f3ef962b8eb7c78d",
+            "id": "aadb7253d53154c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Ceroc Move Int.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cf33e400e2f4e2f3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7198e05c56a85321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
+                "file": "Templates/Ceroc/Ceroc Routine Int.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#intermediates",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Ceroc Move Int.md",
+                "file": "Templates/Ceroc/Ceroc Routine Int.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Ceroc Move Int.md",
+                "file": "Templates/Ceroc/Ceroc Routine Int.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Ceroc Move Int.md"
+                "file": "Templates/Ceroc/Ceroc Routine Int.md"
               }
             }
           },
@@ -234,44 +216,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3ef962b8eb7c78d",
+  "active": "97d86e9c581ca681",
   "lastOpenFiles": [
-    "Templates/Ceroc Move Int Import.md",
-    "Templates/Ceroc Move Beg.md",
-    "Templates/Ceroc Move Int.md",
+    "Ceroc/Intermediates/Moves/CTA/Cross Step Swizzle.md",
+    "Templates/Ceroc",
+    "Ceroc/Intermediates/CTA Moves Index.md",
+    "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
+    "Templates/Ceroc/Ceroc Move Int.md",
+    "Ceroc/Intermediates/Moves/DB/Placeholder.md",
+    "Ceroc/Intermediates/Moves/CTA/Inside First.md",
+    "Templates/Ceroc/Ceroc Move Int Import.md",
+    "Templates/Ceroc/Ceroc Move Beg.md",
+    "Ceroc/Intermediates/Moves/CTA/Catapult.md",
+    "Ceroc/Intermediates/Moves/CTA/Armroll Hook Windmill (Mambos Optional).md",
+    "Ceroc/Intermediates/Moves/CTA/Backhanded First.md",
+    "Ceroc/Intermediates/Moves/Custom/Placeholder.md",
+    "Ceroc/Intermediates/Moves/Custom/Best Move in the world.md",
+    "Ceroc/Intermediates/Moves/CTA/Yoyo.md",
+    "Templates/Ceroc/Ceroc Routine Int.md",
+    "Ceroc/Intermediates/Moves/CTA/High First Mambo.md",
     "Templates/`= this.Move1`.md",
     "Templates",
-    "Templates/Ceroc Routine Int.md",
-    "Ceroc/Intermediates/Moves/Custom/Best Move in the world.md",
     "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
     "Ceroc/Intermediates/Routines",
-    "Ceroc/Intermediates/Int Moves.md",
     "Ceroc/Intermediates/Moves/Custom",
     "Ceroc/Intermediates/Moves/DB",
     "Ceroc/Intermediates/Moves/CTA",
     "Ceroc/Intermediates/Moves/CTA/Comb Lean.md",
-    "Ceroc/Intermediates/Moves/CTA/Armroll Hook Windmill (Mambos Optional).md",
     "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
     "Ceroc/Intermediates/Moves/CTA/Catapult Sway Walkaround.md",
     "Ceroc/Intermediates/Moves/CTA/Basket.md",
     "Ceroc/Intermediates/Moves/CTA/Basic Changing Places.md",
     "Ceroc/Intermediates/Moves/CTA/Almost Pretzel.md",
     "Ceroc/Beginners/Moves/Basic Manspin.md",
-    "Ceroc/Beginners/Routines.md",
-    "Ceroc/Intermediates/Moves/{Link}.md",
-    "Ceroc/Intermediates/Moves/CTA/Hatchflick Caress.md",
-    "Ceroc/Intermediates/Moves/An Int Move goes here.md",
-    "Ceroc/Intermediates/Moves/CTA/Yoyo.md",
-    "Ceroc/Intermediates/Moves/CTA/Wurlitzer High Hand.md",
-    "Ceroc/Intermediates/Moves/CTA/Travelling Comb Spinout.md",
-    "Ceroc/Intermediates/Moves/CTA/Travelling Block Turn.md",
-    "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
     "Rewards",
     "Ceroc/Intermediates/Moves",
     "Ceroc/Beginners/Moves",
     "Ceroc/CTTA/Course",
-    "Ceroc/CTTA",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.1.png",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.png",
     "Untitled.canvas",
