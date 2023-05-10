@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "318bfb29fe51d376",
+        "id": "14bd348829259a45",
         "type": "tabs",
         "children": [
           {
-            "id": "15453b45812c0afc",
+            "id": "aadb7253d53154c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a1d922b3f496059",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Beginners/Moves/Basic Manspin.md",
+                "file": "Templates/Ceroc/Ceroc Routine Int.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md",
+                "file": "Templates/Ceroc/Ceroc Routine Int.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md",
+                "file": "Templates/Ceroc/Ceroc Routine Int.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md"
+                "file": "Templates/Ceroc/Ceroc Routine Int.md"
               }
             }
           },
@@ -175,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "2169df6230444fa4",
@@ -223,55 +211,57 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "periodic-notes:Open this week": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "15453b45812c0afc",
+  "active": "97d86e9c581ca681",
   "lastOpenFiles": [
-    "Ceroc/Beginners/Moves/Basic Treveling Return.md",
-    "Ceroc/Beginners/Routines.md",
-    "Ceroc/Beginners/Moves/Basic Manspin.md",
-    "Templates/Ceroc Move Int.md",
-    "Templates/Ceroc Move Beg.md",
-    "Ceroc/Intermediates/Moves/An Int Move goes here.md",
-    "Ceroc/Intermediates/Moves/Untitled.md",
+    "Ceroc/Intermediates/Moves/CTA/Cross Step Swizzle.md",
+    "Templates/Ceroc",
+    "Ceroc/Intermediates/CTA Moves Index.md",
+    "Ceroc/Intermediates/Classic Moves Index.md",
+    "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
+    "Templates/Ceroc/Ceroc Move Int.md",
+    "Ceroc/Intermediates/Moves/DB/Placeholder.md",
+    "Ceroc/Intermediates/Moves/CTA/Inside First.md",
+    "Templates/Ceroc/Ceroc Move Int Import.md",
+    "Templates/Ceroc/Ceroc Move Beg.md",
+    "Ceroc/Intermediates/Moves/CTA/Catapult.md",
+    "Ceroc/Intermediates/Moves/CTA/Armroll Hook Windmill (Mambos Optional).md",
+    "Ceroc/Intermediates/Moves/CTA/Backhanded First.md",
+    "Ceroc/Intermediates/Moves/Custom/Placeholder.md",
+    "Ceroc/Intermediates/Moves/Custom/Best Move in the world.md",
+    "Ceroc/Intermediates/Moves/CTA/Yoyo.md",
+    "Templates/Ceroc/Ceroc Routine Int.md",
+    "Ceroc/Intermediates/Moves/CTA/High First Mambo.md",
+    "Templates/`= this.Move1`.md",
     "Templates",
+    "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
+    "Ceroc/Intermediates/Routines",
+    "Ceroc/Intermediates/Moves/Custom",
+    "Ceroc/Intermediates/Moves/DB",
+    "Ceroc/Intermediates/Moves/CTA",
+    "Ceroc/Intermediates/Moves/CTA/Comb Lean.md",
+    "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
+    "Ceroc/Intermediates/Moves/CTA/Catapult Sway Walkaround.md",
+    "Ceroc/Intermediates/Moves/CTA/Basket.md",
+    "Ceroc/Intermediates/Moves/CTA/Basic Changing Places.md",
+    "Ceroc/Intermediates/Moves/CTA/Almost Pretzel.md",
+    "Ceroc/Beginners/Moves/Basic Manspin.md",
+    "Rewards",
     "Ceroc/Intermediates/Moves",
-    "Ceroc/CTTA/Course/Placeholder.md",
     "Ceroc/Beginners/Moves",
-    "Ceroc/CTTA/CTA April.md",
     "Ceroc/CTTA/Course",
-    "Ceroc/CTTA",
-    "Ceroc/Intermediates",
-    "Ceroc/Beginners",
-    "Ceroc",
-    "Sky/HEXA/Video/Video.md",
-    "Weekly Notes/19-2023.md",
-    "Sky/HEXA/Feeds/Feeds.md",
-    "Excalidraw/Drawing 2023-05-05 13.38.49.excalidraw.md",
-    "Evernote Import/Sky Sports/Sports Web/BOOST Time - The Fallback.md",
-    "Evernote Import/Sky Sports/Sports Web/What is a Sky SM.md",
-    "Evernote Import/Sky Sports/Sports Web/Welcome Back.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.16.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.13.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.15.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.11.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.9.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.8.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.7.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.5.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.4.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.3.md",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.1.png",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.png",
     "Untitled.canvas",
     "Weekly Notes/Untitled.canvas",
     "Sky/HEXA/Video/attachments/Pasted image 20230509153644.png",
-    "Sky/HEXA/Video/attachments",
     "Evernote Import/Daily Notes/_resources/image.png",
     "Evernote Import/Line Reports/Line General/_resources/image.png",
     "Sky/HEXA/Team/attachments/Pasted image 20230505163044.png",
-    "Sky/Line Reports/General",
     "Sky/Line Reports/James Maskery/Untitled.canvas",
     "Evernote Import/Sky Sports/SSL HTTPS HSTS/_resources/unknown_filename.png",
     "Evernote Import/Sky Sports/Sports Web/_resources/unknown_filename.png",

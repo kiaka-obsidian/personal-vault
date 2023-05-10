@@ -12,5 +12,7 @@
   "periodic-notes",
   "obsidian-reminder-plugin",
   "breadcrumbs",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-import-json",
+  "templater-obsidian"
 ]
