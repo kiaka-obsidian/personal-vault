@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38942c583006cacc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rewards/Accordion Cleaver Anticlockwise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Beginners/Moves/Basic Manspin.md",
+                "file": "Rewards/Accordion Cleaver Anticlockwise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Beginners/Moves/Basic Manspin.md",
+                "file": "Rewards/Accordion Cleaver Anticlockwise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Beginners/Moves/Basic Manspin.md"
+                "file": "Rewards/Accordion Cleaver Anticlockwise.md"
               }
             }
           },
@@ -227,8 +239,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "9a1d922b3f496059",
+  "active": "38942c583006cacc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Ceroc/Beginners/Moves/Basic Manspin.md",
     "Rewards/Basket Nelson.md",
     "Rewards/Backhanded First.md",
     "Rewards/Almost Pretzel.md",
@@ -253,8 +267,6 @@
     "Rewards/Armroll Hook Windmill (Mambos Optional).md",
     "Untitled.md",
     "Rewards/Yoyo.md",
-    "Rewards/Wurlitzer.md",
-    "Rewards/Travelling Block Turn.md",
     "Rewards",
     "Templates",
     "Ceroc/Intermediates/Moves",
