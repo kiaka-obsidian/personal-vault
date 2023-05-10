@@ -1,36 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Int Routines",
+      "path": "Ceroc/Intermediates/Int Routines.md"
+    },
+    {
       "basename": "Accordion Cleaver Anticlockwise",
-      "path": "Rewards/Accordion Cleaver Anticlockwise.md"
+      "path": "Ceroc/Intermediates/Moves/Accordion Cleaver Anticlockwise.md"
+    },
+    {
+      "basename": "Armroll Hook Windmill (Mambos Optional)",
+      "path": "Ceroc/Intermediates/Moves/Armroll Hook Windmill (Mambos Optional).md"
+    },
+    {
+      "basename": "Comb Lean",
+      "path": "Ceroc/Intermediates/Moves/Comb Lean.md"
+    },
+    {
+      "basename": "DHR Shoulder Turnout",
+      "path": "Ceroc/Intermediates/Moves/DHR Shoulder Turnout.md"
+    },
+    {
+      "basename": "Catapult Sway Walkaround",
+      "path": "Ceroc/Intermediates/Moves/Catapult Sway Walkaround.md"
+    },
+    {
+      "basename": "Basket",
+      "path": "Ceroc/Intermediates/Moves/Basket.md"
+    },
+    {
+      "basename": "Basic Changing Places",
+      "path": "Ceroc/Intermediates/Moves/Basic Changing Places.md"
+    },
+    {
+      "basename": "Almost Pretzel",
+      "path": "Ceroc/Intermediates/Moves/Almost Pretzel.md"
     },
     {
       "basename": "Basic Manspin",
       "path": "Ceroc/Beginners/Moves/Basic Manspin.md"
     },
     {
-      "basename": "Basket Nelson",
-      "path": "Rewards/Basket Nelson.md"
-    },
-    {
-      "basename": "Backhanded First",
-      "path": "Rewards/Backhanded First.md"
-    },
-    {
-      "basename": "Almost Pretzel",
-      "path": "Rewards/Almost Pretzel.md"
-    },
-    {
       "basename": "Ceroc Move Int Import",
       "path": "Templates/Ceroc Move Int Import.md"
     },
     {
-      "basename": "TEST",
-      "path": "TEST.md"
-    },
-    {
       "basename": "Routines",
       "path": "Ceroc/Beginners/Routines.md"
+    },
+    {
+      "basename": "Hatchflick Caress",
+      "path": "Ceroc/Intermediates/Moves/Hatchflick Caress.md"
     },
     {
       "basename": "Basic Treveling Return",
@@ -43,10 +63,6 @@
     {
       "basename": "Ceroc Move Beg",
       "path": "Templates/Ceroc Move Beg.md"
-    },
-    {
-      "basename": "An Int Move goes here",
-      "path": "Ceroc/Intermediates/Moves/An Int Move goes here.md"
     },
     {
       "basename": "Placeholder",
@@ -183,18 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.canvas"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Weekly Notes/Untitled.canvas"
-    },
-    {
-      "basename": "RB 2020-07-14 10.17.47",
-      "path": "Evernote Import/RocketBook/RB 2020-07-14 10.17.47.md"
-    },
-    {
-      "basename": "Laura Rowlands",
-      "path": "Evernote Import/RocketBook/Laura Rowlands.md"
     }
   ],
   "omittedPaths": [],

@@ -4,47 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "318bfb29fe51d376",
+        "id": "4f32e29c4cef4718",
         "type": "tabs",
         "children": [
           {
-            "id": "15453b45812c0afc",
+            "id": "f3ef962b8eb7c78d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rewards/Basket Nelson.md",
+                "file": "Ceroc/Intermediates/Int Routines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e8b6fb2db0a5847",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c836e7f04f868c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Ceroc Move Int Import.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a1d922b3f496059",
+            "id": "016f957eca0324e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Beginners/Moves/Basic Manspin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38942c583006cacc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rewards/Accordion Cleaver Anticlockwise.md",
+                "file": "Ceroc/Intermediates/Moves/Comb Lean.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rewards/Accordion Cleaver Anticlockwise.md",
+                "file": "Ceroc/Intermediates/Int Routines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rewards/Accordion Cleaver Anticlockwise.md",
+                "file": "Ceroc/Intermediates/Int Routines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rewards/Accordion Cleaver Anticlockwise.md"
+                "file": "Ceroc/Intermediates/Int Routines.md"
               }
             }
           },
@@ -235,37 +241,39 @@
       "daily-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "38942c583006cacc",
+  "active": "f3ef962b8eb7c78d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Ceroc/Intermediates/Moves/Accordion Cleaver Anticlockwise.md",
+    "Ceroc/Intermediates/Int Routines.md",
+    "Ceroc/Intermediates/Moves/Armroll Hook Windmill (Mambos Optional).md",
+    "Ceroc/Intermediates/Moves/Comb Lean.md",
+    "Ceroc/Intermediates/Moves/DHR Shoulder Turnout.md",
+    "Ceroc/Intermediates/Moves/Catapult Sway Walkaround.md",
+    "Ceroc/Intermediates/Moves/Basket.md",
+    "Ceroc/Intermediates/Moves/Basic Changing Places.md",
+    "Ceroc/Intermediates/Moves/Almost Pretzel.md",
     "Ceroc/Beginners/Moves/Basic Manspin.md",
-    "Rewards/Basket Nelson.md",
-    "Rewards/Backhanded First.md",
-    "Rewards/Almost Pretzel.md",
-    "Rewards/Accordion Cleaver Anticlockwise.md",
     "Templates/Ceroc Move Int Import.md",
-    "Rewards/Wurlitzer High Hand.md",
-    "Rewards/Travelling Comb Spinout.md",
-    "Rewards/Sweetheart.md",
-    "Rewards/Sway Whip.md",
-    "Rewards/Shouldersway Lassos.md",
-    "Rewards/Shouldersway Illusion.md",
-    "Rewards/Open Neckbreak Mambo.md",
-    "Rewards/High First Seducer.md",
-    "Rewards/High First Arm Rest.md",
-    "Rewards/Hatchflick Caress.md",
-    "Rewards/First Move Walk Through.md",
-    "Rewards/Cross Step Swizzle.md",
-    "Rewards/Comb Lean.md",
-    "Rewards/Catapult Sway Walkaround.md",
-    "Rewards/Catapult Reverspin.md",
-    "Rewards/Catapult Colombian.md",
-    "Rewards/Armroll Hook Windmill (Mambos Optional).md",
-    "Untitled.md",
-    "Rewards/Yoyo.md",
+    "Ceroc/Beginners/Routines.md",
+    "Ceroc/Intermediates/Moves/{Link}.md",
+    "Ceroc/Intermediates/Moves/Hatchflick Caress.md",
+    "Ceroc/Intermediates/Moves/An Int Move goes here.md",
+    "Ceroc/Intermediates/Moves/Yoyo.md",
+    "Ceroc/Intermediates/Moves/Wurlitzer High Hand.md",
+    "Ceroc/Intermediates/Moves/Wurlitzer.md",
+    "Ceroc/Intermediates/Moves/Travelling Comb Spinout.md",
+    "Ceroc/Intermediates/Moves/Travelling Block Turn.md",
+    "Ceroc/Intermediates/Moves/Sweetheart.md",
+    "Ceroc/Intermediates/Moves/Sway Whip.md",
+    "Ceroc/Intermediates/Moves/Sway.md",
+    "Ceroc/Intermediates/Moves/Shouldersway Switch.md",
+    "Ceroc/Intermediates/Moves/Shouldersway Lassos.md",
+    "Ceroc/Intermediates/Moves/Shouldersway Illusion.md",
     "Rewards",
     "Templates",
     "Ceroc/Intermediates/Moves",
