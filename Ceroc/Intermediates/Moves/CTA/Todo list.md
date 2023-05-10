@@ -1,0 +1,34 @@
+### todo
+- [ ] photographer meet up
+	- [ ] photo example 
+- [ ] giving notice appointment
+- [ ] hotel visit
+- [ ] seating plan
+- [ ] info cards (menu, social media, run of the day)
+- [ ] make arch
+- [ ] make name cards
+- [ ] confetti holders
+- [ ] make confetti 
+- [ ] finalize James playlist 
+- [ ] choose first dance
+- [ ] choreograph first dance
+- [ ] cake
+- [ ] print table numbers
+- [ ] write setup plan
+- [ ] duck treasure hunt
+- [ ] games
+- [ ] flowers together 
+
+### To Buy
+- [ ] Chris suit
+- [ ] Chris shoes
+- [ ] Roberts suit
+- [ ] lights for candle shelf
+- [ ] paper frames 
+- [ ] welcome sign frame
+- [ ] rings
+- [ ] ?? Outside lights
+- [ ] under dress bra
+- [ ] Sarah shoes
+- [ ] gift for mark & Caz & James & Lisa
+- [ ] 
