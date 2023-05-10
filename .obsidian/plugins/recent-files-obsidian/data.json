@@ -1,112 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Ceroc Routine Int",
-      "path": "Templates/Ceroc/Ceroc Routine Int.md"
+      "basename": "Routines",
+      "path": "Ceroc/Beginners/Routines.md"
     },
     {
-      "basename": "Cross Step Swizzle",
-      "path": "Ceroc/Intermediates/Moves/CTA/Cross Step Swizzle.md"
-    },
-    {
-      "basename": "CTA Moves Index",
-      "path": "Ceroc/Intermediates/CTA Moves Index.md"
-    },
-    {
-      "basename": "Classic Moves Index",
-      "path": "Ceroc/Intermediates/Classic Moves Index.md"
-    },
-    {
-      "basename": "Accordion Cleaver Anticlockwise",
-      "path": "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md"
-    },
-    {
-      "basename": "Ceroc Move Int",
-      "path": "Templates/Ceroc/Ceroc Move Int.md"
-    },
-    {
-      "basename": "Placeholder",
-      "path": "Ceroc/Intermediates/Moves/DB/Placeholder.md"
-    },
-    {
-      "basename": "Inside First",
-      "path": "Ceroc/Intermediates/Moves/CTA/Inside First.md"
-    },
-    {
-      "basename": "Ceroc Move Int Import",
-      "path": "Templates/Ceroc/Ceroc Move Int Import.md"
-    },
-    {
-      "basename": "Ceroc Move Beg",
-      "path": "Templates/Ceroc/Ceroc Move Beg.md"
-    },
-    {
-      "basename": "Catapult",
-      "path": "Ceroc/Intermediates/Moves/CTA/Catapult.md"
-    },
-    {
-      "basename": "Armroll Hook Windmill (Mambos Optional)",
-      "path": "Ceroc/Intermediates/Moves/CTA/Armroll Hook Windmill (Mambos Optional).md"
-    },
-    {
-      "basename": "Backhanded First",
-      "path": "Ceroc/Intermediates/Moves/CTA/Backhanded First.md"
-    },
-    {
-      "basename": "Placeholder",
-      "path": "Ceroc/Intermediates/Moves/Custom/Placeholder.md"
-    },
-    {
-      "basename": "Yoyo",
-      "path": "Ceroc/Intermediates/Moves/CTA/Yoyo.md"
-    },
-    {
-      "basename": "High First Mambo",
-      "path": "Ceroc/Intermediates/Moves/CTA/High First Mambo.md"
-    },
-    {
-      "basename": "Wurlitzer",
-      "path": "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md"
-    },
-    {
-      "basename": "Comb Lean",
-      "path": "Ceroc/Intermediates/Moves/CTA/Comb Lean.md"
-    },
-    {
-      "basename": "DHR Shoulder Turnout",
-      "path": "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md"
-    },
-    {
-      "basename": "Catapult Sway Walkaround",
-      "path": "Ceroc/Intermediates/Moves/CTA/Catapult Sway Walkaround.md"
-    },
-    {
-      "basename": "Basket",
-      "path": "Ceroc/Intermediates/Moves/CTA/Basket.md"
-    },
-    {
-      "basename": "Basic Changing Places",
-      "path": "Ceroc/Intermediates/Moves/CTA/Basic Changing Places.md"
-    },
-    {
-      "basename": "Almost Pretzel",
-      "path": "Ceroc/Intermediates/Moves/CTA/Almost Pretzel.md"
+      "basename": "Basic Treveling Return",
+      "path": "Ceroc/Beginners/Moves/Basic Treveling Return.md"
     },
     {
       "basename": "Basic Manspin",
       "path": "Ceroc/Beginners/Moves/Basic Manspin.md"
     },
     {
-      "basename": "Routines",
-      "path": "Ceroc/Beginners/Routines.md"
+      "basename": "Ceroc Move Int",
+      "path": "Templates/Ceroc Move Int.md"
     },
     {
-      "basename": "Hatchflick Caress",
-      "path": "Ceroc/Intermediates/Moves/CTA/Hatchflick Caress.md"
+      "basename": "Ceroc Move Beg",
+      "path": "Templates/Ceroc Move Beg.md"
     },
     {
-      "basename": "Basic Treveling Return",
-      "path": "Ceroc/Beginners/Moves/Basic Treveling Return.md"
+      "basename": "An Int Move goes here",
+      "path": "Ceroc/Intermediates/Moves/An Int Move goes here.md"
     },
     {
       "basename": "Placeholder",
@@ -199,6 +115,90 @@
     {
       "basename": "Tasks",
       "path": "Evernote Import/Sky Sports/CDN Migration/Tasks.md"
+    },
+    {
+      "basename": "Catch up 8_10_2018",
+      "path": "Evernote Import/Sky Sports/CDN Migration/Catch up 8_10_2018.md"
+    },
+    {
+      "basename": "Active checks",
+      "path": "Evernote Import/Sky Sports/CDN Migration/Active checks.md"
+    },
+    {
+      "basename": "UK Sky Sports Replatform Scoping Session",
+      "path": "Evernote Import/Sky Sports Republic/UK Sky Sports Replatform Scoping Session.md"
+    },
+    {
+      "basename": "MMA",
+      "path": "Evernote Import/Sky Sports Republic/MMA.md"
+    },
+    {
+      "basename": "Live Blogs",
+      "path": "Evernote Import/Sky Sports Republic/Live Blogs.md"
+    },
+    {
+      "basename": "Golf Now",
+      "path": "Evernote Import/Sky Sports Republic/Golf Now.md"
+    },
+    {
+      "basename": "GDPR Data Security - NAG ME",
+      "path": "Evernote Import/Sky Sports Republic/GDPR Data Security - NAG ME.md"
+    },
+    {
+      "basename": "Diagonal View",
+      "path": "Evernote Import/Sky Sports Republic/Diagonal View.md"
+    },
+    {
+      "basename": "121 catchup etc",
+      "path": "Evernote Import/Sky Sports Republic/121 catchup etc.md"
+    },
+    {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Weekly Notes/Untitled.canvas"
+    },
+    {
+      "basename": "RB 2020-07-14 10.17.47",
+      "path": "Evernote Import/RocketBook/RB 2020-07-14 10.17.47.md"
+    },
+    {
+      "basename": "Laura Rowlands",
+      "path": "Evernote Import/RocketBook/Laura Rowlands.md"
+    },
+    {
+      "basename": "CMP V2 work",
+      "path": "Evernote Import/RocketBook/CMP V2 work.md"
+    },
+    {
+      "basename": "4-2-20 Task Lot",
+      "path": "Evernote Import/RocketBook/4-2-20 Task Lot.md"
+    },
+    {
+      "basename": "Crawler Archetecture",
+      "path": "Evernote Import/Progs/Crawler Archetecture.md"
+    },
+    {
+      "basename": "Yorkshire web",
+      "path": "Evernote Import/Personal/Yorkshire web.md"
+    },
+    {
+      "basename": "Docker initial commands",
+      "path": "Evernote Import/Daily Notes/Docker initial commands.md"
+    },
+    {
+      "basename": "image",
+      "path": "Evernote Import/Daily Notes/_resources/image.png"
+    },
+    {
+      "basename": "Daily Notes",
+      "path": "Evernote Import/Hexa/Daily Notes.md"
     }
   ],
   "omittedPaths": [],

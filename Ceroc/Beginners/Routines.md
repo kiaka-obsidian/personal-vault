@@ -1,7 +1,7 @@
 
 ```dataview
-table Beats, Return, Demo, Teach
-from #ceroc and #moves and #beginners and "Ceroc/Beginners"
+table Name, Beats, Return, Demo, Teach
+from #ceroc and #moves and #beginners and -#template 
 ```
 
 
