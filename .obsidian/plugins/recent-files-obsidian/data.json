@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Ceroc Move Int Import",
-      "path": "Templates/Ceroc Move Int Import.md"
+      "basename": "Basic Manspin",
+      "path": "Ceroc/Beginners/Moves/Basic Manspin.md"
+    },
+    {
+      "basename": "Basket Nelson",
+      "path": "Rewards/Basket Nelson.md"
+    },
+    {
+      "basename": "Backhanded First",
+      "path": "Rewards/Backhanded First.md"
+    },
+    {
+      "basename": "Almost Pretzel",
+      "path": "Rewards/Almost Pretzel.md"
     },
     {
       "basename": "Accordion Cleaver Anticlockwise",
       "path": "Rewards/Accordion Cleaver Anticlockwise.md"
+    },
+    {
+      "basename": "Ceroc Move Int Import",
+      "path": "Templates/Ceroc Move Int Import.md"
     },
     {
       "basename": "Untitled",
@@ -23,10 +39,6 @@
     {
       "basename": "Basic Treveling Return",
       "path": "Ceroc/Beginners/Moves/Basic Treveling Return.md"
-    },
-    {
-      "basename": "Basic Manspin",
-      "path": "Ceroc/Beginners/Moves/Basic Manspin.md"
     },
     {
       "basename": "Ceroc Move Int",
@@ -187,18 +199,6 @@
     {
       "basename": "Laura Rowlands",
       "path": "Evernote Import/RocketBook/Laura Rowlands.md"
-    },
-    {
-      "basename": "CMP V2 work",
-      "path": "Evernote Import/RocketBook/CMP V2 work.md"
-    },
-    {
-      "basename": "4-2-20 Task Lot",
-      "path": "Evernote Import/RocketBook/4-2-20 Task Lot.md"
-    },
-    {
-      "basename": "Crawler Archetecture",
-      "path": "Evernote Import/Progs/Crawler Archetecture.md"
     }
   ],
   "omittedPaths": [],

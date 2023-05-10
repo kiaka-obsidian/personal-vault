@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Ceroc Move Int Import.md",
+                "file": "Rewards/Basket Nelson.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Ceroc Move Int Import.md",
+                "file": "Ceroc/Beginners/Moves/Basic Manspin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Ceroc Move Int Import.md",
+                "file": "Ceroc/Beginners/Moves/Basic Manspin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Ceroc Move Int Import.md"
+                "file": "Ceroc/Beginners/Moves/Basic Manspin.md"
               }
             }
           },
@@ -226,37 +227,37 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "97d86e9c581ca681",
+  "active": "9a1d922b3f496059",
   "lastOpenFiles": [
+    "Rewards/Basket Nelson.md",
+    "Rewards/Backhanded First.md",
+    "Rewards/Almost Pretzel.md",
     "Rewards/Accordion Cleaver Anticlockwise.md",
     "Templates/Ceroc Move Int Import.md",
+    "Rewards/Wurlitzer High Hand.md",
+    "Rewards/Travelling Comb Spinout.md",
+    "Rewards/Sweetheart.md",
+    "Rewards/Sway Whip.md",
+    "Rewards/Shouldersway Lassos.md",
+    "Rewards/Shouldersway Illusion.md",
+    "Rewards/Open Neckbreak Mambo.md",
+    "Rewards/High First Seducer.md",
+    "Rewards/High First Arm Rest.md",
+    "Rewards/Hatchflick Caress.md",
+    "Rewards/First Move Walk Through.md",
+    "Rewards/Cross Step Swizzle.md",
+    "Rewards/Comb Lean.md",
+    "Rewards/Catapult Sway Walkaround.md",
+    "Rewards/Catapult Reverspin.md",
+    "Rewards/Catapult Colombian.md",
+    "Rewards/Armroll Hook Windmill (Mambos Optional).md",
     "Untitled.md",
     "Rewards/Yoyo.md",
     "Rewards/Wurlitzer.md",
     "Rewards/Travelling Block Turn.md",
-    "Rewards/Sway.md",
-    "Rewards/Shouldersway Switch.md",
-    "Rewards/Pretzel.md",
-    "Rewards/Inside First.md",
-    "Rewards/High First Mambo.md",
-    "Rewards/DHR Shoulder Turnout.md",
-    "Rewards/Catapult.md",
-    "Rewards/Basket Winder.md",
-    "Rewards/Basket.md",
-    "Rewards/Basic Changing Places.md",
-    "Rewards/Almost Pretzel.md",
     "Rewards",
-    "TEST.md",
-    "Ceroc/Beginners/Routines.md",
-    "Ceroc/Beginners/Moves/Basic Treveling Return.md",
-    "Ceroc/Beginners/Moves/Basic Manspin.md",
-    "Templates/Ceroc Move Int.md",
-    "Templates/Ceroc Move Beg.md",
-    "Ceroc/Intermediates/Moves/An Int Move goes here.md",
-    "Ceroc/Intermediates/Moves/Untitled.md",
     "Templates",
     "Ceroc/Intermediates/Moves",
-    "Ceroc/CTTA/Course/Placeholder.md",
     "Ceroc/Beginners/Moves",
     "Ceroc/CTTA/Course",
     "Ceroc/CTTA",

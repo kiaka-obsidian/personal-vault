@@ -1,5 +1,5 @@
 ---
-Name: {Move Name}
+Name: {{Move Name}}
 Type: Beginner Variation|Classic|Interdiate|Hard|Workshop
 Beats: 0
 Return: U

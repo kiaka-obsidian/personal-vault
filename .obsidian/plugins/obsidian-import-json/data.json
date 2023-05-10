@@ -5,6 +5,6 @@
   "topField": "",
   "notePrefix": "",
   "noteSuffix": "",
-  "handleExistingNote": 0,
+  "handleExistingNote": 1,
   "forceArray": true
 }
