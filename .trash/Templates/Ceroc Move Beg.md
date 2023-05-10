@@ -6,7 +6,7 @@ Demo: U
 Teach U
 ---
 
-#ceroc #moves #beginners 
+#ceroc #moves #beginners #template
 ## Notes
 
 ## Top Tips

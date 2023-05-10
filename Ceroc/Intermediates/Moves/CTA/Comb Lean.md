@@ -12,7 +12,7 @@ End Hand: Left
 
 #ceroc #moves #intermediates
 ## Notes
-Lean Health &amp; saftey Teach
+Lean Health & Safety Teach
 M: Small step, shoulders &amp; head up, Left Leg Straight
 L: Have whole weight, dont take leg up or head back - Style
 B: No gap , whole beat to prepare

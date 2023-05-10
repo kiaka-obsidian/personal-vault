@@ -13,5 +13,6 @@
   "obsidian-reminder-plugin",
   "breadcrumbs",
   "obsidian-git",
-  "obsidian-import-json"
+  "obsidian-import-json",
+  "templater-obsidian"
 ]
