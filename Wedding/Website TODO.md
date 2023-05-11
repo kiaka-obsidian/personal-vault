@@ -1,0 +1,2 @@
+- [ ] Finalise photo upload procedure
+- [ ] design UI/UX for 

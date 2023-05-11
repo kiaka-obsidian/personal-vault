@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Yoyo.md",
+                "file": "Wedding/Website TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,14 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Todo list.md",
+                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ceroc/Intermediates/Moves/CTA/Todo list.md",
+            "file": "Wedding/Website TODO.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ceroc/Intermediates/Moves/CTA/Todo list.md",
+            "file": "Wedding/Website TODO.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ceroc/Intermediates/Moves/CTA/Todo list.md"
+            "file": "Wedding/Website TODO.md"
           }
         }
       },
@@ -197,12 +197,27 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b1ed0a42f889fffb",
+  "active": "3a4625e91335d86f",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Moves/CTA/Yoyo.md",
-    "Ceroc/Intermediates/Moves/CTA/Todo list.md",
-    "Wedding",
+    "Ceroc/Beginners/Routines.md",
+    "Wedding/Website TODO.md",
+    "Ceroc/Beginners/Moves/Basic Manspin.md",
+    "Ceroc/CTTA/Course/Move Doc.md",
+    "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
+    "Ceroc/Intermediates/CTA Moves Index.md",
+    "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
+    "Ceroc/Intermediates/Moves/CTA/Armroll Hook Windmill (Mambos Optional).md",
+    "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
+    "Ceroc/Intermediates/Moves/CTA/Catapult Colombian.md",
+    "Ceroc/Intermediates/Moves/CTA/Travelling Comb Spinout.md",
+    "Ceroc/Intermediates/Routines/22-05-2023.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
+    "Ceroc/Intermediates/Moves/CTA/Yoyo.md",
+    "Templates/Ceroc/Ceroc Routine Int.md",
+    "Ceroc/Intermediates/Routines",
+    "Ceroc/Beginners/Moves/Basic Treveling Return.md",
+    "Wedding/Todo list.md",
+    "Wedding",
     "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
     "Ceroc/CTTA/CTA April.md",
     "TEST.md",
@@ -212,20 +227,6 @@
     "Daily Notes/2023-05-09.md",
     "Sky/HEXA/Feeds/d.365dm.com URLS.md",
     "Excalidraw/Drawing 2023-05-05 13.38.49.excalidraw.md",
-    "Weekly Notes/18-2023.md",
-    "Daily Notes/2023-05-07.md",
-    "Evernote Import/Sky Sports Republic/121 catchup etc.md",
-    "Evernote Import/Sky Sports/Release Archive/TO BE RELEASED.md",
-    "Evernote Import/Sky Sports/Release Archive/TBC.md",
-    "Evernote Import/Sky Sports/Release Archive/Weekly Planer • Colorful.md",
-    "Evernote Import/Sky Sports/Release Archive/05_02_2018 • Releases.md",
-    "Evernote Import/Sky Sports/Sports Web/Welcome Back.md",
-    "Evernote Import/Sky Sports/Sports Web/Release Plan.md",
-    "Evernote Import/Sky Sports/Sports Web/Squad Work Movements meeting.md",
-    "Evernote Import/Sky Sports/Sports Web/SSW Tech Debt.md",
-    "Evernote Import/Sky Sports/Sports Web/Tasks.md",
-    "Evernote Import/Sky Sports/Sports Web/thursady releases.md",
-    "Evernote Import/Sky Sports/Sports Web/Untitled Note.5.md",
     "Untitled.canvas",
     "Sky/Line Reports/James Maskery/Untitled.canvas",
     "/Sky/Line Reports/James Maskery/Untitled.canvas",
@@ -236,7 +237,6 @@
     "Sky/HEXA/Feeds",
     "Sky/Line Reports",
     "Sky/HEXA",
-    "Sky",
-    "Excalidraw"
+    "Sky"
   ]
 }
