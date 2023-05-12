@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wedding/Website TODO.md",
+                "file": "Wedding/Todo list.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wedding/Website TODO.md",
+            "file": "Wedding/Todo list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Wedding/Website TODO.md",
+            "file": "Wedding/Todo list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Wedding/Website TODO.md"
+            "file": "Wedding/Todo list.md"
           }
         }
       },
@@ -199,8 +199,8 @@
   },
   "active": "3a4625e91335d86f",
   "lastOpenFiles": [
-    "Ceroc/Beginners/Routines.md",
     "Wedding/Website TODO.md",
+    "Ceroc/Beginners/Routines.md",
     "Ceroc/Beginners/Moves/Basic Manspin.md",
     "Ceroc/CTTA/Course/Move Doc.md",
     "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
