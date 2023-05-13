@@ -11,8 +11,12 @@
             "id": "fc8675b99e6ed912",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -39,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wedding/Todo list.md",
+            "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +134,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Wedding/Todo list.md",
+            "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Wedding/Todo list.md"
+            "file": "Ceroc/Intermediates/Routines/22-05-2023.md"
           }
         }
       },
@@ -197,8 +200,14 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3a4625e91335d86f",
+  "active": "fc8675b99e6ed912",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Classic Moves Index.md",
+    "Ceroc/Intermediates/Routines/22-05-2023.md",
+    "Templates/Ceroc/Ceroc Routine Int.md",
+    "Templates/Ceroc/Ceroc Move Int Import.md",
+    "Wedding/Untitled.md",
+    "Wedding/Todo list.md",
     "Wedding/Website TODO.md",
     "Ceroc/Beginners/Routines.md",
     "Ceroc/Beginners/Moves/Basic Manspin.md",
@@ -210,13 +219,9 @@
     "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
     "Ceroc/Intermediates/Moves/CTA/Catapult Colombian.md",
     "Ceroc/Intermediates/Moves/CTA/Travelling Comb Spinout.md",
-    "Ceroc/Intermediates/Routines/22-05-2023.md",
-    "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/Yoyo.md",
-    "Templates/Ceroc/Ceroc Routine Int.md",
     "Ceroc/Intermediates/Routines",
     "Ceroc/Beginners/Moves/Basic Treveling Return.md",
-    "Wedding/Todo list.md",
     "Wedding",
     "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
     "Ceroc/CTTA/CTA April.md",
@@ -225,8 +230,6 @@
     "Weekly Notes/19-2023.md",
     "Weekly Notes/Feeds Overview.md",
     "Daily Notes/2023-05-09.md",
-    "Sky/HEXA/Feeds/d.365dm.com URLS.md",
-    "Excalidraw/Drawing 2023-05-05 13.38.49.excalidraw.md",
     "Untitled.canvas",
     "Sky/Line Reports/James Maskery/Untitled.canvas",
     "/Sky/Line Reports/James Maskery/Untitled.canvas",
