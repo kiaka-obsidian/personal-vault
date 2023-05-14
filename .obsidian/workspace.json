@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/CTTA/Course/Move Doc.md",
+                "file": "Food Shops/13-05-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/CTTA/Course/Move Doc.md",
+                "file": "Food Shops/13-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/CTTA/Course/Move Doc.md",
+                "file": "Food Shops/13-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/CTTA/Course/Move Doc.md"
+                "file": "Food Shops/13-05-23.md"
               }
             }
           },
@@ -217,11 +216,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "97d86e9c581ca681",
+  "active": "aadb7253d53154c9",
   "lastOpenFiles": [
+    "Ceroc/CTTA/Course/Move Doc.md",
+    "Food Shops/13-05-23.md",
+    "Food Shops",
     "Ceroc/CTTA/Course/attachments/Pasted image 20230514134724.png",
     "Ceroc/CTTA/Course/attachments/Adv Moves.jpeg",
-    "Ceroc/CTTA/Course/Move Doc.md",
     "Ceroc/CTTA/Course/attachments/Class Structure.jpeg",
     "Ceroc/CTTA/Course/attachments",
     "Templates/Ceroc/Ceroc Routine Int.md",
@@ -256,7 +257,6 @@
     "Ceroc/Intermediates/Moves/CTA",
     "Ceroc/Intermediates/Moves/CTA/Comb Lean.md",
     "Rewards",
-    "Ceroc/Intermediates/Moves",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.1.png",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.png",
     "Untitled.canvas",
