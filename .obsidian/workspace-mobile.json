@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wedding/Todo list.md",
-                "mode": "source",
+                "file": "Food Shops/13-05-23.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wedding/Todo list.md",
+            "file": "Food Shops/13-05-23.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Wedding/Todo list.md",
+            "file": "Food Shops/13-05-23.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -158,7 +158,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Wedding/Todo list.md"
+            "file": "Food Shops/13-05-23.md"
           }
         }
       },
@@ -214,6 +214,7 @@
   },
   "active": "fc8675b99e6ed912",
   "lastOpenFiles": [
+    "Wedding/Todo list.md",
     "Food Shops/13-05-23.md",
     "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
     "Templates/Ceroc/Ceroc Routine Int - Dev.md",
@@ -242,7 +243,6 @@
     "/Ceroc/CTTA/Course/attachments",
     "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
     "Ceroc/Intermediates/Routines/22-05-2023.md",
-    "Wedding/Todo list.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Templates/Ceroc/Ceroc Routine Int.md",
     "Templates/Ceroc/Ceroc Move Int Import.md",
