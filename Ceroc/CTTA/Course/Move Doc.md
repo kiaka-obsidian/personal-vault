@@ -423,8 +423,6 @@ Mention no leading on the arm roll
 
 ### Teaching Notes
 
-
-
 * Blocking on shoulder
 * Ladies settle into the shoulder (push the shoulder back)
 * Ladies take a small step backwards (shoulder prevents over stepping)
@@ -442,8 +440,6 @@ Mention no leading on the arm roll
 
 
 ### Core fundamentals
-
-
 
 1. Must block early
     1. Partner will over
@@ -538,7 +534,7 @@ Perfectly ok to repeat a move a few weeks later
 * People wont remember last weeks routine let alone 3 weeks later
 
 
-![[Adv Moves.jpeg]]
+![[Routine Best Practice.jpeg]]
 
 
 ### Move of the Month
