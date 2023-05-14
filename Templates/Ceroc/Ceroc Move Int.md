@@ -10,8 +10,16 @@ Start Hand: U
 End Hand: U
 ---
 
+[Video:: ]
 #ceroc #moves #intermediates
 ## Notes
+
+## Video
+<video controls>
+    <source src="" type="video/mp4">
+</video>
+
+[]()
 
 ## Top Tips
 ### Men
