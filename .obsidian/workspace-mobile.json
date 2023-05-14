@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food Shops/13-05-23.md",
-                "mode": "preview",
+                "file": "Wedding/Todo list.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Food Shops/13-05-23.md",
+            "file": "Wedding/Todo list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Food Shops/13-05-23.md",
+            "file": "Wedding/Todo list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -158,7 +158,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Food Shops/13-05-23.md"
+            "file": "Wedding/Todo list.md"
           }
         }
       },
@@ -214,6 +214,7 @@
   },
   "active": "fc8675b99e6ed912",
   "lastOpenFiles": [
+    "Food Shops/13-05-23.md",
     "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
     "Templates/Ceroc/Ceroc Routine Int - Dev.md",
     "/Ceroc/Intermediates/Routines/R4 - Draft 1.md",
@@ -229,7 +230,6 @@
     "/Ceroc/Beginners/Routines.md",
     "/Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
-    "Food Shops/13-05-23.md",
     "Ceroc/CTTA/Course/attachments/Routine Best Practice.jpeg",
     "Ceroc/CTTA/Course/attachments/Class Structure.jpeg",
     "/Food Shops/13-05-23.md",

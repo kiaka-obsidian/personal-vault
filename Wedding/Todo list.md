@@ -18,6 +18,8 @@
 - [ ] duck treasure hunt
 - [ ] games
 - [ ] flowers together 
+- [ ] dance lessons
+- [ ] teeth whitening
 
 ### To Buy
 - [ ] Chris suit
