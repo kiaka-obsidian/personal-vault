@@ -14,5 +14,6 @@
   "breadcrumbs",
   "obsidian-git",
   "obsidian-import-json",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-note-timer"
 ]
