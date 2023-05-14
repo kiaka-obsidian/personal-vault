@@ -20,6 +20,7 @@
 - [ ] flowers together 
 - [ ] dance lessons
 - [ ] teeth whitening
+- [ ] download blank template (from welcome sign)
 
 ### To Buy
 - [ ] Chris suit
