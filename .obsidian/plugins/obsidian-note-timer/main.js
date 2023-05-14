@@ -244,7 +244,10 @@ class NoteTimer extends obsidian.Plugin {
                         area = ctx.getSectionInfo(el).text;
                         logPosition = area.search("# Timer Log");
                     }
-                    yield this.addToTimerLog(stopTime, logPosition, ctx);
+                    // kiaka010 text start
+                    if(!this.isTrue(src, 'log')) {
+                        yield this.addToTimerLog(stopTime, logPosition, ctx);                        
+                    }
                     yield this.calculateTotalDuration(logPosition, ctx);
                 });
                 if (reset) {

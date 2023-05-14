@@ -1,7 +1,8 @@
 ```timer
 ms: false
+log: false
 
-_timerUID:71d5a8f0-d77a-4bd6-8d71-dfd9191e41e9
+_timerUID:3b747fc5-7fae-4e6a-92c9-02c54bdcb5f8
 ```
 
 [[Routines|Beginners Routine:]]
