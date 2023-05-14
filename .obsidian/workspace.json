@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Ceroc/Ceroc Routine Int.md",
+                "file": "Ceroc/Intermediates/Routines/22-05-2023 (2).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1136dba1d42a1897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "Ceroc/CTTA/Course/Move Doc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9233d7616423f1e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Ceroc/Ceroc Routine Int.md",
+                "file": "Ceroc/Intermediates/Routines/22-05-2023 (2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Ceroc/Ceroc Routine Int.md",
+                "file": "Ceroc/Intermediates/Routines/22-05-2023 (2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Ceroc/Ceroc Routine Int.md"
+                "file": "Ceroc/Intermediates/Routines/22-05-2023 (2).md"
               }
             }
           },
@@ -254,12 +254,13 @@
   },
   "active": "aadb7253d53154c9",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Routines/22-05-2023.md",
+    "Ceroc/Intermediates/Routines/22-05-2023 (2).md",
     "Ceroc/Beginners/Routines.md",
+    "Ceroc/CTTA/Course/Move Doc.md",
     "Templates/Ceroc/Ceroc Routine Int.md",
     "Templates/Ceroc/Ceroc Move Int Import.md",
-    "Ceroc/Intermediates/Routines/22-05-2023.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
-    "Ceroc/CTTA/Course/Move Doc.md",
     "Food Shops/13-05-23.md",
     "Food Shops",
     "Ceroc/CTTA/Course/attachments/Pasted image 20230514134724.png",
@@ -287,7 +288,6 @@
     "Ceroc/Intermediates/Moves/CTA/High First Mambo.md",
     "Templates/`= this.Move1`.md",
     "Templates",
-    "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
     "Ceroc/Intermediates/Routines",
     "Ceroc/Intermediates/Moves/Custom",
     "Ceroc/Intermediates/Moves/DB",

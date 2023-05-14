@@ -237,18 +237,21 @@ class NoteTimer extends obsidian.Plugin {
                     timeDisplay.setText('-:-:-');
                     start.disabled = false;
                     stop.disabled = true;
-                    let area = ctx.getSectionInfo(el).text;
-                    let logPosition = area.search("# Timer Log");
-                    if (logPosition <= 0) {
-                        yield this.createNewTimerLog(ctx);
-                        area = ctx.getSectionInfo(el).text;
-                        logPosition = area.search("# Timer Log");
-                    }
+                        
                     // kiaka010 text start
-                    if(!this.isTrue(src, 'log')) {
-                        yield this.addToTimerLog(stopTime, logPosition, ctx);                        
+                    if(this.isTrue(src, 'log')) {
+                        let area = ctx.getSectionInfo(el).text;
+                        let logPosition = area.search("# Timer Log");
+                        if (logPosition <= 0) {
+                            yield this.createNewTimerLog(ctx);
+                            area = ctx.getSectionInfo(el).text;
+                            logPosition = area.search("# Timer Log");
+                        }
+                    
+                        yield this.addToTimerLog(stopTime, logPosition, ctx);   
+                        yield this.calculateTotalDuration(logPosition, ctx);
+
                     }
-                    yield this.calculateTotalDuration(logPosition, ctx);
                 });
                 if (reset) {
                     reset.onclick = () => {
