@@ -6,7 +6,7 @@
       {
         "id": "14bd348829259a45",
         "type": "tabs",
-        "dimension": 70.6043956043956,
+        "dimension": 53.98351648351648,
         "children": [
           {
             "id": "1136dba1d42a1897",
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "b89571fa3694ef22",
+            "id": "3643a2a47857c27c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,36 +33,24 @@
             }
           },
           {
-            "id": "ef942c46d4ebeaac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/CTA Moves Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bd2265f9c5fd745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Ceroc/Ceroc Move Int.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c7cf3faae820b48",
+            "id": "b89571fa3694ef22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Ceroc/CTTA/Course/Move Doc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ea34966390ee35f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +62,7 @@
       {
         "id": "6116048ac1de1e3e",
         "type": "tabs",
-        "dimension": 29.395604395604394,
+        "dimension": 46.01648351648351,
         "children": [
           {
             "id": "61e12ae90df72a31",
@@ -82,19 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c71e70011b71f68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
+                "file": "Ceroc/Intermediates/CTA Moves Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,8 +88,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,21 +286,24 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b89571fa3694ef22",
+  "active": "3643a2a47857c27c",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
-    "Ceroc/Intermediates/Routines/22-05-2023 (2).md",
-    "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
+    "Ceroc/CTTA/Course/Move Doc.md",
+    "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
+    "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
+    "Ceroc/Intermediates/Routines/22-05-2023 (2).md",
+    "Ceroc/Intermediates/Classic Moves Index.md",
+    "Ceroc/Intermediates/Moves/CTA/Backhanded First.md",
+    "Ceroc/Intermediates/Moves/CTA/Comb Lean.md",
+    "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
+    "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
     "Templates/Ceroc/Ceroc Move Int.md",
     "Ceroc/Intermediates/Moves/DB/Placeholder.md",
-    "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
-    "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Routines/22-05-2023.md",
     "Ceroc/Intermediates/DB/Shoulder Spring First.md",
     "Ceroc/Intermediates/DB",
     "Ceroc/Beginners/Routines.md",
-    "Ceroc/CTTA/Course/Move Doc.md",
     "Templates/Ceroc/Ceroc Routine Int.md",
     "Templates/Ceroc/Ceroc Move Int Import.md",
     "Food Shops/13-05-23.md",
@@ -344,9 +322,6 @@
     "Ceroc/Intermediates/Moves/CTA/Inside First.md",
     "Templates/Ceroc/Ceroc Move Beg.md",
     "Ceroc/Intermediates/Moves/CTA/Catapult.md",
-    "Ceroc/Intermediates/Moves/CTA/Armroll Hook Windmill (Mambos Optional).md",
-    "Ceroc/Intermediates/Moves/CTA/Backhanded First.md",
-    "Ceroc/Intermediates/Moves/Custom/Placeholder.md",
     "Templates",
     "Ceroc/Intermediates/Routines",
     "Ceroc/Intermediates/Moves/Custom",
