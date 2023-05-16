@@ -306,16 +306,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "bf231d32e9705ee6",
   "lastOpenFiles": [
     "Templates/Ceroc/Ceroc Routine Int - Dev.md",
-    "Ceroc/Intermediates/Classic Moves Index.md",
-    "Ceroc/Intermediates/Routines/22-05-2023.md",
-    "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
     "Templates/Ceroc/Ceroc Routine Int.md",
+    "Templates/Ceroc/Ceroc Move Beg.md",
+    "Ceroc/Intermediates/Routines/22-05-2023.md",
+    "Ceroc/Intermediates/Classic Moves Index.md",
+    "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
     "Templates/Ceroc/Ceroc Move Int.md",
     "Templates/Ceroc/Ceroc Move Int Import.md",
     "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
@@ -344,7 +346,6 @@
     "Ceroc/Intermediates/Moves/CTA/Cross Step Swizzle.md",
     "Templates/Ceroc",
     "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
-    "Ceroc/Intermediates/Moves/CTA/Inside First.md",
     "Templates",
     "Ceroc/Intermediates/Routines",
     "Ceroc/Intermediates/Moves/Custom",
