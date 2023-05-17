@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "14bd348829259a45",
+        "id": "81005f4cbea0bff7",
         "type": "tabs",
-        "dimension": 53.98351648351649,
         "children": [
           {
-            "id": "1136dba1d42a1897",
+            "id": "a48237dbe112ed28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "3643a2a47857c27c",
+            "id": "fc819caa9222c023",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Ceroc/Ceroc Routine Int - Dev.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf231d32e9705ee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b89571fa3694ef22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/CTTA/Course/Move Doc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ea34966390ee35f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "6116048ac1de1e3e",
-        "type": "tabs",
-        "dimension": 46.01648351648352,
-        "children": [
-          {
-            "id": "61e12ae90df72a31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/CTA Moves Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72e4a38fc072c450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a0e93d9f158a12e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/Placeholder.md",
+                "file": "Car Insurance window claim.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
+                "file": "Car Insurance window claim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
+                "file": "Car Insurance window claim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md"
+                "file": "Car Insurance window claim.md"
               }
             }
           },
@@ -291,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,12 +224,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "bf231d32e9705ee6",
+  "active": "fc819caa9222c023",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Routines/22-05-2023.md",
+    "Car Insurance window claim.md",
     "Templates/Ceroc/Ceroc Routine Int - Dev.md",
     "Templates/Ceroc/Ceroc Routine Int.md",
     "Templates/Ceroc/Ceroc Move Beg.md",
-    "Ceroc/Intermediates/Routines/22-05-2023.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
     "Templates/Ceroc/Ceroc Move Int.md",
@@ -345,7 +260,6 @@
     "Ceroc/Intermediates/Moves/CTA/Todo list.md",
     "Ceroc/Intermediates/Moves/CTA/Cross Step Swizzle.md",
     "Templates/Ceroc",
-    "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
     "Templates",
     "Ceroc/Intermediates/Routines",
     "Ceroc/Intermediates/Moves/Custom",
