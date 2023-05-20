@@ -15,7 +15,6 @@ dv.paragraph("![[Routines#Routine " + dv.current().Routine + "]]")
 ```
 
 
-
 ---
 ### Move 1 (Beg Var)
 
