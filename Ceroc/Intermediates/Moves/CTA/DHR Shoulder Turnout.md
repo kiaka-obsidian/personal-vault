@@ -27,20 +27,6 @@ MLH to ladies L shoulder - raise MRH
 
 ## Top Tips
 
-#### Style
-Ladies turning on the spot (1 teach)
-Ladies tension in arm for turn out
-
-#### Shape & Feel
-
-
-#### Safety
-Turning &amp; being close to partner
-Arm around ladies
-
-#### Timing
-Prepare on its own beat
-
 ### Men
 
 ### Ladies
@@ -49,6 +35,7 @@ Prepare on its own beat
 ### Men
 - Be Careful of the arm around the Ladies
 - Turning & being close to partner
+- Prepare on its own Beat
 ### Ladies
 
 
@@ -56,5 +43,6 @@ Prepare on its own beat
 ### Men
 
 ### Ladies
-- maintain arm tension on spin out ()
+- maintain arm tension on spin out (1 teach)
+- ladies tension in arm for turnout
 
