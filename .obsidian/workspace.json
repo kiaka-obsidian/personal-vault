@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "fc819caa9222c023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a73f56735c5f650f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
+                "file": "Ceroc/Beginners/Routines.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
+                "file": "Ceroc/Beginners/Routines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
+                "file": "Ceroc/Beginners/Routines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md"
+                "file": "Ceroc/Beginners/Routines.md"
               }
             }
           },
@@ -256,15 +243,18 @@
   },
   "active": "a73f56735c5f650f",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
+    "Ceroc/Beginners/Moves/Shoulderspring.md",
+    "Ceroc/Beginners/Routines.md",
     "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
-    "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
+    "Ceroc/Beginners/Moves/Basic Manspin.md",
     "Ceroc/Intermediates/Routines/22-05-2023.md",
+    "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
+    "Ceroc/Intermediates/Moves/DB/Shoulderspring First.md",
+    "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
     "Ceroc/Intermediates/Moves/CTA/context.mdb",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Context/spacesLastSync.log",
     "Context",
-    "Ceroc/Beginners/Routines.md",
     "Car Insurance window claim.md",
     "Ceroc/Intermediates/Routines/Untitled.md",
     "Templates/Ceroc/Ceroc Routine Int - Dev.md",
@@ -274,7 +264,6 @@
     "Templates/Ceroc/Ceroc Move Int Import.md",
     "Ceroc/CTTA/Course/Move Doc.md",
     "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
-    "Ceroc/Beginners/Moves/Basic Manspin.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/Backhanded First.md",
     "Ceroc/Intermediates/Moves/CTA/Comb Lean.md",
@@ -289,7 +278,6 @@
     "Ceroc/CTTA/Course/attachments/Class Structure.jpeg",
     "Ceroc/CTTA/Course/attachments",
     "Wedding/Website TODO.md",
-    "Wedding/Todo list.md",
     "Wedding",
     "Templates/Ceroc",
     "Templates",

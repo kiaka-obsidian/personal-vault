@@ -25,7 +25,7 @@ from #ceroc and #moves and #beginners and "Ceroc/Beginners"
 
 ### Routine 4
 - [[Basic Manspin]]
-- Shoulderspring 
+- [[Shoulderspring]] 
 - Slingshot
 
 ### Routine 5
