@@ -15,5 +15,6 @@
   "obsidian-git",
   "obsidian-import-json",
   "templater-obsidian",
-  "obsidian-note-timer"
+  "obsidian-note-timer",
+  "make-md"
 ]

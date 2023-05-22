@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
-                "mode": "preview",
+                "file": "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -81,6 +81,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "e73e920d172019c0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -104,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
+                "file": "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
+                "file": "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md"
+                "file": "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md"
               }
             }
           },
@@ -228,11 +236,13 @@
   },
   "active": "fc819caa9222c023",
   "lastOpenFiles": [
+    "Context/spacesLastSync.log",
+    "Context",
+    "Ceroc/Intermediates/Routines/22-05-2023.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Beginners/Routines.md",
     "Car Insurance window claim.md",
     "Ceroc/Intermediates/Routines/Untitled.md",
-    "Ceroc/Intermediates/Routines/22-05-2023.md",
     "Templates/Ceroc/Ceroc Routine Int - Dev.md",
     "Templates/Ceroc/Ceroc Routine Int.md",
     "Templates/Ceroc/Ceroc Move Beg.md",
@@ -260,13 +270,11 @@
     "Wedding/Website TODO.md",
     "Wedding/Todo list.md",
     "Wedding",
-    "Ceroc/Intermediates/Moves/CTA/Todo list.md",
     "Templates/Ceroc",
     "Templates",
     "Ceroc/Intermediates/Routines",
     "Ceroc/Intermediates/Moves/Custom",
     "Ceroc/Intermediates/Moves/DB",
-    "Ceroc/Intermediates/Moves/CTA",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.1.png",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.png",
     "Untitled.canvas",
