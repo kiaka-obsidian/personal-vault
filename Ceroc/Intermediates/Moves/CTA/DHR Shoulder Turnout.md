@@ -3,7 +3,7 @@ Name: DHR Shoulder Turnout
 Type: Classic
 Difficulty: Easy
 Beats: 7
-Return: N
+Return: true
 Demo: R
 Teach: L
 Start Hand: Left
