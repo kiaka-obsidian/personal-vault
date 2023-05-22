@@ -25,18 +25,6 @@ Starts with traveling shouldersway
 
 ## Top Tips
 
-#### Style
-
-
-#### Shape & Feel
-
-
-#### Safety
-Ladies Arms!!!
-
-#### Timing
-Dont push into sweetheart too soon
-
 ### Men
 
 ### Ladies
@@ -52,6 +40,7 @@ Dont push into sweetheart too soon
 ## Style & Flow
 ### Men
 - No hard blocks into sweet hart
+- dont push into sweethart too soon
 ### Ladies
 
 

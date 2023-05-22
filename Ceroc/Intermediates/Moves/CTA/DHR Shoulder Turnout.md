@@ -56,5 +56,5 @@ Prepare on its own beat
 ### Men
 
 ### Ladies
-
+- maintain arm tension on spin out ()
 
