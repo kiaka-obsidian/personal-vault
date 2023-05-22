@@ -11,8 +11,24 @@
             "id": "a48237dbe112ed28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23b262c8c660cd05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,14 +96,6 @@
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "e73e920d172019c0",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -112,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
+                "file": "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
+                "file": "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md"
+                "file": "Ceroc/Intermediates/Moves/CTA/Sweetheart.md"
               }
             }
           },
@@ -234,24 +241,25 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "fc819caa9222c023",
+  "active": "a48237dbe112ed28",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Routines/22-05-2023.md",
+    "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
+    "Ceroc/Intermediates/Moves/CTA/context.mdb",
+    "Ceroc/Intermediates/Classic Moves Index.md",
+    "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
     "Context/spacesLastSync.log",
     "Context",
-    "Ceroc/Intermediates/Routines/22-05-2023.md",
-    "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Beginners/Routines.md",
     "Car Insurance window claim.md",
     "Ceroc/Intermediates/Routines/Untitled.md",
     "Templates/Ceroc/Ceroc Routine Int - Dev.md",
     "Templates/Ceroc/Ceroc Routine Int.md",
     "Templates/Ceroc/Ceroc Move Beg.md",
-    "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
     "Templates/Ceroc/Ceroc Move Int.md",
     "Templates/Ceroc/Ceroc Move Int Import.md",
     "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
     "Ceroc/CTTA/Course/Move Doc.md",
-    "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
     "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
     "Ceroc/Beginners/Moves/Basic Manspin.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
@@ -273,8 +281,6 @@
     "Templates/Ceroc",
     "Templates",
     "Ceroc/Intermediates/Routines",
-    "Ceroc/Intermediates/Moves/Custom",
-    "Ceroc/Intermediates/Moves/DB",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.1.png",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.png",
     "Untitled.canvas",

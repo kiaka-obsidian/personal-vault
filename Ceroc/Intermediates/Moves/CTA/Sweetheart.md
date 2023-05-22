@@ -43,14 +43,15 @@ Dont push into sweetheart too soon
 
 ## Safety & Technique
 ### Men
-
+- Dont pull back on the arms
+	- A little pressure is all that is needed
 ### Ladies
+- Be careful of arms
+	- Keep them to the sides, not far back
 
 ## Style & Flow
-
-
 ### Men
-
+- No hard blocks into sweet hart
 ### Ladies
 
 

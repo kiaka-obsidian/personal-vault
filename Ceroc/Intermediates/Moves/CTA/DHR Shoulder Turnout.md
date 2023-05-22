@@ -47,12 +47,12 @@ Prepare on its own beat
 
 ## Safety & Technique
 ### Men
-
+- Be Careful of the arm around the Ladies
+- Turning & being close to partner
 ### Ladies
 
+
 ## Style & Flow
-
-
 ### Men
 
 ### Ladies
