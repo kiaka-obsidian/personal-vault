@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Car Insurance window claim.md",
-                "mode": "source",
+                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Car Insurance window claim.md",
+                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Car Insurance window claim.md",
+                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Car Insurance window claim.md"
+                "file": "Ceroc/Intermediates/Routines/22-05-2023.md"
               }
             }
           },
@@ -206,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,19 +228,20 @@
   },
   "active": "fc819caa9222c023",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Routines/22-05-2023.md",
+    "Ceroc/Intermediates/Classic Moves Index.md",
+    "Ceroc/Beginners/Routines.md",
     "Car Insurance window claim.md",
+    "Ceroc/Intermediates/Routines/Untitled.md",
+    "Ceroc/Intermediates/Routines/22-05-2023.md",
     "Templates/Ceroc/Ceroc Routine Int - Dev.md",
     "Templates/Ceroc/Ceroc Routine Int.md",
     "Templates/Ceroc/Ceroc Move Beg.md",
-    "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
     "Templates/Ceroc/Ceroc Move Int.md",
     "Templates/Ceroc/Ceroc Move Int Import.md",
     "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
     "Ceroc/CTTA/Course/Move Doc.md",
     "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
-    "Ceroc/Beginners/Routines.md",
     "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
     "Ceroc/Beginners/Moves/Basic Manspin.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
@@ -258,7 +261,6 @@
     "Wedding/Todo list.md",
     "Wedding",
     "Ceroc/Intermediates/Moves/CTA/Todo list.md",
-    "Ceroc/Intermediates/Moves/CTA/Cross Step Swizzle.md",
     "Templates/Ceroc",
     "Templates",
     "Ceroc/Intermediates/Routines",
