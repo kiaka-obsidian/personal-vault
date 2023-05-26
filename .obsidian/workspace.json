@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
-                "mode": "preview",
+                "file": "Templates/Ceroc/Ceroc Routine Int Import.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4d8d3af15e8d4eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Ceroc/Ceroc Routine Int Import.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "80862b9d95a7c405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Ceroc/Ceroc Routine Int - Dev.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
+                "file": "Templates/Ceroc/Ceroc Routine Int Import.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
+                "file": "Templates/Ceroc/Ceroc Routine Int Import.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/R4 - Draft 1.md"
+                "file": "Templates/Ceroc/Ceroc Routine Int Import.md"
               }
             }
           },
@@ -237,13 +261,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a73f56735c5f650f",
+  "active": "4d8d3af15e8d4eb8",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Routines/Untitled.md",
+    "Templates/Ceroc/Ceroc Routine Int - Dev.md",
+    "Templates/Ceroc/Ceroc Routine Int Import.md",
+    "Templates/Ceroc/Ceroc Routine Int.md",
     "Ceroc/Intermediates/Routines/22-05-2023.md",
+    "Templates/Ceroc/Ceroc Move Int Import.md",
+    "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
+    "Ceroc/Intermediates/Routines/Jeff Import",
+    "Ceroc/Intermediates/Routines/Untitled.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
     "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
@@ -256,13 +287,9 @@
     "Context/spacesLastSync.log",
     "Context",
     "Car Insurance window claim.md",
-    "Templates/Ceroc/Ceroc Routine Int - Dev.md",
-    "Templates/Ceroc/Ceroc Routine Int.md",
     "Templates/Ceroc/Ceroc Move Beg.md",
     "Templates/Ceroc/Ceroc Move Int.md",
-    "Templates/Ceroc/Ceroc Move Int Import.md",
     "Ceroc/CTTA/Course/Move Doc.md",
-    "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/Backhanded First.md",
     "Ceroc/Intermediates/Moves/CTA/Comb Lean.md",
@@ -276,11 +303,9 @@
     "Ceroc/CTTA/Course/attachments/Routine Best Practice.jpeg",
     "Ceroc/CTTA/Course/attachments/Class Structure.jpeg",
     "Ceroc/CTTA/Course/attachments",
-    "Wedding/Website TODO.md",
     "Wedding",
     "Templates/Ceroc",
     "Templates",
-    "Ceroc/Intermediates/Routines",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.1.png",
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.png",
     "Untitled.canvas",
