@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md",
-                "mode": "source",
+                "file": "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md",
+                "file": "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md",
+                "file": "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Beginners/Routines.md"
+                "file": "Ceroc/Intermediates/Routines/R4 - Draft 1.md"
               }
             }
           },
@@ -237,26 +237,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open this week": false
     }
   },
   "active": "a73f56735c5f650f",
   "lastOpenFiles": [
-    "Ceroc/Beginners/Moves/Shoulderspring.md",
-    "Ceroc/Beginners/Routines.md",
-    "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
-    "Ceroc/Beginners/Moves/Basic Manspin.md",
+    "Ceroc/Intermediates/Routines/Untitled.md",
     "Ceroc/Intermediates/Routines/22-05-2023.md",
+    "Ceroc/Intermediates/Classic Moves Index.md",
+    "Ceroc/Intermediates/Moves/CTA/DHR Shoulder Turnout.md",
+    "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
+    "Ceroc/Beginners/Routines.md",
+    "Ceroc/Beginners/Moves/Shoulderspring.md",
+    "Ceroc/Beginners/Moves/Basic Manspin.md",
     "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
     "Ceroc/Intermediates/Moves/DB/Shoulderspring First.md",
-    "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
     "Ceroc/Intermediates/Moves/CTA/context.mdb",
-    "Ceroc/Intermediates/Classic Moves Index.md",
     "Context/spacesLastSync.log",
     "Context",
     "Car Insurance window claim.md",
-    "Ceroc/Intermediates/Routines/Untitled.md",
     "Templates/Ceroc/Ceroc Routine Int - Dev.md",
     "Templates/Ceroc/Ceroc Routine Int.md",
     "Templates/Ceroc/Ceroc Move Beg.md",
