@@ -23,6 +23,7 @@ Explain on completing switch to bring left foot to right (only works if men of s
     <source src="https://www.network.ceroc.com/Teachers/DanceMoves/CurrentLibrary/Video/16ShoulderswaySwitch.mp4" type="video/mp4">
     
 </video>
+
 [https://www.network.ceroc.com/Teachers/DanceMoves/CurrentLibrary/Video/16ShoulderswaySwitch.mp4](https://www.network.ceroc.com/Teachers/DanceMoves/CurrentLibrary/Video/16ShoulderswaySwitch.mp4)
 
 
