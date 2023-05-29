@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wedding/Todo list.md",
+                "file": "Ceroc/Intermediates/Classic Moves Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wedding/Todo list.md",
+            "file": "Ceroc/Intermediates/Classic Moves Index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Wedding/Todo list.md",
+            "file": "Ceroc/Intermediates/Classic Moves Index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -158,7 +158,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Wedding/Todo list.md"
+            "file": "Ceroc/Intermediates/Classic Moves Index.md"
           }
         }
       },
@@ -212,14 +212,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "fc8675b99e6ed912",
+  "active": "b599b53f39d444dd",
   "lastOpenFiles": [
+    "Wedding/Rsvp notes.md",
+    "Ceroc/Intermediates/Classic Moves Index.md",
+    "Wedding/Todo list.md",
     "Home/CCTV/Home CCTV setup.md",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
     "Home/CCTV/attachments/Home CCTV setup.md",
     "Home/CCTV/attachments/PXL_20230529_125546842~2.jpg",
     "Home/CCTV/attachments",
-    "Ceroc/Intermediates/Classic Moves Index.md",
     "Home/CCTV",
     "Ceroc/Intermediates/Routines/05-06-2023.md",
     "Home",
@@ -236,7 +238,6 @@
     "Ceroc/Beginners/Routines.md",
     "Car Insurance window claim.md",
     "/Car Insurance window claim.md",
-    "Wedding/Todo list.md",
     "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
     "/Ceroc/Intermediates/Routines/R4 - Draft 1.md",
     "/Templates/Ceroc/Ceroc Routine Int.md",
