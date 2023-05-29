@@ -15,7 +15,7 @@
 - [ ] cake
 - [ ] print table numbers
 - [ ] write setup plan
-- [ ] duck treasure hunt
+- [ ] duck treasure hunt -bronze that I already have
 - [ ] games
 - [ ] flowers together 
 - [ ] dance lessons

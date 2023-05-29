@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/CCTV/Home CCTV setup.md",
-                "mode": "preview",
+                "file": "Wedding/Todo list.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home/CCTV/Home CCTV setup.md",
+            "file": "Wedding/Todo list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Home/CCTV/Home CCTV setup.md",
+            "file": "Wedding/Todo list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -158,7 +158,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home/CCTV/Home CCTV setup.md"
+            "file": "Wedding/Todo list.md"
           }
         }
       },
@@ -214,8 +214,8 @@
   },
   "active": "fc8675b99e6ed912",
   "lastOpenFiles": [
-    "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
     "Home/CCTV/Home CCTV setup.md",
+    "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
     "Home/CCTV/attachments/Home CCTV setup.md",
     "Home/CCTV/attachments/PXL_20230529_125546842~2.jpg",
     "Home/CCTV/attachments",
