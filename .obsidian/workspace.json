@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/05-06-2023.md",
+                "file": "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/05-06-2023.md",
+                "file": "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/05-06-2023.md"
+                "file": "Ceroc/Intermediates/Moves/CTA/Sweetheart.md"
               }
             }
           },
@@ -259,8 +259,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open this week": false
     }
   },
   "active": "a376b0bae0c330fa",
