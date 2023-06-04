@@ -17,7 +17,14 @@ dv.paragraph("![[Routines#Routine " + dv.current().Routine + "]]")
 ---
 ### Move 1 (Beg Var)
 [Move1:: Cradle Barrier Limbo]
+
 ```dataviewjs
+dv.el(
+	'video'
+	dv.el('source'),
+	[]
+)
+dv.el('video')
 dv.paragraph("[[" + dv.current().Move1 + "]]")
 
 dv.paragraph("![[" + dv.current().Move1 + "#Video]]")
