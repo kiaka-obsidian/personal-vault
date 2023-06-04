@@ -6,7 +6,6 @@ Beats: 11
 Return: Y
 Demo: R
 Teach: L
-Start Hand: R
 End Hand: L
 ---
 

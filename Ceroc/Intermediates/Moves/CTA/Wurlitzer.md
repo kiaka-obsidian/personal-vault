@@ -21,6 +21,7 @@ Men prepare the ladies by leading the ladies forward and right hand slightly to 
     <source src="https://www.network.ceroc.com/Teachers/DanceMoves/CurrentLibrary/Video/16Wurlitzer.mp4" type="video/mp4">
     
 </video>
+
 [https://www.network.ceroc.com/Teachers/DanceMoves/CurrentLibrary/Video/16Wurlitzer.mp4](https://www.network.ceroc.com/Teachers/DanceMoves/CurrentLibrary/Video/16Wurlitzer.mp4)
 
 
