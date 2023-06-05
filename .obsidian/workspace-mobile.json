@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
-                "mode": "source",
+                "file": "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
+            "file": "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
+            "file": "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ceroc/Intermediates/Moves/CTA/Sway Whip.md"
+            "file": "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md"
           }
         }
       },
@@ -201,10 +200,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b599b53f39d444dd",
+  "active": "8793abb2cbc83253",
   "lastOpenFiles": [
-    "Ceroc/Template play/Untitled.md",
     "Ceroc/Intermediates/Routines/05-06-2023 v3 (Final).md",
+    "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
+    "Ceroc/Intermediates/Routines/Untitled.md",
+    "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
+    "Ceroc/Template play/Untitled.md",
     "Ceroc/Intermediates/Moves/DB/Dervish.md",
     "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
     "/Ceroc/Template play/Untitled.md",
@@ -225,13 +227,10 @@
     "Ceroc/Intermediates/Routines/22-05-2023.md",
     "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
     "Ceroc/Intermediates/Routines/05-06-2023.md",
-    "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
     "Ceroc/Intermediates/Routines/IDEAS/Thoughts.md",
     "Ceroc/Intermediates/Routines/05-06-2023 v2.md",
     "Ceroc/Intermediates/Routines/IDEAS",
     "Ceroc/Intermediates/Classic Moves Index.md",
-    "Ceroc/Intermediates/Move of The Month.md",
-    "Wedding/Rsvp notes.md",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
     "Home/CCTV/attachments/PXL_20230529_125546842~2.jpg",
     "Home/CCTV/attachments",
