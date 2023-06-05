@@ -35,25 +35,18 @@ dv.el(
 		),
 	{attr: {controls:""}}
 )
-dv.paragraph(`
-
---- start-column ---
-
-Text displayed in column 1.
-
---- end-column ---
-
-Text displayed in column 2.
-
---- end-multi-column
-
-`);
 //dv.paragraph("![[" + dv.current().Move1 + "#Video]]")
 dv.paragraph("Beats: " + dv.page(dv.current().Move1).Beats)
 ```
 
+### Top Tips
+```multi-column-start
+```
 
-Text displayed in column 1.
+```dataviewjs
+let MoveFile = dv.page(dv.current().Move1)
+dv.paragraph(MoveFile.safety-technique)
+```
 
 --- end-column ---
 
