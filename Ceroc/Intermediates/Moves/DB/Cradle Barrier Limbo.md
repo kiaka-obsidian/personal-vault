@@ -34,6 +34,7 @@ Start Like Beginners Cradle
 ## Safety & Technique
 ### Men
 - Pushing & Pulling on the hip block
+- limbo. Wrist not hand
 
 ### Ladies
 - 
