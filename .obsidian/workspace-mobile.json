@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
+                "file": "Ceroc/Intermediates/Classic Moves Index.md",
                 "mode": "preview",
                 "source": true
               }
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
+            "file": "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ceroc/Intermediates/Routines/22-05-2023.md",
+            "file": "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ceroc/Intermediates/Routines/22-05-2023.md"
+            "file": "Ceroc/Intermediates/Moves/CTA/Sway Whip.md"
           }
         }
       },
@@ -201,10 +201,29 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b1ed0a42f889fffb",
+  "active": "b599b53f39d444dd",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
+    "Ceroc/Template play/Untitled.md",
+    "Ceroc/Intermediates/Routines/05-06-2023 v3 (Final).md",
+    "Ceroc/Intermediates/Moves/DB/Dervish.md",
+    "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
+    "/Ceroc/Template play/Untitled.md",
+    "/Ceroc/Intermediates/Routines/22-05-2023.md",
+    "/Ceroc/Intermediates/Routines/05-06-2023.md",
+    "/Ceroc/Intermediates/Routines/05-06-2023 v3 (Final).md",
+    "/Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
+    "/Ceroc/Intermediates/Moves/DB/Dervish.md",
+    "/Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
+    "/Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
+    "Ceroc/Intermediates/Moves/CTA/CTA.md",
+    "/Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
+    "/Ceroc/Intermediates/Move of The Month.md",
+    "/Ceroc/Intermediates/Classic Moves Index.md",
+    "/Ceroc/Intermediates/Moves/CTA/CTA.md",
+    "Ceroc/Template play",
+    "/Ceroc/Template play",
     "Ceroc/Intermediates/Routines/22-05-2023.md",
+    "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
     "Ceroc/Intermediates/Routines/05-06-2023.md",
     "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
     "Ceroc/Intermediates/Routines/IDEAS/Thoughts.md",
@@ -213,28 +232,11 @@
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Move of The Month.md",
     "Wedding/Rsvp notes.md",
-    "Wedding/Todo list.md",
-    "Home/CCTV/Home CCTV setup.md",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
-    "Home/CCTV/attachments/Home CCTV setup.md",
     "Home/CCTV/attachments/PXL_20230529_125546842~2.jpg",
     "Home/CCTV/attachments",
     "Home/CCTV",
     "Home",
-    "/Templates/Ceroc/Ceroc Routine Int - Dev.md",
-    "/Ceroc/Intermediates/Routines/05-06-2023.md",
-    "/Ceroc/Intermediates/Moves/CTA/Shouldersway Switch.md",
-    "/Ceroc/Intermediates/Moves/CTA/Open Neckbreak Mambo.md",
-    "/Ceroc/Intermediates/Moves/CTA/Catapult Reverspin.md",
-    "Food Shops/13-05-23.md",
-    "Ceroc/Intermediates/Routines/Untitled.md",
-    "Templates/Ceroc/Ceroc Routine Int.md",
-    "Templates/Ceroc/Ceroc Routine Int - Dev.md",
-    "Ceroc/Beginners/Routines.md",
-    "Car Insurance window claim.md",
-    "/Car Insurance window claim.md",
-    "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
-    "/Ceroc/Intermediates/Routines/R4 - Draft 1.md",
     "Ceroc/CTTA/Course/attachments/Routine Best Practice.jpeg",
     "Ceroc/CTTA/Course/attachments/Class Structure.jpeg",
     "/Ceroc/CTTA/Course/attachments/Routine Best Practice.jpeg",
@@ -243,8 +245,6 @@
     "Ceroc/CTTA/Course/attachments",
     "/Food Shops",
     "/Ceroc/CTTA/Course/attachments",
-    "Ceroc/Intermediates/Routines",
-    "Wedding",
     "Untitled.canvas",
     "Sky/Line Reports/James Maskery/Untitled.canvas",
     "/Sky/Line Reports/James Maskery/Untitled.canvas"
