@@ -16,5 +16,6 @@
   "obsidian-import-json",
   "templater-obsidian",
   "obsidian-note-timer",
-  "make-md"
+  "make-md",
+  "multi-column-markdown"
 ]

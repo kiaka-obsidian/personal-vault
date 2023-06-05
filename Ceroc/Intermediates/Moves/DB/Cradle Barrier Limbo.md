@@ -3,14 +3,14 @@ Name: Cradle Barrier Limbo
 Type: Int
 Difficulty: Beg Var
 Beats: 9
-Return: Y
-Demo: U
-Teach: U
+Return: Yes
+Demo: Right
+Teach: Left
 Start Hand: Left
 End Hand: Right
 ---
 
-[Video:: ]
+[Video:: https://www.network.ceroc.com/Teachers/DanceMoves/CurrentLibrary/Video/16CradleBarrierLimbo.mp4]
 #ceroc #moves #intermediates
 ## Notes
 

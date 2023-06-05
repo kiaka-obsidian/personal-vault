@@ -27,7 +27,7 @@
               "state": {
                 "file": "Ceroc/Template play/Untitled.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ceroc/Intermediates/Routines/05-06-2023 v3 (Final).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -51,18 +51,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b660d5d1b299478",
+            "id": "9b576fbc2bfa2e63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
+          },
+          {
+            "id": "4b660d5d1b299478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bae3a476571c14db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab533bf89516cce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Template play/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba1c649d2afa2f30",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,15 +304,15 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "9b011d05074a1fc2",
+  "active": "ab533bf89516cce9",
   "lastOpenFiles": [
     "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
     "Ceroc/Template play/Untitled.md",
-    "Ceroc/Intermediates/Routines/05-06-2023 v3 (Final).md",
-    "Ceroc/Template play",
-    "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
-    "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
+    "Ceroc/Intermediates/Routines/05-06-2023 v3 (Final).md",
+    "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
+    "Ceroc/Template play",
+    "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/Inside First.md",
     "Ceroc/Intermediates/Routines/22-05-2023.md",
     "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
