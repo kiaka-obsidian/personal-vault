@@ -4,52 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "81005f4cbea0bff7",
+        "id": "b9a81084107137ba",
         "type": "tabs",
         "children": [
           {
-            "id": "5e45382552ad5426",
+            "id": "28970cbcfaadc0e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b011d05074a1fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Template play/Untitled.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f4a81b47bd24a610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Routines/05-06-2023 v3 (Final).md",
+                "file": "Ceroc/Beginners/Routines.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "149043307830d641",
+            "id": "fa21f99002699ddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
+                "file": "Ceroc/Intermediates/Routines/26-06-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "220d148a400ef5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Template play/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "d2b0a77f940e447e"
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c9a6915773c99792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "553783692306eec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Template play/Untitled.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "d2b0a77f940e447e"
+          },
+          {
+            "id": "de6066adcf4dfa58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,81 +78,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "b9a81084107137ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9b576fbc2bfa2e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b660d5d1b299478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bae3a476571c14db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab533bf89516cce9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Template play/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28970cbcfaadc0e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wedding/rings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba1c649d2afa2f30",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -189,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -206,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wedding/rings.md",
+                "file": "Ceroc/Template play/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wedding/rings.md",
+                "file": "Ceroc/Template play/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wedding/rings.md"
+                "file": "Ceroc/Template play/Untitled.md"
               }
             }
           },
@@ -323,17 +270,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "28970cbcfaadc0e5",
+  "active": "220d148a400ef5a0",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
+    "Ceroc/Template play/Untitled.md",
+    "Ceroc/Intermediates/Routines/26-06-2023.md",
+    "Ceroc/Beginners/Routines.md",
     "Wedding/rings.md",
+    "Wedding/Honeymoon .md",
     "Home/Sarah Meds.md",
     "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
     "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
-    "Ceroc/Template play/Untitled.md",
-    "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
     "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
     "Ceroc/Intermediates/Routines/05-06-2023 v3 (Final).md",
     "Ceroc/Template play",
@@ -351,14 +302,11 @@
     "Ceroc/Intermediates/Moves/CTA/context.mdb",
     "Ceroc/Intermediates/Routines/05-06-2023.md",
     "Ceroc/Intermediates/Move of The Month.md",
-    "Ceroc/Beginners/Routines.md",
     "Ceroc/Intermediates/Moves/CTA/Sweetheart.md",
     "Wedding/Rsvp notes.md",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
     "Home/CCTV/attachments/PXL_20230529_125546842~2.jpg",
-    "Home/CCTV/attachments/Home CCTV setup.md",
     "Home/CCTV/attachments",
-    "Home/CCTV/Home CCTV setup.md",
     "Home/CCTV",
     "Home",
     "Ceroc/Intermediates/Routines/Jeff Import",

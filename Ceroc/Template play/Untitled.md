@@ -35,10 +35,13 @@ dv.el(
 		),
 	{attr: {controls:""}}
 )
-//dv.paragraph("![[" + dv.current().Move1 + "#Video]]")
-dv.paragraph("Beats: " + dv.page(dv.current().Move1).Beats)
-```
 
+dv.paragraph("**Beats:** " + MoveFile.Beats)
+dv.paragraph("**Type:** " + MoveFile.Type)
+dv.paragraph("**Di:** " + MoveFile.Beats)
+
+```
+1
 ### Top Tips
 ```multi-column-start
 ```
