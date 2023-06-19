@@ -39,10 +39,10 @@
               "state": {
                 "file": "Ceroc/Template play/Untitled.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             },
-            "group": "d2b0a77f940e447e"
+            "group": "87abe82256bab315"
           }
         ],
         "currentTab": 2
@@ -52,17 +52,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "553783692306eec0",
+            "id": "3d1d15f3dfbd2748",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Ceroc/Template play/Untitled.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             },
-            "group": "d2b0a77f940e447e"
+            "group": "87abe82256bab315"
           },
           {
             "id": "de6066adcf4dfa58",
@@ -76,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,17 +273,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "220d148a400ef5a0",
+  "active": "3d1d15f3dfbd2748",
   "lastOpenFiles": [
     "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
     "Ceroc/Template play/Untitled.md",
+    "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
     "Ceroc/Intermediates/Routines/26-06-2023.md",
     "Ceroc/Beginners/Routines.md",
     "Wedding/rings.md",
     "Wedding/Honeymoon .md",
     "Home/Sarah Meds.md",
     "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
-    "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
     "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
     "Ceroc/Intermediates/Routines/05-06-2023 v3 (Final).md",
     "Ceroc/Template play",

@@ -38,28 +38,41 @@ dv.el(
 
 dv.paragraph("**Beats:** " + MoveFile.Beats)
 dv.paragraph("**Type:** " + MoveFile.Type)
-dv.paragraph("**Di:** " + MoveFile.Beats)
+dv.paragraph("**Difficulty:** " + MoveFile.Difficulty)
+dv.paragraph("**Return:** " + MoveFile.Return)
+dv.paragraph("**Demo:** " + MoveFile.Demo)
+dv.paragraph("**Teach:** " + MoveFile.Teach)
+dv.paragraph("**Start Hand:** " + MoveFile['Start Hand'])
+dv.paragraph("**End Hand:** " + MoveFile['End Hand'])
 
 ```
-1
-### Top Tips
+
+
 ```multi-column-start
+ID: Move1
+number of columns: 4
 ```
 
-```dataviewjs
-let MoveFile = dv.page(dv.current().Move1)
-dv.paragraph(MoveFile.safety-technique)
-```
+Column 1
 
 --- end-column ---
 
-Text displayed in column 2.
+Column 2
+
+--- end-column ---
+
+Column 3
+
+--- end-column ---
+
+Column 4
 
 --- end-multi-column
-Start L
-End R
+
+
 
 ---
+
 ### Move 2 ([[Classic Moves Index|Classic]])
 
 [Move2:: Accordion Cleaver Anticlockwise]
