@@ -8,6 +8,7 @@ Demo: R
 Teach: L
 Start Hand: Right
 End Hand: Left
+Video: https://www.network.ceroc.com/Teachers/DanceMoves/CurrentLibrary/Video/16AccordionCleaverAnticlockwise.mp4
 ---
 
 #ceroc #moves #intermediates

@@ -21,7 +21,7 @@ dv.paragraph("![[Routines#Routine " + dv.current().Routine + "]]")
 
 let MoveFile = dv.page(dv.current().Move1)
 
-dv.paragraph("[[" + MoveFile.file.name + "]]")
+//dv.paragraph("[[" + MoveFile.file.name + "]]")
 
 dv.el(
 	'video',
@@ -36,70 +36,174 @@ dv.el(
 	{attr: {controls:""}}
 )
 
-dv.paragraph("**Beats:** " + MoveFile.Beats)
-dv.paragraph("**Type:** " + MoveFile.Type)
-dv.paragraph("**Difficulty:** " + MoveFile.Difficulty)
-dv.paragraph("**Return:** " + MoveFile.Return)
-dv.paragraph("**Demo:** " + MoveFile.Demo)
-dv.paragraph("**Teach:** " + MoveFile.Teach)
-dv.paragraph("**Start Hand:** " + MoveFile['Start Hand'])
-dv.paragraph("**End Hand:** " + MoveFile['End Hand'])
+
 
 ```
 
 
 ```multi-column-start
 ID: Move1
-number of columns: 4
+number of columns: 3
 ```
 
-Column 1
+```dataviewjs
+let MoveFile = dv.page(dv.current().Move1)
+dv.paragraph("**Type:** " + MoveFile.Type)
+dv.paragraph("**Demo:** " + MoveFile.Demo)
+dv.paragraph("**Start Hand:** " + MoveFile['Start Hand'])
+
+```
+
+---end-column ---
+
+```dataviewjs
+let MoveFile = dv.page(dv.current().Move1)
+dv.paragraph("**Difficulty:** " + MoveFile.Difficulty)
+dv.paragraph("**Teach:** " + MoveFile.Teach)
+dv.paragraph("**End Hand:** " + MoveFile['End Hand'])
+```
 
 --- end-column ---
 
-Column 2
+```dataviewjs
+let MoveFile = dv.page(dv.current().Move1)
+dv.paragraph("**Beats:** " + MoveFile.Beats)
+dv.paragraph("**Return:** " + MoveFile.Return)
+```
 
---- end-column ---
+--- end-multi-column 
 
-Column 3
-
---- end-column ---
-
-Column 4
-
---- end-multi-column
-
-
+> [!INFO]+ Move One Notes
+> .
 
 ---
+
 
 ### Move 2 ([[Classic Moves Index|Classic]])
 
-[Move2:: Accordion Cleaver Anticlockwise]
+[Move2:: [[Accordion Cleaver Anticlockwise]]]
+
 
 ```dataviewjs
-dv.paragraph("[[" + dv.current().Move2 + "]]")
 
-dv.paragraph("![[" + dv.current().Move2 + "#Video]]")
-dv.paragraph("Beats: " + dv.page(dv.current().Move2).Beats)
+let MoveFile = dv.page(dv.current().Move2)
+
+//dv.paragraph("[[" + MoveFile.file.name + "]]")
+
+dv.el(
+	'video',
+	dv.el('source', "",
+		{
+			attr: { 
+				src: MoveFile.video,
+				type: "video/mp4"
+				}
+			}
+		),
+	{attr: {controls:""}}
+)
+
 ```
-On this move in this routine combine the return as the start of the cleaver
-The return is part one, Cleaver on mens right hand side ladies left
-Catch two hands on step back
+
+
+```multi-column-start
+ID: Move2
+number of columns: 3
+```
+
+```dataviewjs
+let MoveFile = dv.page(dv.current().Move2)
+dv.paragraph("**Type:** " + MoveFile.Type)
+dv.paragraph("**Demo:** " + MoveFile.Demo)
+dv.paragraph("**Start Hand:** " + MoveFile['Start Hand'])
+
+```
+
+---end-column ---
+
+```dataviewjs
+let MoveFile = dv.page(dv.current().Move2)
+dv.paragraph("**Difficulty:** " + MoveFile.Difficulty)
+dv.paragraph("**Teach:** " + MoveFile.Teach)
+dv.paragraph("**End Hand:** " + MoveFile['End Hand'])
+```
+
+--- end-column ---
+
+```dataviewjs
+let MoveFile = dv.page(dv.current().Move2)
+dv.paragraph("**Beats:** " + MoveFile.Beats)
+dv.paragraph("**Return:** " + MoveFile.Return)
+```
+
+--- end-multi-column 
+
+> [!INFO]+ Move Two Notes
+> On this move in this routine combine the return as the start of the cleaver
+> The return is part one, Cleaver on mens right hand side ladies left
+> Catch two hands on step back
 
 ---
 ### Move 3 (Int/Adv)
-[Move3:: Wurlitzer]
+[Move3:: [[Wurlitzer]]]
+
 
 ```dataviewjs
 
-dv.paragraph("[[" + dv.current().Move3 + "]]")
+let MoveFile = dv.page(dv.current().Move3)
 
-dv.paragraph("![[" + dv.current().Move3 + "#Video]]")
-dv.paragraph("Beats: " + dv.page(dv.current().Move3).Beats)
+//dv.paragraph("[[" + MoveFile.file.name + "]]")
+
+dv.el(
+	'video',
+	dv.el('source', "",
+		{
+			attr: { 
+				src: MoveFile.video,
+				type: "video/mp4"
+				}
+			}
+		),
+	{attr: {controls:""}}
+)
+
 ```
 
 
+```multi-column-start
+ID: Move3
+number of columns: 3
+```
+
+```dataviewjs
+let MoveFile = dv.page(dv.current().Move3)
+dv.paragraph("**Type:** " + MoveFile.Type)
+dv.paragraph("**Demo:** " + MoveFile.Demo)
+dv.paragraph("**Start Hand:** " + MoveFile['Start Hand'])
+
+```
+
+---end-column ---
+
+```dataviewjs
+let MoveFile = dv.page(dv.current().Move3)
+dv.paragraph("**Difficulty:** " + MoveFile.Difficulty)
+dv.paragraph("**Teach:** " + MoveFile.Teach)
+dv.paragraph("**End Hand:** " + MoveFile['End Hand'])
+```
+
+--- end-column ---
+
+```dataviewjs
+let MoveFile = dv.page(dv.current().Move3)
+dv.paragraph("**Beats:** " + MoveFile.Beats)
+dv.paragraph("**Return:** " + MoveFile.Return)
+```
+
+--- end-multi-column 
+
+> [!INFO]+ Move Three Notes
+> 
 ---
 
 

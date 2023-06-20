@@ -8,6 +8,7 @@ Demo: L
 Teach: R
 Start Hand: Left
 End Hand: Either
+Video: https://www.network.ceroc.com/Teachers/DanceMoves/CurrentLibrary/Video/16Wurlitzer.mp4
 ---
 
 #ceroc #moves #intermediates
