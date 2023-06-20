@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "fa21f99002699ddf",
+            "id": "220d148a400ef5a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,43 +32,27 @@
             }
           },
           {
-            "id": "220d148a400ef5a0",
+            "id": "311dcd884d413ed6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Template play/Untitled.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "c9a6915773c99792",
+        "id": "f88143b2db603aa5",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1d15f3dfbd2748",
+            "id": "290690eefd199ac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Template play/Untitled.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "de6066adcf4dfa58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
+                "file": "Ceroc/Intermediates/Classic Moves Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "start_ha",
+                "query": "tag:#Routine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,11 +112,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -149,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Template play/Untitled.md",
+                "file": "Ceroc/Intermediates/Classic Moves Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Template play/Untitled.md",
+                "file": "Ceroc/Intermediates/Classic Moves Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Template play/Untitled.md"
+                "file": "Ceroc/Intermediates/Classic Moves Index.md"
               }
             }
           },
@@ -270,22 +256,24 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3d1d15f3dfbd2748",
+  "active": "290690eefd199ac7",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
-    "Ceroc/Template play/Untitled.md",
-    "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
     "Ceroc/Intermediates/Routines/26-06-2023.md",
     "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
+    "Ceroc/Beginners/Routines.md",
+    "Templates/Ceroc/Ceroc Routine Int - Dev.md",
+    "Ceroc/Template play/Untitled.md",
+    "Ceroc/Beginners/Routines/Routine 1.md",
+    "Ceroc/Beginners/Routines",
+    "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
+    "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
+    "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Templates/Ceroc/Ceroc Move Int Import.md",
     "Templates/Ceroc/Ceroc Routine Int Import.md",
-    "Templates/Ceroc/Ceroc Routine Int - Dev.md",
     "Templates/Ceroc/Ceroc Move Int.md",
     "Templates/Ceroc/Ceroc Move Beg.md",
     "Ceroc/Intermediates/Routines/05-06-2023.md",
-    "Ceroc/Beginners/Routines.md",
-    "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
     "Wedding/rings.md",
     "Wedding/Honeymoon .md",
     "Home/Sarah Meds.md",
@@ -298,7 +286,6 @@
     "Ceroc/Intermediates/Moves/DB/Placeholder.md",
     "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
     "Ceroc/Intermediates/Routines/Untitled.md",
-    "Ceroc/Intermediates/Routines/05-06-2023 v2.md",
     "Ceroc/Intermediates/Moves/CTA/context.mdb",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
     "Home/CCTV/attachments/PXL_20230529_125546842~2.jpg",
@@ -309,7 +296,6 @@
     "Context/spacesLastSync.log",
     "Context",
     "Ceroc/Intermediates/DB",
-    "Food Shops",
     "Ceroc/CTTA/Course/attachments/Pasted image 20230514134724.png",
     "Ceroc/CTTA/Course/attachments/Routine Best Practice.jpeg",
     "Ceroc/CTTA/Course/attachments/Class Structure.jpeg",

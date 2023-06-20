@@ -12,7 +12,6 @@ dv.paragraph("![[Routines#Routine " + dv.current().Routine + "]]")
 
 ```
 
-
 ---
 ### Move 1 (Beg Var)
 [Move1:: [[Cradle Barrier Limbo]]]
