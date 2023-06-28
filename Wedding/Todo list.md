@@ -1,7 +1,7 @@
 ### todo
 - [ ] photographer meet up
 	- [ ] photo example 
-- [ ] giving notice appointment
+- [x] giving notice appointment
 - [ ] hotel visit
 - [ ] seating plan
 - [ ] info cards (menu, social media, run of the day)
@@ -20,14 +20,14 @@
 - [ ] flowers together 
 - [ ] dance lessons
 - [ ] teeth whitening
-- [ ] download blank template (from welcome sign)
+- [x] download blank template (from welcome sign)
 
 ### To Buy
-- [ ] Chris suit
-- [ ] Chris shoes
-- [ ] Roberts suit
+- [x] Chris suit
+- [x] Chris shoes
+- [x] Roberts suit
 - [ ] lights for candle shelf
-- [ ] paper frames 
+- [x] paper frames 
 - [ ] welcome sign frame
 - [ ] rings
 - [ ] ?? Outside lights
