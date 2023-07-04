@@ -30,33 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "311dcd884d413ed6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f88143b2db603aa5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "290690eefd199ac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Shouldersway Switch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -135,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Shouldersway Switch.md",
+                "file": "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Shouldersway Switch.md",
+                "file": "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Shouldersway Switch.md"
+                "file": "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md"
               }
             }
           },
@@ -256,8 +229,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "290690eefd199ac7",
+  "active": "28970cbcfaadc0e5",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Moves/CTA/Shouldersway Switch.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/Basket.md",
     "Ceroc/Intermediates/Routines/26-06-2023.md",
@@ -285,7 +259,6 @@
     "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
     "Ceroc/Intermediates/Moves/DB/Dervish.md",
     "Ceroc/Intermediates/Moves/DB/Placeholder.md",
-    "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
     "Ceroc/Intermediates/Moves/CTA/context.mdb",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
     "Home/CCTV/attachments/PXL_20230529_125546842~2.jpg",
