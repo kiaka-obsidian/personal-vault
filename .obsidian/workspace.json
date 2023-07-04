@@ -4,34 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b9a81084107137ba",
+        "id": "80763e77cf2ad1d6",
         "type": "tabs",
         "children": [
           {
-            "id": "28970cbcfaadc0e5",
+            "id": "94dfd38bfe05b9e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "220d148a400ef5a0",
+            "id": "dc431ec47c9305f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/26-06-2023.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,13 +82,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -108,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -229,13 +224,14 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "28970cbcfaadc0e5",
+  "active": "dc431ec47c9305f7",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
     "Ceroc/Intermediates/Moves/CTA/Shouldersway Switch.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/Basket.md",
     "Ceroc/Intermediates/Routines/26-06-2023.md",
-    "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
     "Ceroc/Beginners/Routines.md",
     "Templates/Ceroc/Ceroc Routine Int - Dev.md",
     "Ceroc/Template play/Untitled.md",
@@ -258,7 +254,6 @@
     "Ceroc/Intermediates/Routines/22-05-2023.md",
     "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
     "Ceroc/Intermediates/Moves/DB/Dervish.md",
-    "Ceroc/Intermediates/Moves/DB/Placeholder.md",
     "Ceroc/Intermediates/Moves/CTA/context.mdb",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
     "Home/CCTV/attachments/PXL_20230529_125546842~2.jpg",
