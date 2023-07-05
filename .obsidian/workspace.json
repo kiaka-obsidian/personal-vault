@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Consourse 101.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Consourse 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Consourse 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Consourse 101.md"
               }
             }
           },
@@ -226,7 +226,10 @@
   },
   "active": "dc431ec47c9305f7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Wedding/Untitled.md",
+    "Ceroc/Workshops/Beginners W.md",
+    "Ceroc/Workshops",
+    "Consourse 101.md",
     "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
     "Ceroc/Intermediates/Moves/CTA/Shouldersway Switch.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
@@ -252,8 +255,6 @@
     "Ceroc/Template play",
     "Ceroc/Intermediates/Moves/CTA/Inside First.md",
     "Ceroc/Intermediates/Routines/22-05-2023.md",
-    "Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
-    "Ceroc/Intermediates/Moves/DB/Dervish.md",
     "Ceroc/Intermediates/Moves/CTA/context.mdb",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
     "Home/CCTV/attachments/PXL_20230529_125546842~2.jpg",
@@ -263,7 +264,6 @@
     "Ceroc/Intermediates/Routines/Jeff Import",
     "Context/spacesLastSync.log",
     "Context",
-    "Ceroc/Intermediates/DB",
     "Ceroc/CTTA/Course/attachments/Pasted image 20230514134724.png",
     "Ceroc/CTTA/Course/attachments/Routine Best Practice.jpeg",
     "Ceroc/CTTA/Course/attachments/Class Structure.jpeg",
