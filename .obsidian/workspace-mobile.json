@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "93a950f5264d7298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Workshops/Beginners W.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3a4625e91335d86f",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wedding/Todo list.md",
+            "file": "Ceroc/Workshops/Beginners W.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Wedding/Todo list.md",
+            "file": "Ceroc/Workshops/Beginners W.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -146,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Wedding/Todo list.md"
+            "file": "Ceroc/Workshops/Beginners W.md"
           }
         }
       },
@@ -200,13 +213,21 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "b599b53f39d444dd",
+  "active": "93a950f5264d7298",
   "lastOpenFiles": [
+    "Untitled.md",
+    "/Untitled.md",
+    "Ceroc/Beginners/Moves/Basic Treveling Return.md",
+    "Ceroc/Workshops/Beginners W.md",
+    "Ceroc/Workshops",
+    "Ceroc/Beginners/Moves/Shoulderspring.md",
+    "Ceroc/Beginners/Routines.md",
+    "Wedding/Untitled.md",
+    "Wedding/Todo list.md",
     "Ceroc/Intermediates/Routines/26-06-2023.md",
     "Ceroc/Intermediates/Routines/05-06-2023 v3 (Final).md",
     "Ceroc/Intermediates/Routines/05-06-2023.md",
     "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
-    "Ceroc/Beginners/Routines.md",
     "Wedding/Honeymoon .md",
     "/Templates/Ceroc/Ceroc Routine Int Import.md",
     "/Templates/Ceroc/Ceroc Routine Int - Dev.md",
@@ -221,13 +242,6 @@
     "Ceroc/Intermediates/Routines/Untitled.md",
     "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
     "Ceroc/Template play/Untitled.md",
-    "Ceroc/Intermediates/Moves/DB/Dervish.md",
-    "/Ceroc/Intermediates/Routines/22-05-2023.md",
-    "/Ceroc/Intermediates/Routines/05-06-2023.md",
-    "/Ceroc/Intermediates/Routines/05-06-2023 v3 (Final).md",
-    "/Ceroc/Intermediates/Moves/DB/ShoulderSpring First.md",
-    "/Ceroc/Intermediates/Moves/DB/Dervish.md",
-    "/Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
     "Ceroc/Template play",
     "/Ceroc/Template play",
     "Ceroc/Intermediates/Routines/IDEAS",
@@ -243,7 +257,6 @@
     "Food Shops",
     "Ceroc/CTTA/Course/attachments",
     "/Food Shops",
-    "/Ceroc/CTTA/Course/attachments",
     "Untitled.canvas",
     "Sky/Line Reports/James Maskery/Untitled.canvas",
     "/Sky/Line Reports/James Maskery/Untitled.canvas"
