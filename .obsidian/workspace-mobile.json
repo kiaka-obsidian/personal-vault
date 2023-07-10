@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Classic Moves Index.md",
+                "file": "Ceroc/Workshops/Beginners W.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ceroc/Intermediates/Classic Moves Index.md",
+            "file": "Ceroc/Workshops/Beginners W.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ceroc/Intermediates/Classic Moves Index.md",
+            "file": "Ceroc/Workshops/Beginners W.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ceroc/Intermediates/Classic Moves Index.md"
+            "file": "Ceroc/Workshops/Beginners W.md"
           }
         }
       },
@@ -215,6 +215,7 @@
   },
   "active": "b599b53f39d444dd",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Classic Moves Index.md",
     "Consourse 101.md",
     "/Consourse 101.md",
     "Ceroc/Workshops/Beginners W.md",
@@ -241,7 +242,6 @@
     "Wedding/rings.md",
     "/Wedding/rings.md",
     "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
-    "Ceroc/Intermediates/Routines/Untitled.md",
     "Ceroc/Template play",
     "/Ceroc/Template play",
     "Ceroc/Intermediates/Routines/IDEAS",
