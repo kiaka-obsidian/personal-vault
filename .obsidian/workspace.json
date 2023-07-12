@@ -11,8 +11,12 @@
             "id": "94dfd38bfe05b9e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Workshops/Beginners W.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consourse 101.md",
+                "file": "Ceroc/Workshops/Beginners W.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Consourse 101.md",
+                "file": "Ceroc/Workshops/Beginners W.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consourse 101.md"
+                "file": "Ceroc/Workshops/Beginners W.md"
               }
             }
           },
@@ -220,15 +223,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "dc431ec47c9305f7",
+  "active": "97d86e9c581ca681",
   "lastOpenFiles": [
+    "Consourse 101.md",
     "Wedding/Untitled.md",
     "Ceroc/Workshops/Beginners W.md",
     "Ceroc/Workshops",
-    "Consourse 101.md",
     "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
     "Ceroc/Intermediates/Moves/CTA/Shouldersway Switch.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
