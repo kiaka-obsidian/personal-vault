@@ -11,6 +11,8 @@ End Hand: Either
 ---
 
 #ceroc #moves #intermediates
+[Video:: https://www.network.ceroc.com/Teachers/DanceMoves/CurrentLibrary/Video/16Catapult.mp4]
+
 ## Notes
 B3: Side
 B4: Spin

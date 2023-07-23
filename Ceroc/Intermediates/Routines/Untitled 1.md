@@ -14,7 +14,8 @@ dv.paragraph("![[Routines#Routine " + dv.current().Routine + "]]")
 
 ---
 ### Move 1 (Beg Var)
-[Move1:: [[]]]
+[Move1:: [[Short Neckbreak Cradle]]]
+
 
 ```dataviewjs
 
@@ -80,7 +81,7 @@ dv.paragraph("**Return:** " + MoveFile.Return)
 
 ### Move 2 ([[Classic Moves Index|Classic]])
 
-[Move2:: [[]]]
+[Move2:: [[Catapult]]]
 
 
 ```dataviewjs
@@ -148,8 +149,8 @@ dv.paragraph("**Return:** " + MoveFile.Return)
 Previous Weeks
 - Yo-Yo
 - Yo-Yo Slicer
-- Yo-Yo Slicer Mambo
-- Yo-yo Slicer Mambo
+- Yo-Yo Slicer Mambo (11 on last mambo)
+- Yo-yo Slicer Mambo Hih First
 
 
 ```multi-column-start
