@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ceroc/Intermediates/Routines/07-08-2023.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Classic Moves Index.md",
+                "file": "Ceroc/Intermediates/Routines/07-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Classic Moves Index.md",
+                "file": "Ceroc/Intermediates/Routines/07-08-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Classic Moves Index.md"
+                "file": "Ceroc/Intermediates/Routines/07-08-2023.md"
               }
             }
           },
@@ -272,8 +272,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "1c16013f4bbb137f",
+  "active": "94dfd38bfe05b9e3",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Moves/CTA/Almost Pretzel.md",
     "Ceroc/Intermediates/Routines/07-08-2023.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
@@ -301,7 +302,6 @@
     "Templates/Ceroc/Ceroc Move Int Import.md",
     "Templates/Ceroc/Ceroc Routine Int Import.md",
     "Templates/Ceroc/Ceroc Move Int.md",
-    "Templates/Ceroc/Ceroc Move Beg.md",
     "Ceroc/Template play",
     "Ceroc/Intermediates/Moves/CTA/context.mdb",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",

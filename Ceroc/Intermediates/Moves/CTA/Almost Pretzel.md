@@ -9,7 +9,7 @@ Teach: L
 Start Hand: Left
 End Hand: Either
 ---
-
+[video:: https://www.network.ceroc.com/Teachers/DanceMoves/CurrentLibrary/Video/16AlmostPretzel.mp4]
 #ceroc #moves #intermediates
 ## Notes
 Men step to right out of the way (tbh signal optional but can for now)
