@@ -6,7 +6,7 @@
       {
         "id": "80763e77cf2ad1d6",
         "type": "tabs",
-        "dimension": 74.93131868131869,
+        "dimension": 45.96375617792422,
         "children": [
           {
             "id": "94dfd38bfe05b9e3",
@@ -15,6 +15,18 @@
               "type": "markdown",
               "state": {
                 "file": "Ceroc/Intermediates/Routines/07-08-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1b0ec3bbcec73d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +61,7 @@
       {
         "id": "e6417ef6ddbc730b",
         "type": "tabs",
-        "dimension": 25.068681318681318,
+        "dimension": 54.03624382207578,
         "children": [
           {
             "id": "1c16013f4bbb137f",
@@ -121,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/07-08-2023.md",
+                "file": "Ceroc/Intermediates/Classic Moves Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/07-08-2023.md",
+                "file": "Ceroc/Intermediates/Classic Moves Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/07-08-2023.md"
+                "file": "Ceroc/Intermediates/Classic Moves Index.md"
               }
             }
           },
@@ -259,13 +272,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "94dfd38bfe05b9e3",
+  "active": "1c16013f4bbb137f",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Routines/R5 - Unused.md",
     "Ceroc/Intermediates/Routines/07-08-2023.md",
-    "Ceroc/Intermediates/Moves/Short Neckbreak Cradle.md",
-    "Ceroc/Intermediates/Moves/CTA/Catapult.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
+    "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
+    "Ceroc/Intermediates/Moves/Short Neckbreak Cradle.md",
+    "Ceroc/Intermediates/Routines/R5 - Unused.md",
+    "Ceroc/Intermediates/Routines/22-05-2023.md",
+    "Ceroc/Intermediates/Routines/26-06-2023.md",
+    "Ceroc/Intermediates/Moves/CTA/Catapult.md",
     "Ceroc/Intermediates/Moves/CTA/Inside First.md",
     "Ceroc/Beginners/Routines.md",
     "Ceroc/Workshops/Beginners W.md",
@@ -275,7 +291,6 @@
     "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
     "Ceroc/Intermediates/Moves/CTA/Shouldersway Switch.md",
     "Ceroc/Intermediates/Moves/CTA/Basket.md",
-    "Ceroc/Intermediates/Routines/26-06-2023.md",
     "Templates/Ceroc/Ceroc Routine Int - Dev.md",
     "Ceroc/Template play/Untitled.md",
     "Ceroc/Beginners/Routines/Routine 1.md",
@@ -287,8 +302,6 @@
     "Templates/Ceroc/Ceroc Routine Int Import.md",
     "Templates/Ceroc/Ceroc Move Int.md",
     "Templates/Ceroc/Ceroc Move Beg.md",
-    "Ceroc/Intermediates/Routines/05-06-2023.md",
-    "Wedding/rings.md",
     "Ceroc/Template play",
     "Ceroc/Intermediates/Moves/CTA/context.mdb",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",

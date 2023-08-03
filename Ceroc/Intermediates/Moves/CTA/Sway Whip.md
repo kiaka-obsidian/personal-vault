@@ -9,6 +9,7 @@ Teach: L Then R
 Start Hand: Right
 End Hand: Left
 ---
+[video:: https://www.network.ceroc.com/Teachers/DanceMoves/CurrentLibrary/Video/16SwayWhip.mp4]
 
 #ceroc #moves #intermediates
 ## Notes
