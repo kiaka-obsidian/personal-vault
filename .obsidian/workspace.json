@@ -6,6 +6,7 @@
       {
         "id": "80763e77cf2ad1d6",
         "type": "tabs",
+        "dimension": 74.93131868131869,
         "children": [
           {
             "id": "94dfd38bfe05b9e3",
@@ -13,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/Untitled 1.md",
-                "mode": "preview",
+                "file": "Ceroc/Intermediates/Routines/07-08-2023.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,6 +49,7 @@
       {
         "id": "e6417ef6ddbc730b",
         "type": "tabs",
+        "dimension": 25.068681318681318,
         "children": [
           {
             "id": "1c16013f4bbb137f",
@@ -119,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/Untitled 1.md",
+                "file": "Ceroc/Intermediates/Routines/07-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/Untitled 1.md",
+                "file": "Ceroc/Intermediates/Routines/07-08-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/Untitled 1.md"
+                "file": "Ceroc/Intermediates/Routines/07-08-2023.md"
               }
             }
           },
@@ -254,13 +255,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "94dfd38bfe05b9e3",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Routines/R5 - Unused.md",
+    "Ceroc/Intermediates/Routines/07-08-2023.md",
     "Ceroc/Intermediates/Moves/Short Neckbreak Cradle.md",
-    "Ceroc/Intermediates/Routines/Untitled 1.md",
     "Ceroc/Intermediates/Moves/CTA/Catapult.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/Inside First.md",
@@ -286,7 +289,6 @@
     "Templates/Ceroc/Ceroc Move Beg.md",
     "Ceroc/Intermediates/Routines/05-06-2023.md",
     "Wedding/rings.md",
-    "Wedding/Honeymoon .md",
     "Ceroc/Template play",
     "Ceroc/Intermediates/Moves/CTA/context.mdb",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
