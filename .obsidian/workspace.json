@@ -14,19 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/07-08-2023.md",
+                "file": "Ceroc/Intermediates/Routines/05-06-2023.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "19c9288f48e14608",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
               }
             }
           },
@@ -66,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e6417ef6ddbc730b",
@@ -144,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/07-08-2023.md",
+                "file": "Ceroc/Intermediates/Routines/05-06-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/07-08-2023.md",
+                "file": "Ceroc/Intermediates/Routines/05-06-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/07-08-2023.md"
+                "file": "Ceroc/Intermediates/Routines/05-06-2023.md"
               }
             }
           },
@@ -279,13 +267,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "19c9288f48e14608",
+  "active": "97d86e9c581ca681",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Moves/CTA/Almost Pretzel.md",
+    "Ceroc/Intermediates/Routines/28-08-2023.md",
+    "Ceroc/Template play/Untitled.md",
+    "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
+    "Ceroc/Intermediates/Routines/05-06-2023.md",
+    "Ceroc/Intermediates/Routines/Untitled.md",
+    "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
     "Ceroc/Intermediates/Routines/07-08-2023.md",
+    "Ceroc/Beginners/General Beginner Notes.md",
+    "Ceroc/Intermediates/Moves/CTA/Almost Pretzel.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
     "Ceroc/Intermediates/Moves/Short Neckbreak Cradle.md",
@@ -299,19 +295,12 @@
     "Consourse 101.md",
     "Wedding/Untitled.md",
     "Ceroc/Workshops",
-    "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
     "Ceroc/Intermediates/Moves/CTA/Shouldersway Switch.md",
     "Ceroc/Intermediates/Moves/CTA/Basket.md",
     "Templates/Ceroc/Ceroc Routine Int - Dev.md",
-    "Ceroc/Template play/Untitled.md",
     "Ceroc/Beginners/Routines/Routine 1.md",
     "Ceroc/Beginners/Routines",
     "Ceroc/Intermediates/Moves/DB/Cradle Barrier Limbo.md",
-    "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
-    "Ceroc/Intermediates/Moves/CTA/Accordion Cleaver Anticlockwise.md",
-    "Templates/Ceroc/Ceroc Move Int Import.md",
-    "Templates/Ceroc/Ceroc Routine Int Import.md",
-    "Templates/Ceroc/Ceroc Move Int.md",
     "Ceroc/Template play",
     "Ceroc/Intermediates/Moves/CTA/context.mdb",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
