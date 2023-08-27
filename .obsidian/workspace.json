@@ -6,7 +6,6 @@
       {
         "id": "80763e77cf2ad1d6",
         "type": "tabs",
-        "dimension": 45.96375617792422,
         "children": [
           {
             "id": "94dfd38bfe05b9e3",
@@ -51,25 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "Consourse 101.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e6417ef6ddbc730b",
-        "type": "tabs",
-        "dimension": 54.03624382207578,
-        "children": [
-          {
-            "id": "1c16013f4bbb137f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Classic Moves Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -271,7 +251,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "97d86e9c581ca681",
+  "active": "94dfd38bfe05b9e3",
   "lastOpenFiles": [
     "Ceroc/Intermediates/CTA Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/CTA.md",
