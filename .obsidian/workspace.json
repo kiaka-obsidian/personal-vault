@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/05-06-2023.md",
-                "mode": "preview",
+                "file": "Ceroc/Intermediates/Routines/28-08-2023.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/05-06-2023.md",
+                "file": "Ceroc/Intermediates/Routines/28-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/05-06-2023.md",
+                "file": "Ceroc/Intermediates/Routines/28-08-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/05-06-2023.md"
+                "file": "Ceroc/Intermediates/Routines/28-08-2023.md"
               }
             }
           },
@@ -271,12 +271,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "97d86e9c581ca681",
+  "active": "94dfd38bfe05b9e3",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Routines/05-06-2023.md",
     "Ceroc/Intermediates/Routines/28-08-2023.md",
     "Ceroc/Template play/Untitled.md",
     "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
-    "Ceroc/Intermediates/Routines/05-06-2023.md",
     "Ceroc/Intermediates/Routines/Untitled.md",
     "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
     "Ceroc/Intermediates/Routines/07-08-2023.md",
