@@ -1,37 +1,43 @@
 ### todo
-- [ ] photographer meet up
-	- [ ] photo example 
+- [x] photographer meet up
+	- [x] photo example 
 - [x] giving notice appointment
-- [ ] hotel visit
-- [ ] seating plan
+- [x] hotel visit
+- [x] seating plan
 - [ ] info cards (menu, social media, run of the day)
-- [ ] make arch
-- [ ] make name cards
+- [x] make arch
+- [x] make name cards
 - [ ] confetti holders
-- [ ] make confetti 
-- [ ] finalize James playlist 
-- [ ] choose first dance
+- [x] make confetti 
+- [x] finalize James playlist 
+- [x] choose first dance
 - [ ] choreograph first dance
-- [ ] cake
-- [ ] print table numbers
-- [ ] write setup plan
-- [ ] duck treasure hunt -bronze that I already have
+- [x] cake
+- [x] print table numbers
+- [x] write setup plan
+- [x] duck treasure hunt -bronze that I already have
 - [ ] games
-- [ ] flowers together 
-- [ ] dance lessons
-- [ ] teeth whitening
+- [x] flowers together 
+- [x] dance lessons
+- [x] teeth whitening
 - [x] download blank template (from welcome sign)
+- [ ] Chris check shirt & waistcoat & tie
+- [ ] cut down easel
+- [ ] trim Chris's hair
+- [ ] print out blessing of the hands
+- [ ] 
 
 ### To Buy
 - [x] Chris suit
 - [x] Chris shoes
 - [x] Roberts suit
-- [ ] lights for candle shelf
+- [x] lights for candle shelf
 - [x] paper frames 
-- [ ] welcome sign frame
-- [ ] rings
-- [ ] ?? Outside lights
-- [ ] under dress bra
-- [ ] Sarah shoes
+- [x] welcome sign frame
+- [x] rings
+- [x] ?? Outside lights
+- [x] under dress bra
+- [x] Sarah shoes
 - [ ] gift for mark & Caz & James & Lisa
-- [ ] 
+- [ ] 15 aa battery?
+/
