@@ -81,8 +81,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/CTA Moves Index.md",
+                "file": "Ceroc/Intermediates/Routines/18-09-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/CTA Moves Index.md",
+                "file": "Ceroc/Intermediates/Routines/18-09-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/CTA Moves Index.md"
+                "file": "Ceroc/Intermediates/Routines/18-09-2023.md"
               }
             }
           },
@@ -278,10 +277,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e0ea6e5d74226374",
+  "active": "94dfd38bfe05b9e3",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
+    "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/CTA.md",
     "Ceroc/Beginners/Routines.md",
