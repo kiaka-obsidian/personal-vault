@@ -32,5 +32,16 @@ Comes out the side to side number two
 Push Sarah out with LH 
 Collect into a highfirst seducer (Sarah RA under shoulder)
 
+## Chris Fill in 2 - between the waltzs
+Sarah back L foot high first
+Chris Step over slot and double hand return down right side
+pepare and execute shoulder turn out
+Chris turn back &
+Stretch away ML/LR
+Scroll change place
+
+
+
+
 ## Moves to have somewhere
 Doubled handed shoulder turnout
