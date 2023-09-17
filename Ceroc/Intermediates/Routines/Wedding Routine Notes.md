@@ -1,6 +1,14 @@
 
 ## Sarah Idea 1
 
+Change place with bachata butterfly
+
+%%M back L forward%%
+Push back collecting double handed
+Basket caress
+switch (LH on LRH)
+Pull back and lets sarah extend
+
 ## Sarah Idea 2
 Traveling Wurlitzer
 Ladies 1/2 nelson
