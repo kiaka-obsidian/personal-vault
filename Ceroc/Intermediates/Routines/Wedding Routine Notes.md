@@ -36,9 +36,10 @@ Collect into a highfirst seducer (Sarah RA under shoulder)
 Sarah back L foot high first
 Chris Step over slot and double hand return down right side
 pepare and execute shoulder turn out
-Chris turn back &
-Stretch away ML/LR
-Scroll change place
+SARAH - Smaller steps on turn and exit on turn !!!
+Chris - Start to turn back (clock wise) for scroll (NO STRETCH AWAY)
+Scroll change place - Sarah back on R foot, chris to side collect on sarahs R shoulder
+pull through & collect for Waltz
 
 
 
