@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "040a626ef6aabc32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Routines/Wedding Routine Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea6ba096729bd5a6",
             "type": "leaf",
             "state": {
@@ -81,7 +93,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/18-09-2023.md",
+                "file": "Ceroc/Intermediates/Routines/Wedding Routine Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/18-09-2023.md",
+                "file": "Ceroc/Intermediates/Routines/Wedding Routine Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/18-09-2023.md"
+                "file": "Ceroc/Intermediates/Routines/Wedding Routine Notes.md"
               }
             }
           },
@@ -277,8 +290,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "94dfd38bfe05b9e3",
+  "active": "040a626ef6aabc32",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Routines/18-09-2023.md",
+    "Ceroc/Intermediates/Routines/Wedding Routine Notes.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
@@ -286,7 +301,6 @@
     "Ceroc/Beginners/Routines.md",
     "Ceroc/Beginners/General Beginner Notes.md",
     "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
-    "Ceroc/Intermediates/Routines/18-09-2023.md",
     "Ceroc/Intermediates/Moves/Short Neckbreak Cradle.md",
     "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
     "Ceroc/Intermediates/Routines/28-08-2023.md",
@@ -305,7 +319,6 @@
     "Consourse 101.md",
     "Wedding/Untitled.md",
     "Ceroc/Workshops",
-    "Ceroc/Intermediates/Moves/CTA/Shouldersway Switch.md",
     "Ceroc/Beginners/Routines",
     "Ceroc/Template play",
     "Ceroc/Intermediates/Moves/CTA/context.mdb",
