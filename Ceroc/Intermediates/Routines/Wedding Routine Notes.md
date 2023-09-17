@@ -41,7 +41,8 @@ Chris - Start to turn back (clock wise) for scroll (NO STRETCH AWAY)
 Scroll change place - Sarah back on R foot, chris to side collect on sarahs R shoulder
 pull through & collect for Waltz
 
-
+## Waltz 2
+Ends on after box & basic with step around
 
 
 ## Moves to have somewhere
