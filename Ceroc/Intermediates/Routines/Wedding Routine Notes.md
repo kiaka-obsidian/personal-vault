@@ -44,6 +44,13 @@ pull through & collect for Waltz
 ## Waltz 2
 Ends on after box & basic with step around
 
-
+## Tornado into Lift
+Twist out like a high first
+ML let go keeping contact with RH/LL
+Prepare forward
+Double anti clock wise turn
+Sarah - extend on "chasing"
+Side turn lift thing
+ONLY ONE/1/5 OF A TURN
 ## Moves to have somewhere
 Doubled handed shoulder turnout
