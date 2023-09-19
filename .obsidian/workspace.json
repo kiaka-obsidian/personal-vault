@@ -37,9 +37,11 @@
             "id": "725c5a97def4f5e9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "Ceroc/Intermediates/Routines/18-09-2023.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -179,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/Wedding Routine Notes.md",
+                "file": "Ceroc/Intermediates/Routines/18-09-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/Wedding Routine Notes.md",
+                "file": "Ceroc/Intermediates/Routines/18-09-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/Wedding Routine Notes.md"
+                "file": "Ceroc/Intermediates/Routines/18-09-2023.md"
               }
             }
           },
@@ -299,7 +301,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "725c5a97def4f5e9",
+  "active": "97d86e9c581ca681",
   "lastOpenFiles": [
     "Ceroc/Intermediates/Routines/18-09-2023.md",
     "Ceroc/Intermediates/Routines/Wedding Routine Notes.md",
