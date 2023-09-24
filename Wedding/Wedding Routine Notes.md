@@ -71,7 +71,8 @@ ONLY ONE/1/5 OF A TURN
 Change of places down chris left side (if we finish correct direction on exit (bar) just pause)
 
 end Chris facing bar
-Manspin catapult, collect left & Double handed
+**"everything"** yo-yo cataPULL (over head)
+collect double handed
 Caress into lean dip (sarah dont step back)
 
 Caress
