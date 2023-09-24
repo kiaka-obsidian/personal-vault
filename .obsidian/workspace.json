@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94dfd38bfe05b9e3",
+            "id": "4456ea579163e530",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/18-09-2023.md",
+                "file": "Ceroc/Intermediates/Routines/25-09-2023.md",
                 "mode": "source",
                 "source": false
               },
@@ -23,18 +23,6 @@
           },
           {
             "id": "040a626ef6aabc32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wedding/Wedding Routine Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "725c5a97def4f5e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,42 +46,6 @@
             }
           },
           {
-            "id": "b1b0ec3bbcec73d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3456381910919a41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/Short Neckbreak Cradle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc431ec47c9305f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consourse 101.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e0ea6e5d74226374",
             "type": "leaf",
             "state": {
@@ -104,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72d190836edf3896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Classic Moves Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Routine",
+                "query": "melody",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/18-09-2023.md",
+                "file": "Ceroc/Intermediates/Classic Moves Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/18-09-2023.md",
+                "file": "Ceroc/Intermediates/Classic Moves Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/18-09-2023.md"
+                "file": "Ceroc/Intermediates/Classic Moves Index.md"
               }
             }
           },
@@ -298,23 +262,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "97d86e9c581ca681",
+  "active": "72d190836edf3896",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Routines/18-09-2023.md",
-    "Wedding/Wedding Routine Notes.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
+    "Ceroc/Beginners/Routines.md",
+    "Wedding/Wedding Routine Notes.md",
+    "Ceroc/Intermediates/Routines/25-09-2023.md",
+    "Ceroc/Intermediates/Routines/18-09-2023.md",
+    "Ceroc/Intermediates/Routines/28-08-2023.md",
     "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Moves/CTA/CTA.md",
-    "Ceroc/Beginners/Routines.md",
     "Ceroc/Beginners/General Beginner Notes.md",
     "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
     "Ceroc/Intermediates/Moves/Short Neckbreak Cradle.md",
     "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
-    "Ceroc/Intermediates/Routines/28-08-2023.md",
     "Ceroc/Intermediates/Routines/05-06-2023.md",
     "Ceroc/Template play/Untitled.md",
     "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
@@ -328,7 +294,6 @@
     "Ceroc/Intermediates/Moves/CTA/Inside First.md",
     "Ceroc/Workshops/Beginners W.md",
     "Consourse 101.md",
-    "Wedding/Untitled.md",
     "Ceroc/Workshops",
     "Ceroc/Beginners/Routines",
     "Ceroc/Template play",
