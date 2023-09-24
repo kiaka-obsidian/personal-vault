@@ -58,8 +58,8 @@ Ends on after box & basic with step around
 ## Tornado into Lift
 
 Starts on waltz side to side
-Twiset out into columbian
-(one behind, to side)
+High first both Sarah back on Right Chris back on left
+Both step to face with a DipSway/Small Lunge
 
 Throw Sarah out keeping hold of right to left hand
 
