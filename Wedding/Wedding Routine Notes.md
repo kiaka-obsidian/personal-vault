@@ -1,13 +1,16 @@
 
 ## Sarah Idea 1
 
+Chris facing everyone
+Sarah facing windows
+
 Change place with bachata butterfly
 
 %%M back L forward%%
 Push back collecting double handed
 Basket caress
 switch (LH on LRH)
-Pull back and lets sarah extend
+Pull back and lets sarah extend (Chris arm behind back)
 
 ## Sarah Idea 2
 
@@ -26,6 +29,7 @@ inside turn collect into waltz facing window
 
 
 ## Waltz
+We have made adjustments to the rise and fall exists 
 
 Before seducer come round (anti clockwise) to face audiance to seduce (sarah not the audiance)
 exit Sarah facing bar
@@ -34,13 +38,14 @@ exit Sarah facing bar
 
 
 ## Seducer 1
-Comes out the side to side number two
-Push Sarah out with LH 
+After second side to side steps
+Start an anti clockwise step around eachother to end up chris facing audiance
 Collect into a highfirst seducer (Sarah RA under shoulder)
 
 ## Chris Fill in 2 - between the waltzs
-Sarah back L foot high first
-Chris Step over slot and double hand return down right side
+On exit of seducer Sarah step back facing the bar still
+
+Chris Step  double hand return down right side
 pepare and execute shoulder turn out
 SARAH - Smaller steps on turn and exit on turn !!!
 Chris - Start to turn back (clock wise) for scroll (NO STRETCH AWAY)
@@ -51,16 +56,20 @@ pull through & collect for Waltz (Facing window/sofa)
 Ends on after box & basic with step around
 
 ## Tornado into Lift
-Twist out like a high first
-ML let go keeping contact with RH/LL
-Prepare forward
+
+Starts on waltz side to side
+Twiset out into columbian
+(one behind, to side)
+
+Throw Sarah out keeping hold of right to left hand
+
 Double anti clock wise turn
-Sarah - extend on "chasing"
+
 Side turn lift thing
 ONLY ONE/1/5 OF A TURN
-Change of places down chris left side (if we finish correct direction on exit just pause)
+
+Change of places down chris left side (if we finish correct direction on exit (bar) just pause)
+
 end Chris facing bar
 Manspin catapult, collect left & Double handed
 Caress into lean dip (sarah dont step back)
-## Moves to have somewhere
-Doubled handed shoulder turnout
