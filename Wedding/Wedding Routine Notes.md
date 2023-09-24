@@ -21,9 +21,8 @@ MLH over head and down to side
 Back to back change sides (shift weight)
 **Sarah** - Shoulder lookover weight change only not step
 
-Chris pull through collet into high first
-Sarah - Ronde (quicker step)
-Inside turn collect for Waltz (chris 1/4 turn anti clockwise to face)
+Chris pull through left turn collet into waltz facing window
+
 
 
 
@@ -52,9 +51,9 @@ Double anti clock wise turn
 Sarah - extend on "chasing"
 Side turn lift thing
 ONLY ONE/1/5 OF A TURN
-Keep frame and turning together anti clockwise
+Change of places down chris left side (if we finish correct direction on exit just pause)
 end Chris facing bar
 Manspin catapult, collect left & Double handed
-Caress into lean dip
+Caress into lean dip (sarah dont step back)
 ## Moves to have somewhere
 Doubled handed shoulder turnout
