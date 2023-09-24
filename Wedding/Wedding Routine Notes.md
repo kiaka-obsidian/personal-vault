@@ -21,7 +21,14 @@ MLH over head and down to side
 Back to back change sides (shift weight)
 **Sarah** - Shoulder lookover weight change only not step
 
-Chris pull through left turn collet into waltz facing window
+Chris pull through left collect right hand into shoulder basket sway (adjust to music)
+inside turn collect into waltz facing window
+
+
+## Waltz
+
+Before seducer come round (anti clockwise) to face audiance to seduce (sarah not the audiance)
+exit Sarah facing bar
 
 
 
