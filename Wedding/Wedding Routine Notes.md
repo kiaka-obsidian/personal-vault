@@ -52,5 +52,9 @@ Double anti clock wise turn
 Sarah - extend on "chasing"
 Side turn lift thing
 ONLY ONE/1/5 OF A TURN
+Keep frame and turning together anti clockwise
+end Chris facing bar
+Manspin catapult, collect left & Double handed
+Caress into lean dip
 ## Moves to have somewhere
 Doubled handed shoulder turnout
