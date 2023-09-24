@@ -73,3 +73,11 @@ Change of places down chris left side (if we finish correct direction on exit (b
 end Chris facing bar
 Manspin catapult, collect left & Double handed
 Caress into lean dip (sarah dont step back)
+
+Caress
+Every - **Caress**
+thing - **Prepare**
+is point-less  **Is pointless**
+with - **Up**
+-out - **Collect for QUICK dip**
+you - **already be down**
