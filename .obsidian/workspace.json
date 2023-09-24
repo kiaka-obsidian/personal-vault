@@ -57,25 +57,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "73501f1d8e9628c1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "72d190836edf3896",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Classic Moves Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/25-09-2023.md",
+                "file": "Wedding/Wedding Routine Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/25-09-2023.md",
+                "file": "Wedding/Wedding Routine Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/25-09-2023.md"
+                "file": "Wedding/Wedding Routine Notes.md"
               }
             }
           },
@@ -272,13 +255,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "97d86e9c581ca681",
+  "active": "040a626ef6aabc32",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Routines/25-09-2023.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
     "Ceroc/Beginners/Routines.md",
     "Wedding/Wedding Routine Notes.md",
-    "Ceroc/Intermediates/Routines/25-09-2023.md",
     "Ceroc/Intermediates/Routines/18-09-2023.md",
     "Ceroc/Intermediates/Routines/28-08-2023.md",
     "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
