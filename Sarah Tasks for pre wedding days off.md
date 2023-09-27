@@ -10,3 +10,5 @@
 - [ ] change money ()
 - [ ] neckless that can allow the adding of a ring easier
 - [ ] look for sarahs sandles
+- [ ] haircut
+- [ ] take photo of cermony seating and turn it into a single sheet document (and print)
