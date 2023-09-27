@@ -75,10 +75,11 @@ end Chris facing bar
 collect double handed
 Caress into lean dip (sarah dont step back)
 
-Caress
-Every - **Caress**
-thing - **Prepare**
-is point-less  **Is pointless**
+Caress - on the small silence
+Every - **Prepare**
+thing is down - **Down**
+point-less  **hold on pointless**
 with - **Up**
 -out - **Collect for QUICK dip**
 you - **already be down**
+
