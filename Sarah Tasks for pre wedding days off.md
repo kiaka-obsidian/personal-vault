@@ -1,0 +1,12 @@
+- [ ] Take Sarahs shoes to post office
+- [ ] print out all travel documents
+- [ ] shorten and even off string on easel 
+- [ ] sort my holiday stuff out
+- [ ] washing (friday)
+- [ ] measure wedding arch two parts for the car
+- [ ] personal stuff
+- [ ] print remaining key chains
+- [ ] pick up cake
+- [ ] change money ()
+- [ ] neckless that can allow the adding of a ring easier
+- [ ] look for sarahs sandles

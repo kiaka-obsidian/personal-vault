@@ -56,6 +56,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c576847de2d14253",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7351580e88e169ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sarah Tasks for pre wedding days off.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -258,6 +278,7 @@
   "active": "040a626ef6aabc32",
   "lastOpenFiles": [
     "Ceroc/Intermediates/Routines/25-09-2023.md",
+    "Sarah Tasks for pre wedding days off.md",
     "Wedding/Wedding Routine Notes.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
@@ -282,7 +303,6 @@
     "Ceroc/Intermediates/Moves/CTA/Catapult.md",
     "Ceroc/Intermediates/Moves/CTA/Inside First.md",
     "Ceroc/Workshops/Beginners W.md",
-    "Consourse 101.md",
     "Ceroc/Workshops",
     "Ceroc/Beginners/Routines",
     "Ceroc/Template play",
