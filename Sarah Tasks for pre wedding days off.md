@@ -7,7 +7,7 @@
 - [ ] personal stuff
 - [ ] print remaining key chains
 - [ ] pick up cake
-- [ ] change money ()
+- [ ] change money (450 pounds)
 - [ ] neckless that can allow the adding of a ring easier
 - [ ] look for sarahs sandles
 - [ ] haircut
