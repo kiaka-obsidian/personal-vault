@@ -62,7 +62,7 @@ High first both Sarah back on Right Chris back on left
 Both step to face with a DipSway/Small Lunge
 
 Throw Sarah out keeping hold of right to left hand
-
+Chris back left stance with core turned slightly to face sarah
 Double anti clock wise turn
 
 Side turn lift thing
