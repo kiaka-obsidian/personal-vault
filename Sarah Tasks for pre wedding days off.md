@@ -3,7 +3,7 @@
 - [x] shorten and even off string on easel 
 - [ ] sort my holiday stuff out
 
-- [ ] measure wedding arch two parts for the car
+- [x] measure wedding arch two parts for the car
 - [ ] personal stuff
 
 - [x] pick up cake
