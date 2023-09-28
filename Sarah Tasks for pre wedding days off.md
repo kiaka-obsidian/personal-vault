@@ -8,12 +8,15 @@
 
 - [x] pick up cake
 - [x] change money (450 pounds)
-- [ ] neckless that can allow the adding of a ring easier
-- [ ] look for sarahs sandles
-- [ ] washing (friday)
+- [x] neckless that can allow the adding of a ring easier
+- [x] look for sarahs sandles
+- [x] washing (friday)
+- [ ] print poem with ammended verse
+- [ ] Mr and Mrs. Stared at top. Remove crossed out. Rest available 
+
 ## Night/Together
-- [ ] haircut
+- [x] haircut
 
 ## Other
-- [ ] print remaining key chains
+- [x] print remaining key chains
 - [ ] take photo of cermony seating and turn it into a single sheet document (and print)
