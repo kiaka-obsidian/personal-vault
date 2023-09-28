@@ -6,8 +6,8 @@
 - [ ] measure wedding arch two parts for the car
 - [ ] personal stuff
 
-- [ ] pick up cake
-- [ ] change money (450 pounds)
+- [x] pick up cake
+- [x] change money (450 pounds)
 - [ ] neckless that can allow the adding of a ring easier
 - [ ] look for sarahs sandles
 - [ ] washing (friday)
