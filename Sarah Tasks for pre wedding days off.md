@@ -1,5 +1,5 @@
 - [ ] Take Sarahs shoes to post office
-- [ ] print out all travel documents
+- [x] print out all travel documents
 - [ ] shorten and even off string on easel 
 - [ ] sort my holiday stuff out
 - [ ] washing (friday)
