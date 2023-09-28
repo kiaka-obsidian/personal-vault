@@ -5,6 +5,7 @@
 
 - [x] measure wedding arch two parts for the car
 - [ ] personal stuff
+- [ ] get Sarah the dot things and put out in the living room
 
 - [x] pick up cake
 - [x] change money (450 pounds)
