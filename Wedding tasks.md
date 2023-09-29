@@ -1,3 +1,23 @@
+
+Order of music for ceremony
+Sarah coming down Isle **make note of where song was faded out**
+- Beautiful In White _ Orchestral cover [ Embertone - Joshua Bell Violin Demo ]. 
+
+Signing documents
+- Dynamis (Meteion_'s Theme) - Final Fantasy XIV Endwalker
+- Labyrinth As the World Falls Down - Piano Wedding Version by Tie The Note
+- BACKUP - I See The Light (Piano & String Version) - Tangled - by Sam Yung
+
+Walking down together
+Picking song back up where it was faded oit
+- Beautiful In White _ Orchestral cover [ Embertone - Joshua Bell Violin Demo ]
+
+
+
+
+### Sarah Tasks for pre wedding days off
+
+
 - [x] Take Sarahs shoes to post office
 - [x] print out all travel documents
 - [x] shorten and even off string on easel 
