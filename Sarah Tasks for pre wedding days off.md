@@ -1,4 +1,4 @@
-- [ ] Take Sarahs shoes to post office
+- [x] Take Sarahs shoes to post office
 - [x] print out all travel documents
 - [x] shorten and even off string on easel 
 - [x] sort my holiday stuff out
@@ -20,4 +20,4 @@
 
 ## Other
 - [x] print remaining key chains
-- [ ] take photo of cermony seating and turn it into a single sheet document (and print)
+- [x] take photo of cermony seating and turn it into a single sheet document (and print)
