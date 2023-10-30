@@ -19,7 +19,6 @@ Basic Octopus
 High First
 Step Across
 
-1.
-2.
-Catapult tandum blues 
-3.
+1. High first neck wrap walkthrough
+2. Right Handed Caress Switch
+3. Catapult tandum blues
