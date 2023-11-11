@@ -1,0 +1,20 @@
+Move of the month Pretzel
+
+
+Week 1 - James - 
+Manspin into High first
+Pretzel
+open wurlitzer loop rock high first
+
+
+---
+Week 2 - Chris - 13th
+
+[[Routines|Beginners Routine:]] [Routine:: 5]
+```dataviewjs
+dv.paragraph("![[Routines#Routine " + dv.current().Routine + "]]")
+
+```
+
+. 
+Pretzel
