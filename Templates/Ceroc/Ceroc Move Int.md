@@ -8,6 +8,7 @@ Demo: U
 Teach: U
 Start Hand: U
 End Hand: U
+Video:
 ---
 
 [Video:: ]

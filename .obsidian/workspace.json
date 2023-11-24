@@ -22,19 +22,31 @@
             }
           },
           {
-            "id": "040a626ef6aabc32",
+            "id": "e0ea6e5d74226374",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wedding/Wedding Routine Notes.md",
+                "file": "Ceroc/Beginners/Moves/Slingshot.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea6ba096729bd5a6",
+            "id": "c576847de2d14253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Routines/27-11-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7351580e88e169ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,39 +58,19 @@
             }
           },
           {
-            "id": "e0ea6e5d74226374",
+            "id": "c4be9d69316e95bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/CTA Moves Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c576847de2d14253",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7351580e88e169ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sarah Tasks for pre wedding days off.md",
+                "file": "Ceroc/Intermediates/Routines/R5 - Unused.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -154,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sarah Tasks for pre wedding days off.md",
+                "file": "Ceroc/Intermediates/Routines/27-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sarah Tasks for pre wedding days off.md",
+                "file": "Ceroc/Intermediates/Routines/27-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sarah Tasks for pre wedding days off.md"
+                "file": "Ceroc/Intermediates/Routines/27-11-23.md"
               }
             }
           },
@@ -275,34 +266,37 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7351580e88e169ae",
+  "active": "c576847de2d14253",
   "lastOpenFiles": [
-    "Wedding/Wedding Routine Notes.md",
+    "Ceroc/Intermediates/Moves/DB/Wurlitzer High Hand Pretzel.md",
+    "Ceroc/Intermediates/Routines/27-11-23.md",
+    "Ceroc/Beginners/Moves/Slingshot.md",
+    "Ceroc/Beginners/Routines.md",
+    "Ceroc/Intermediates/Routines/R5 - Unused.md",
+    "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
+    "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
+    "Ceroc/Intermediates/Routines/28-08-2023.md",
+    "Ceroc/Intermediates/Routines/26-06-2023.md",
     "Ceroc/Intermediates/Routines/25-09-2023.md",
-    "Sarah Tasks for pre wedding days off.md",
+    "Ceroc/Intermediates/Routines/23rd October and 30th October.md",
+    "Ceroc/Intermediates/Routines/22-05-2023.md",
+    "Ceroc/Intermediates/Routines/07-08-2023.md",
+    "Ceroc/Intermediates/Routines/05-06-2023 v3 (Final).md",
+    "Ceroc/Intermediates/Routines/05-06-2023 v2.md",
+    "Ceroc/Intermediates/Routines/05-06-2023.md",
+    "Wedding/Wedding Routine Notes.md",
+    "Templates/Ceroc/Ceroc Move Int.md",
+    "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
+    "Ceroc/Beginners/Moves/Basic Treveling Return.md",
+    "Ceroc/Beginners/Moves/Basic Manspin.md",
+    "Ceroc/Beginners/Moves/Shoulderspring.md",
+    "Beginners/Beginners.md",
+    "Beginners/Moves",
+    "Beginners",
+    "Ceroc/Intermediates/Routines/18-09-2023.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
-    "Ceroc/Beginners/Routines.md",
-    "Ceroc/Intermediates/Routines/18-09-2023.md",
-    "Ceroc/Intermediates/Routines/28-08-2023.md",
-    "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
-    "Ceroc/Intermediates/Moves/CTA/CTA.md",
-    "Ceroc/Beginners/General Beginner Notes.md",
-    "Ceroc/Intermediates/Routines/Intermediate Teach REMEMBER.md",
-    "Ceroc/Intermediates/Moves/Short Neckbreak Cradle.md",
-    "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
-    "Ceroc/Intermediates/Routines/05-06-2023.md",
-    "Ceroc/Template play/Untitled.md",
-    "Ceroc/Intermediates/Routines/R4 - Draft 1.md",
-    "Ceroc/Intermediates/Routines/Untitled.md",
-    "Ceroc/Intermediates/Routines/07-08-2023.md",
-    "Ceroc/Intermediates/Moves/CTA/Almost Pretzel.md",
-    "Ceroc/Intermediates/Routines/R5 - Unused.md",
-    "Ceroc/Intermediates/Routines/22-05-2023.md",
-    "Ceroc/Intermediates/Routines/26-06-2023.md",
-    "Ceroc/Intermediates/Moves/CTA/Catapult.md",
-    "Ceroc/Intermediates/Moves/CTA/Inside First.md",
-    "Ceroc/Workshops/Beginners W.md",
+    "Dog",
     "Ceroc/Workshops",
     "Ceroc/Beginners/Routines",
     "Ceroc/Template play",
@@ -312,9 +306,6 @@
     "Home/CCTV/attachments",
     "Home/CCTV",
     "Home",
-    "Ceroc/Intermediates/Routines/Jeff Import",
-    "Context/spacesLastSync.log",
-    "Context",
     "Ceroc/CTTA/Course/attachments/Pasted image 20230514134724.png",
     "Ceroc/CTTA/Course/attachments/Routine Best Practice.jpeg",
     "Ceroc/CTTA/Course/attachments/Class Structure.jpeg",
