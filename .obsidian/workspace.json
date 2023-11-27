@@ -81,16 +81,24 @@
             "id": "7018e6e6ac5f054e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "de3e977b26924296",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Ceroc/Intermediates/Moves/DB/Neckwrap.md"
               }
             }
           },
@@ -286,13 +294,15 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7018e6e6ac5f054e",
+  "active": "de3e977b26924296",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Routines/27-11-23.md",
+    "Spaces/Home",
+    "Spaces",
     "Ceroc/Intermediates/Moves/CTA/Pretzel.md",
     "conflict-files-obsidian-git.md",
     "Dog/General dog notes.md",
     "Dog",
-    "Ceroc/Intermediates/Routines/27-11-23.md",
     "Ceroc/Intermediates/Moves/DB/Wurlitzer High Hand Pretzel.md",
     "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
     "Ceroc/Intermediates/Routines/11_2023.md",
@@ -314,7 +324,6 @@
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
     "Ceroc/Intermediates/Routines/18-09-2023.md",
-    "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
     "Ceroc/Workshops",
     "Ceroc/Beginners/Routines",
     "Ceroc/Template play",
@@ -324,8 +333,6 @@
     "Home/CCTV/attachments",
     "Home/CCTV",
     "Home",
-    "Ceroc/Intermediates/Routines/Jeff Import",
-    "Context/spacesLastSync.log",
     "Ceroc/CTTA/Course/attachments/Pasted image 20230514134724.png",
     "Ceroc/CTTA/Course/attachments/Routine Best Practice.jpeg",
     "Ceroc/CTTA/Course/attachments/Class Structure.jpeg",
