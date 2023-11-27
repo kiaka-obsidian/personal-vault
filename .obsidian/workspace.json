@@ -78,19 +78,19 @@
             }
           },
           {
-            "id": "a46a035d4209017d",
+            "id": "7018e6e6ac5f054e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Beginners/Moves/Short Neckbreak.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Pretzel.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Pretzel.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Pretzel.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -282,13 +282,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3908ea7a67696e89",
+  "active": "7018e6e6ac5f054e",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Routines/11_2023.md",
     "Ceroc/Intermediates/Moves/CTA/Pretzel.md",
+    "conflict-files-obsidian-git.md",
+    "Dog/General dog notes.md",
+    "Dog",
+    "Ceroc/Intermediates/Routines/27-11-23.md",
+    "Ceroc/Intermediates/Moves/DB/Wurlitzer High Hand Pretzel.md",
+    "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
+    "Ceroc/Intermediates/Routines/11_2023.md",
     "Ceroc/Beginners/Routines.md",
     "Ceroc/Beginners/General Beginner Notes.md",
     "Ceroc/Intermediates/Routines/Untitled.md",
@@ -308,11 +315,6 @@
     "Ceroc/Intermediates/CTA Moves Index.md",
     "Ceroc/Intermediates/Routines/18-09-2023.md",
     "Ceroc/Intermediates/Moves/CTA/Wurlitzer.md",
-    "Ceroc/Intermediates/Moves/CTA/CTA.md",
-    "Ceroc/Intermediates/Moves/Short Neckbreak Cradle.md",
-    "Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
-    "Ceroc/Intermediates/Routines/05-06-2023.md",
-    "Ceroc/Template play/Untitled.md",
     "Ceroc/Workshops",
     "Ceroc/Beginners/Routines",
     "Ceroc/Template play",
@@ -324,7 +326,6 @@
     "Home",
     "Ceroc/Intermediates/Routines/Jeff Import",
     "Context/spacesLastSync.log",
-    "Context",
     "Ceroc/CTTA/Course/attachments/Pasted image 20230514134724.png",
     "Ceroc/CTTA/Course/attachments/Routine Best Practice.jpeg",
     "Ceroc/CTTA/Course/attachments/Class Structure.jpeg",
