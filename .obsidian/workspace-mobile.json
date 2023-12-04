@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Classic Moves Index.md",
-                "mode": "preview",
+                "file": "Ceroc/Intermediates/Routines/11-12-2023.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ceroc/Intermediates/Classic Moves Index.md",
+            "file": "Ceroc/Intermediates/Routines/11-12-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ceroc/Intermediates/Classic Moves Index.md",
+            "file": "Ceroc/Intermediates/Routines/11-12-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ceroc/Intermediates/Classic Moves Index.md"
+            "file": "Ceroc/Intermediates/Routines/11-12-2023.md"
           }
         }
       },
@@ -215,8 +215,8 @@
   },
   "active": "dbdd30f3a0fdb6d8",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Routines/11-12-2023.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
+    "Ceroc/Intermediates/Routines/11-12-2023.md",
     "Ceroc/Intermediates/Routines/27-11-23.md",
     "Dog/General dog notes.md",
     "Spaces/Home",
