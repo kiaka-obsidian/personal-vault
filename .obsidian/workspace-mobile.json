@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dog/General dog notes.md",
-                "mode": "source",
+                "file": "Ceroc/Intermediates/Classic Moves Index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dog/General dog notes.md",
+            "file": "Ceroc/Intermediates/Classic Moves Index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dog/General dog notes.md",
+            "file": "Ceroc/Intermediates/Classic Moves Index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dog/General dog notes.md"
+            "file": "Ceroc/Intermediates/Classic Moves Index.md"
           }
         }
       },
@@ -215,8 +215,13 @@
   },
   "active": "dbdd30f3a0fdb6d8",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Routines/23rd October and 30th October.md",
+    "Ceroc/Intermediates/Routines/11-12-2023.md",
+    "Ceroc/Intermediates/Classic Moves Index.md",
+    "Ceroc/Intermediates/Routines/27-11-23.md",
     "Dog/General dog notes.md",
+    "Spaces/Home",
+    "Spaces",
+    "Ceroc/Intermediates/Routines/23rd October and 30th October.md",
     "Dog",
     "Wedding tasks.md",
     "/Sarah Tasks for pre wedding days off.md",
@@ -235,13 +240,10 @@
     "Ceroc/Intermediates/Routines/07-08-2023.md",
     "Ceroc/Intermediates/Routines/26-06-2023.md",
     "Ceroc/Beginners/General Beginner Notes.md",
-    "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/Routines/R5 - Unused.md",
     "Ceroc/Intermediates/Moves/Short Neckbreak Cradle.md",
     "/Ceroc/Intermediates/Routines/R5 - Unused.md",
     "/Ceroc/Intermediates/Routines/07-08-2023.md",
-    "/Ceroc/Intermediates/Moves/Short Neckbreak Cradle.md",
-    "/Ceroc/Intermediates/Moves/CTA/Sway Whip.md",
     "Ceroc/Workshops",
     "Ceroc/Template play",
     "/Ceroc/Template play",
@@ -255,8 +257,6 @@
     "Ceroc/CTTA/Course/attachments/Class Structure.jpeg",
     "/Ceroc/CTTA/Course/attachments/Routine Best Practice.jpeg",
     "/Ceroc/CTTA/Course/attachments/Class Structure.jpeg",
-    "Food Shops",
-    "Ceroc/CTTA/Course/attachments",
     "Untitled.canvas",
     "Sky/Line Reports/James Maskery/Untitled.canvas",
     "/Sky/Line Reports/James Maskery/Untitled.canvas"
