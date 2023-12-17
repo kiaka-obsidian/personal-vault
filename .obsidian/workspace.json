@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
+                "file": "Ceroc/Intermediates/Routines/Christmas Routine 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
+                "file": "Ceroc/Intermediates/Routines/Christmas Routine 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
+                "file": "Ceroc/Intermediates/Routines/Christmas Routine 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/Neckwrap.md"
+                "file": "Ceroc/Intermediates/Routines/Christmas Routine 2023.md"
               }
             }
           },
@@ -290,11 +290,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "de3e977b26924296",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
+    "Ceroc/Intermediates/Routines/Christmas Routine 2023.md",
+    "Ceroc/Intermediates/Routines/11-12-2023.md",
     "Ceroc/Intermediates/Routines/27-11-23.md",
     "Spaces/Home",
     "Spaces",
@@ -303,7 +307,6 @@
     "Dog/General dog notes.md",
     "Dog",
     "Ceroc/Intermediates/Moves/DB/Wurlitzer High Hand Pretzel.md",
-    "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
     "Ceroc/Intermediates/Routines/11_2023.md",
     "Ceroc/Beginners/Routines.md",
     "Ceroc/Beginners/General Beginner Notes.md",
@@ -322,7 +325,6 @@
     "Sarah Tasks for pre wedding days off.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
     "Ceroc/Intermediates/CTA Moves Index.md",
-    "Ceroc/Intermediates/Routines/18-09-2023.md",
     "Ceroc/Workshops",
     "Ceroc/Beginners/Routines",
     "Ceroc/Template play",
