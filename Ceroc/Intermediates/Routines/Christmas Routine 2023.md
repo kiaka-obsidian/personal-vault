@@ -3,22 +3,22 @@ Rocking Around the Christmas Tree
 
 ---
 
-- Basic Change Of palcec x2
-
+- Basic Change Of palces x2
 Rockin' around the Christmas tree  
+
+- In and arms both out, Wiggle after Hop
 At the Christmas party hop  
 
-- In and arms boath out
 
-- Left Arm round and up above, shake on see
+- Left Arm round and up above, (shake on see)
 Mistletoe hung where you can see  
 
-- Turn L, Turn M, Spot to shoulder on stop
-
+- Turn Ladies
 Every couple tries to stop  
 
-- Inside First
+- Inside First Repeat
 Rockin' around the Christmas tree  
+
 Let the Christmas spirit ring  
 Later we'll have some pumpkin pie  
 And we'll do some caroling
