@@ -27,9 +27,16 @@ Later we'll have some pumpkin pie
 And we'll do some caroling
 
 - Ice skating Left, right, left, right ,left hold - Hands to ear on "you hear" 
-You will get a sentimental feeling when you hear  
+You will get a sentimental feeling 
+- Turn to face each other - Hands to ear on "you hear" 
+	when you hear  
 
+- Men collect Ladies Left arm with right As ladies slowly turn
 Voices singing, let's be jolly  
+
+- Men bring arms low into haliluha
 Deck the halls with boughs of holly  
+
+back to the beginning
 
 ---
