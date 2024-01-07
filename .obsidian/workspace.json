@@ -8,97 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4456ea579163e530",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Routines/2023/25-09-2023.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "040a626ef6aabc32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wedding/Wedding Routine Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea6ba096729bd5a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Beginners/Routines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0ea6e5d74226374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/CTA Moves Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c576847de2d14253",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3908ea7a67696e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Moves/CTA/Pretzel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7018e6e6ac5f054e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "de3e977b26924296",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Moves/DB/Wurlitzer High Hand Pretzel.md",
+                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c48ab89f066c309a",
+            "id": "ac65468f89f7b0c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
+                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
+                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md"
+                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md"
               }
             }
           },
@@ -306,40 +227,40 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c48ab89f066c309a",
+  "active": "de3e977b26924296",
   "lastOpenFiles": [
-    "Ceroc/Intermediates/Routines/2023/25-09-2023.md",
-    "Wedding/Wedding Routine Notes.md",
-    "Ceroc/Intermediates/Moves/DB/Wurlitzer High Hand Pretzel.md",
-    "Ceroc/Intermediates/Routines/2023/27-11-23.md",
     "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
-    "Ceroc/Intermediates/Classic Moves Index.md",
-    "Ceroc/Intermediates/Routines/2023/05-06-2023.md",
-    "Ceroc/Intermediates/Routines/2024",
+    "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
     "Ceroc/Chads/2024.md",
-    "Ceroc/Intermediates/Routines/2023",
+    "Ceroc/Intermediates/Routines/2024",
     "Ceroc/Intermediates/Routines/2023/Christmas Routine 2023.md",
+    "Ceroc/Intermediates/Routines/2023/28-08-2023.md",
+    "Ceroc/Intermediates/Routines/2023/27-11-23.md",
+    "Ceroc/Intermediates/Routines/2023/26-06-2023.md",
+    "Ceroc/Intermediates/Routines/2023/25-09-2023.md",
+    "Ceroc/Intermediates/Routines/2023/23rd October and 30th October.md",
+    "Ceroc/Intermediates/Routines/2023/22-05-2023.md",
+    "Ceroc/Intermediates/Routines/2023/18-09-2023.md",
+    "Ceroc/Intermediates/Routines/2023/11-12-2023.md",
+    "Ceroc/Intermediates/Routines/2023/07-08-2023.md",
+    "Ceroc/Intermediates/Routines/2023/05-06-2023.md",
+    "Ceroc/Intermediates/Routines/2023/05-06-2023 v3 (Final).md",
+    "Ceroc/Intermediates/Routines/2023/05-06-2023 v2.md",
+    "Ceroc/Intermediates/Routines/2023",
+    "Ceroc/Intermediates/Intermediate Teach REMEMBER.md",
+    "Ceroc/Intermediates/Routines/Christmas Routine 2023.md",
     "Ceroc/Chads",
     "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
-    "Ceroc/Intermediates/Routines/2023/11-12-2023.md",
+    "Ceroc/Intermediates/Routines/11-12-2023.md",
+    "Ceroc/Intermediates/Routines/27-11-23.md",
     "Spaces/Home",
     "Spaces",
     "Ceroc/Intermediates/Moves/CTA/Pretzel.md",
     "conflict-files-obsidian-git.md",
     "Dog/General dog notes.md",
     "Dog",
+    "Ceroc/Intermediates/Moves/DB/Wurlitzer High Hand Pretzel.md",
     "Ceroc/Intermediates/Routines/11_2023.md",
-    "Ceroc/Beginners/Routines.md",
-    "Ceroc/Beginners/General Beginner Notes.md",
-    "Ceroc/Intermediates/Routines/Untitled.md",
-    "Ceroc/Intermediates/Intermediate Teach REMEMBER.md",
-    "Ceroc/Beginners/Moves/Short Neckbreak.md",
-    "Ceroc/Intermediates/Routines/Shortneck Break.md",
-    "Ceroc/Intermediates/Routines/2023/07-08-2023.md",
-    "Ceroc/Intermediates/Routines/2023/28-08-2023.md",
-    "Ceroc/Intermediates/Routines/2023/26-06-2023.md",
-    "Ceroc/Intermediates/Routines/2023/23rd October and 30th October.md",
-    "Ceroc/Intermediates/Routines/2023/22-05-2023.md",
     "Ceroc/Workshops",
     "Ceroc/Beginners/Routines",
     "Ceroc/Template play",
