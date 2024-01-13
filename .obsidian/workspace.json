@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
+                "file": "Templates/Ceroc/Ceroc Routine Int.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da126e5fafabf0ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Classic Moves Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
+                "file": "Ceroc/Intermediates/Routines/2024/2 - 15-01-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
+                "file": "Ceroc/Intermediates/Routines/2024/2 - 15-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
+                "file": "Ceroc/Intermediates/Routines/2024/2 - 15-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md"
+                "file": "Ceroc/Intermediates/Routines/2024/2 - 15-01-2024.md"
               }
             }
           },
@@ -227,9 +240,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "de3e977b26924296",
+  "active": "ac65468f89f7b0c1",
   "lastOpenFiles": [
     "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
+    "Ceroc/Intermediates/Classic Moves Index.md",
+    "Templates/Ceroc/Ceroc Routine Int.md",
+    "Templates/Ceroc/Ceroc Move Int.md",
+    "Ceroc/Intermediates/Routines/2024/2 - 15-01-2024.md",
     "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
     "Ceroc/Chads/2024.md",
     "Ceroc/Intermediates/Routines/2024",
@@ -256,11 +273,7 @@
     "Spaces/Home",
     "Spaces",
     "Ceroc/Intermediates/Moves/CTA/Pretzel.md",
-    "conflict-files-obsidian-git.md",
-    "Dog/General dog notes.md",
     "Dog",
-    "Ceroc/Intermediates/Moves/DB/Wurlitzer High Hand Pretzel.md",
-    "Ceroc/Intermediates/Routines/11_2023.md",
     "Ceroc/Workshops",
     "Ceroc/Beginners/Routines",
     "Ceroc/Template play",
