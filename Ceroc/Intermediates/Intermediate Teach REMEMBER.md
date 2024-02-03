@@ -14,3 +14,6 @@ Think of relevancy of tips
 Are they getting it and the tip is redundant. 
 **DROP IT**
 
+---
+Chicken Arms
+Heels down
