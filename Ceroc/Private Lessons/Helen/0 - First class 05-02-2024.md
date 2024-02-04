@@ -5,10 +5,11 @@
 - octopus 
 - basket 
 	- switch
-	- rock pull back flick spin
+	- rock rh turn out change place
 
 - High First Mambo 
 	- recursive?
+	- exit shoulder (old high first) double turn and return
 
 - Manspin or traveling block turn
 - return lean
