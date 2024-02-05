@@ -6,69 +6,15 @@
       {
         "id": "80763e77cf2ad1d6",
         "type": "tabs",
+        "dimension": 86.26373626373626,
         "children": [
-          {
-            "id": "de3e977b26924296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Ceroc/Ceroc Routine Int.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "42159823aaed6757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da126e5fafabf0ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Classic Moves Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac65468f89f7b0c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Workshops/Beginners W 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1feee04a9062dd44",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a92680e695321c78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Workshops/Beginners W 2024.md",
+                "file": "Ceroc/Private Lessons/Helen/0 - First class 05-02-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,6 +25,7 @@
       {
         "id": "419952756708fdcc",
         "type": "tabs",
+        "dimension": 13.736263736263737,
         "children": [
           {
             "id": "b50582756fb39d68",
@@ -91,8 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a92680e695321c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Workshops/Beginners W 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,12 +106,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -168,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
+                "file": "Ceroc/Private Lessons/Helen/0 - First class 05-02-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
+                "file": "Ceroc/Private Lessons/Helen/0 - First class 05-02-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md"
+                "file": "Ceroc/Private Lessons/Helen/0 - First class 05-02-2024.md"
               }
             }
           },
@@ -285,14 +245,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "42159823aaed6757",
   "lastOpenFiles": [
-    "Templates/Ceroc/Ceroc Routine Int.md",
     "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
     "Ceroc/Workshops/Beginners W 2024.md",
+    "Ceroc/Private Lessons/Helen/0 - First class 05-02-2024.md",
+    "Ceroc/Private Lessons/Helen",
+    "Ceroc/Private Lessons",
+    "Templates/Ceroc/Ceroc Routine Int.md",
     "Ceroc/Workshops/Beginners W.md",
     "Ceroc/Intermediates/Routines/2024/2 - 15-01-2024.md",
     "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
@@ -318,14 +282,11 @@
     "Ceroc/Intermediates/Routines/Christmas Routine 2023.md",
     "Ceroc/Chads",
     "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
-    "Ceroc/Intermediates/Routines/11-12-2023.md",
     "Spaces/Home",
     "Spaces",
     "Dog",
     "Ceroc/Workshops",
     "Ceroc/Beginners/Routines",
-    "Ceroc/Template play",
-    "Ceroc/Intermediates/Moves/CTA/context.mdb",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
     "Home/CCTV/attachments/PXL_20230529_125546842~2.jpg",
     "Ceroc/CTTA/Course/attachments/Pasted image 20230514134724.png",

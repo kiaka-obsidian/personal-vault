@@ -1,5 +1,5 @@
 ### Routine
-- Basic change of places
+- Basic (x1) change of places
 - step across
 
 - octopus 
