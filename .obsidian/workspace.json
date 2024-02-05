@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "42159823aaed6757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da126e5fafabf0ec",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "1feee04a9062dd44",
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Workshops/Beginners W 2024.md",
+                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Workshops/Beginners W 2024.md",
+                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Workshops/Beginners W 2024.md"
+                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md"
               }
             }
           },
@@ -273,16 +285,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "a92680e695321c78",
+  "active": "42159823aaed6757",
   "lastOpenFiles": [
-    "Ceroc/Workshops/Beginners W.md",
-    "Ceroc/Workshops/Beginners W 2024.md",
     "Templates/Ceroc/Ceroc Routine Int.md",
     "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
+    "Ceroc/Workshops/Beginners W 2024.md",
+    "Ceroc/Workshops/Beginners W.md",
     "Ceroc/Intermediates/Routines/2024/2 - 15-01-2024.md",
     "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
