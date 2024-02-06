@@ -4,12 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "419952756708fdcc",
+        "id": "2c7ecd2475ceb254",
         "type": "tabs",
         "dimension": 50,
         "children": [
           {
-            "id": "b50582756fb39d68",
+            "id": "a92680e695321c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Workshops/Beginners W 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "678081a702cd152a",
+        "type": "tabs",
+        "dimension": 25,
+        "children": [
+          {
+            "id": "ce8998cf5e52c291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Workshops/Beginners W 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "419952756708fdcc",
+        "type": "tabs",
+        "dimension": 25,
+        "children": [
+          {
+            "id": "ac610fc600d361d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,50 +59,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "5def3848dec81a42",
-        "type": "split",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "2c7ecd2475ceb254",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a92680e695321c78",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ceroc/Workshops/Beginners W 2024.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "2cfcc7fe79883dd3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ce8998cf5e52c291",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ceroc/Workshops/Beginners W 2024.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -293,7 +287,7 @@
         "x": 0,
         "y": 0,
         "width": 537,
-        "height": 952,
+        "height": 907,
         "maximize": false,
         "zoom": 0
       }

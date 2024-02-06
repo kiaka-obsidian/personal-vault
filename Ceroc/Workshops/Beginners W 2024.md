@@ -21,16 +21,26 @@ Basic Wrap Across
 
 
 # Group 1
-Basic Travelling Return L
+Basic 
+Travelling Return L
 Step Across - L
 Twist & Rock
 
 # Group 2
 Ceroc Spin (spin teach)
 Wrap Across
-Spring/Shouldersway
+Shouldersway
 
 # Group 3
+Change of place
+Spot turn
+Octopus
+
+# Group 4
+
+Butterfly
+Spring
+Mambo
 
 ---
 
