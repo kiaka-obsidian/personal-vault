@@ -4,61 +4,113 @@
     "type": "split",
     "children": [
       {
-        "id": "2c7ecd2475ceb254",
+        "id": "80763e77cf2ad1d6",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "a92680e695321c78",
+            "id": "4456ea579163e530",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Routines/2023/25-09-2023.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "040a626ef6aabc32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Workshops/Beginners W 2024.md",
+                "file": "Wedding/Wedding Routine Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea6ba096729bd5a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Beginners/Routines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0ea6e5d74226374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/CTA Moves Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c576847de2d14253",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3908ea7a67696e89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Moves/CTA/Pretzel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7018e6e6ac5f054e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "de3e977b26924296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Moves/DB/Wurlitzer High Hand Pretzel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c48ab89f066c309a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "678081a702cd152a",
-        "type": "tabs",
-        "dimension": 25,
-        "children": [
-          {
-            "id": "ce8998cf5e52c291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Workshops/Beginners W 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "419952756708fdcc",
-        "type": "tabs",
-        "dimension": 25,
-        "children": [
-          {
-            "id": "ac610fc600d361d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Workshops/Beginners W.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -112,13 +164,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -135,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Workshops/Beginners W 2024.md",
+                "file": "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Workshops/Beginners W 2024.md",
+                "file": "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Workshops/Beginners W 2024.md"
+                "file": "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md"
               }
             }
           },
@@ -256,79 +306,42 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "floating": {
-    "id": "f15721ad90e7b900",
-    "type": "floating",
-    "children": [
-      {
-        "id": "03f97218b1a9031b",
-        "type": "window",
-        "children": [
-          {
-            "id": "279e8eb519f45b5f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bd964884de4a5a1e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ceroc/Private Lessons/Helen/0 - First class 05-02-2024.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 537,
-        "height": 907,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ce8998cf5e52c291",
+  "active": "97d86e9c581ca681",
   "lastOpenFiles": [
-    "Ceroc/Workshops/Beginners W.md",
     "Ceroc/Workshops/Beginners W 2024.md",
     "Ceroc/Private Lessons/Helen/0 - First class 05-02-2024.md",
-    "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
     "Ceroc/Private Lessons/Helen",
     "Ceroc/Private Lessons",
-    "Templates/Ceroc/Ceroc Routine Int.md",
     "Ceroc/Intermediates/Routines/2024/2 - 15-01-2024.md",
+    "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
+    "Ceroc/Intermediates/Routines/2023/25-09-2023.md",
+    "Wedding/Wedding Routine Notes.md",
+    "Ceroc/Intermediates/Moves/DB/Wurlitzer High Hand Pretzel.md",
+    "Ceroc/Intermediates/Routines/2023/27-11-23.md",
     "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
-    "Templates/Ceroc/Ceroc Move Int.md",
-    "Ceroc/Chads/2024.md",
-    "Ceroc/Intermediates/Routines/2024",
-    "Ceroc/Intermediates/Routines/2023/Christmas Routine 2023.md",
-    "Ceroc/Intermediates/Routines/2023/28-08-2023.md",
-    "Ceroc/Intermediates/Routines/2023/27-11-23.md",
-    "Ceroc/Intermediates/Routines/2023/26-06-2023.md",
-    "Ceroc/Intermediates/Routines/2023/25-09-2023.md",
-    "Ceroc/Intermediates/Routines/2023/23rd October and 30th October.md",
-    "Ceroc/Intermediates/Routines/2023/22-05-2023.md",
-    "Ceroc/Intermediates/Routines/2023/18-09-2023.md",
-    "Ceroc/Intermediates/Routines/2023/11-12-2023.md",
-    "Ceroc/Intermediates/Routines/2023/07-08-2023.md",
     "Ceroc/Intermediates/Routines/2023/05-06-2023.md",
-    "Ceroc/Intermediates/Routines/2023/05-06-2023 v3 (Final).md",
-    "Ceroc/Intermediates/Routines/2023/05-06-2023 v2.md",
+    "Ceroc/Intermediates/Routines/2024",
+    "Ceroc/Chads/2024.md",
     "Ceroc/Intermediates/Routines/2023",
-    "Ceroc/Intermediates/Intermediate Teach REMEMBER.md",
-    "Ceroc/Intermediates/Routines/Christmas Routine 2023.md",
+    "Ceroc/Intermediates/Routines/2023/Christmas Routine 2023.md",
     "Ceroc/Chads",
     "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
+    "Ceroc/Intermediates/Routines/2023/11-12-2023.md",
     "Spaces/Home",
     "Spaces",
+    "Ceroc/Intermediates/Moves/CTA/Pretzel.md",
+    "conflict-files-obsidian-git.md",
+    "Dog/General dog notes.md",
     "Dog",
+    "Ceroc/Intermediates/Routines/11_2023.md",
+    "Ceroc/Beginners/Routines.md",
+    "Ceroc/Beginners/General Beginner Notes.md",
+    "Ceroc/Intermediates/Routines/Untitled.md",
+    "Ceroc/Intermediates/Intermediate Teach REMEMBER.md",
+    "Ceroc/Beginners/Moves/Short Neckbreak.md",
+    "Ceroc/Intermediates/Routines/Shortneck Break.md",
+    "Ceroc/Intermediates/Routines/2023/07-08-2023.md",
     "Ceroc/Workshops",
     "Ceroc/Beginners/Routines",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
