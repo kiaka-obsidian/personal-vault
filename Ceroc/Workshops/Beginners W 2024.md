@@ -19,12 +19,13 @@ Basic Wrap Across
 
 
 
+---
 
 # Group 1
 Basic 
-Travelling Return L
-Step Across - L
-Twist & Rock
+Change of place 
+Traveling return
+Step Across
 
 # Group 2
 Ceroc Spin (spin teach)
@@ -32,33 +33,14 @@ Wrap Across
 Shouldersway
 
 # Group 3
-Change of place
+Twist and rock
 Spot turn
 Octopus
 
 # Group 4
-
-Butterfly
 Spring
 Mambo
-
----
-
-
-
-# Group 1
-Basic Wrap Across R
-
-
-# Group 2
-Basic Changing Places D
-
-
-
-
-
-# Group 4
-Basic Octopus - D
-Spot Turn - D
 Butterfly
+
+
 
