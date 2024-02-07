@@ -4,49 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "80763e77cf2ad1d6",
+        "id": "2c7ecd2475ceb254",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "4456ea579163e530",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Routines/2023/25-09-2023.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c48ab89f066c309a",
+            "id": "a92680e695321c78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Beginners/Beginners Move Notes 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2335962fda288ffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Ceroc/Workshops/Beginners W 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "678081a702cd152a",
+        "type": "tabs",
+        "dimension": 25,
+        "children": [
+          {
+            "id": "ce8998cf5e52c291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Workshops/Beginners W 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "419952756708fdcc",
+        "type": "tabs",
+        "dimension": 25,
+        "children": [
+          {
+            "id": "ac610fc600d361d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ceroc/Workshops/Beginners W.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,11 +112,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Ceroc/Workshops/Beginners W 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Ceroc/Workshops/Beginners W 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Ceroc/Workshops/Beginners W 2024.md"
               }
             }
           },
@@ -242,42 +256,79 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "2335962fda288ffe",
+  "floating": {
+    "id": "f15721ad90e7b900",
+    "type": "floating",
+    "children": [
+      {
+        "id": "03f97218b1a9031b",
+        "type": "window",
+        "children": [
+          {
+            "id": "279e8eb519f45b5f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bd964884de4a5a1e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ceroc/Private Lessons/Helen/0 - First class 05-02-2024.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1074,
+        "height": 1904,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ce8998cf5e52c291",
   "lastOpenFiles": [
     "Untitled.md",
     "Ceroc/Beginners/Beginners Move Notes 2024.md",
+    "Ceroc/Workshops/Beginners W.md",
     "Ceroc/Workshops/Beginners W 2024.md",
-    "Ceroc/Intermediates/Routines/2023/25-09-2023.md",
     "Ceroc/Private Lessons/Helen/0 - First class 05-02-2024.md",
+    "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
     "Ceroc/Private Lessons/Helen",
     "Ceroc/Private Lessons",
+    "Templates/Ceroc/Ceroc Routine Int.md",
     "Ceroc/Intermediates/Routines/2024/2 - 15-01-2024.md",
-    "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
-    "Wedding/Wedding Routine Notes.md",
-    "Ceroc/Intermediates/Moves/DB/Wurlitzer High Hand Pretzel.md",
-    "Ceroc/Intermediates/Routines/2023/27-11-23.md",
     "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
-    "Ceroc/Intermediates/Routines/2023/05-06-2023.md",
-    "Ceroc/Intermediates/Routines/2024",
+    "Templates/Ceroc/Ceroc Move Int.md",
     "Ceroc/Chads/2024.md",
-    "Ceroc/Intermediates/Routines/2023",
+    "Ceroc/Intermediates/Routines/2024",
     "Ceroc/Intermediates/Routines/2023/Christmas Routine 2023.md",
-    "Ceroc/Chads",
-    "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
+    "Ceroc/Intermediates/Routines/2023/28-08-2023.md",
+    "Ceroc/Intermediates/Routines/2023/27-11-23.md",
+    "Ceroc/Intermediates/Routines/2023/26-06-2023.md",
+    "Ceroc/Intermediates/Routines/2023/25-09-2023.md",
+    "Ceroc/Intermediates/Routines/2023/23rd October and 30th October.md",
+    "Ceroc/Intermediates/Routines/2023/22-05-2023.md",
+    "Ceroc/Intermediates/Routines/2023/18-09-2023.md",
     "Ceroc/Intermediates/Routines/2023/11-12-2023.md",
+    "Ceroc/Intermediates/Routines/2023/07-08-2023.md",
+    "Ceroc/Intermediates/Routines/2023/05-06-2023.md",
+    "Ceroc/Intermediates/Routines/2023/05-06-2023 v3 (Final).md",
+    "Ceroc/Intermediates/Routines/2023/05-06-2023 v2.md",
+    "Ceroc/Intermediates/Routines/2023",
+    "Ceroc/Intermediates/Intermediate Teach REMEMBER.md",
+    "Ceroc/Chads",
     "Spaces/Home",
     "Spaces",
-    "Ceroc/Intermediates/Moves/CTA/Pretzel.md",
-    "conflict-files-obsidian-git.md",
-    "Dog/General dog notes.md",
     "Dog",
-    "Ceroc/Intermediates/Routines/11_2023.md",
-    "Ceroc/Beginners/Routines.md",
-    "Ceroc/Beginners/General Beginner Notes.md",
-    "Ceroc/Intermediates/Routines/Untitled.md",
-    "Ceroc/Intermediates/Intermediate Teach REMEMBER.md",
-    "Ceroc/Beginners/Moves/Short Neckbreak.md",
     "Ceroc/Workshops",
     "Ceroc/Beginners/Routines",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
