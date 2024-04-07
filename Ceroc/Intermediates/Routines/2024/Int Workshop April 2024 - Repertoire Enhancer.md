@@ -1,10 +1,12 @@
-10:30am - 3:30 pm (5 hours - (15 +15 + 40 breaks) = 4 hours) 
+10:30am - 3:30 pm (5 hours - (15 +15 + 30 breaks) = 4 hours) 
 Break into 4 segments
 #### Things to Cover
 - Tension
 	- Lead control
 	- Follow override
-- Signals
+- Signals/Leading (from the body)
+	- Penguin
+	- Columbian
 
 - Slotting
 - Styling
@@ -18,8 +20,10 @@ Break into 4 segments
 	- Redirects
 	- Ducks (styled)
 	- Leans
+	- & 
 - Variations
 - Sabotage? 
+	- Not enough time possibly
 
 > [!NOTE]+
 > [[0 - Nice Moves]]
