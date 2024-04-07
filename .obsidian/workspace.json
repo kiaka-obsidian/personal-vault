@@ -57,8 +57,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89c74ad7f9d06c7d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,7 +302,7 @@
       }
     ]
   },
-  "active": "ac610fc600d361d9",
+  "active": "89c74ad7f9d06c7d",
   "lastOpenFiles": [
     "Ceroc/Workshops/Beginners W.md",
     "Ceroc/Workshops/Beginners W 2024.md",
