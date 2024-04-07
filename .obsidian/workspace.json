@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c7ecd2475ceb254",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "a92680e695321c78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Workshops/Beginners W 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "678081a702cd152a",
-        "type": "tabs",
-        "dimension": 25,
-        "children": [
-          {
-            "id": "ce8998cf5e52c291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Workshops/Beginners W 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "419952756708fdcc",
         "type": "tabs",
-        "dimension": 25,
         "children": [
           {
-            "id": "ac610fc600d361d9",
+            "id": "89c74ad7f9d06c7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,12 +20,14 @@
             }
           },
           {
-            "id": "89c74ad7f9d06c7d",
+            "id": "a6edec1dd2782e9d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Ceroc/Intermediates/Routines/2024/Int Workshop April 2024 - Repertoire Enhancer.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -145,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
+                "file": "Ceroc/Intermediates/Routines/2024/Int Workshop April 2024 - Repertoire Enhancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
+                "file": "Ceroc/Intermediates/Routines/2024/Int Workshop April 2024 - Repertoire Enhancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md"
+                "file": "Ceroc/Intermediates/Routines/2024/Int Workshop April 2024 - Repertoire Enhancer.md"
               }
             }
           },
@@ -262,7 +225,8 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "floating": {
@@ -302,14 +266,15 @@
       }
     ]
   },
-  "active": "89c74ad7f9d06c7d",
+  "active": "a6edec1dd2782e9d",
   "lastOpenFiles": [
+    "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
+    "Ceroc/Intermediates/Routines/2024/Int Workshop April 2024 - Repertoire Enhancer.md",
     "Ceroc/Workshops/Beginners W.md",
     "Ceroc/Workshops/Beginners W 2024.md",
     "Untitled.md",
     "Ceroc/Beginners/Beginners Move Notes 2024.md",
     "Ceroc/Private Lessons/Helen/0 - First class 05-02-2024.md",
-    "Ceroc/Intermediates/Routines/2024/0 - Nice Moves.md",
     "Ceroc/Private Lessons/Helen",
     "Ceroc/Private Lessons",
     "Templates/Ceroc/Ceroc Routine Int.md",
@@ -333,7 +298,6 @@
     "Ceroc/Intermediates/Routines/2023/05-06-2023 v3 (Final).md",
     "Ceroc/Intermediates/Routines/2023/05-06-2023 v2.md",
     "Ceroc/Intermediates/Routines/2023",
-    "Ceroc/Intermediates/Intermediate Teach REMEMBER.md",
     "Ceroc/Chads",
     "Spaces/Home",
     "Spaces",
