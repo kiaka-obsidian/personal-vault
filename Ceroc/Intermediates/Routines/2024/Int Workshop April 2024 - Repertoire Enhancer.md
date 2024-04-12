@@ -68,10 +68,28 @@ Part 1 - Tension, Slotting, Musicality etc - 2 Hours
 		- High First / Sho
 		- Allow people to play with there own moves here
 
-Part 2 - Incorperating Part 1 & Fancier Moves - 2 Hours
+Part 2 - Incorporating Part 1 & Fancier Moves - 2 Hours
 
 - Complex Footwork
-	- Colombian
+	- Catapult Colombian
+		- Change hands behind back
+		- Lead into First Move
+		- End with Turn out
+	- High First Walkthrough Penguin
 - Complex Armography
+	- Closed Neckbreak Medley Switch
+		- Usual Closed Neckbreak
+		- Walkthrough
+		- Two/Three Medely
+		- End Standard Switch
+	- Cross Mambo Swizzle (? on the Swizzle)
+		- R2R, Offer LH Above
+		- Turn Follow and step into Mambo
+		- Into Cross Steps
+		- Fincal Cross Step Raise Right Turn follow Anti-Clockwise, Block LH
+	- 
 - Complex Variations
+	- Man's Nelson Duck Cleaver
+	- Wurlitzer High Hand Pretzel Infinity
+	- 
 - Moves
