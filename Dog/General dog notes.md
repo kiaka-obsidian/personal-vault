@@ -6,8 +6,8 @@ Todo-watch dog first aid
 Commands
 No - boundary
 Sit
-Down - get down
-Off - 
+Down - leybdown
+Off - something 
 Lay - lay
 Back - move away from something 
 ?stop it - intervention 
@@ -23,3 +23,4 @@ Leave -leave it alone
 Drop it - what ever is on your mouth 
 Fetch
 Watch/on me - get attention
+Place -goto a specific spot. Such as when people come in. Not bed

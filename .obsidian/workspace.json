@@ -44,9 +44,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3cec3709167f23e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,11 +249,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "2335962fda288ffe",
+  "active": "c3cec3709167f23e",
   "lastOpenFiles": [
     "Untitled.md",
     "Ceroc/Intermediates/Routines/2024/Int Workshop April 2024 - Repertoire Enhancer.md",
