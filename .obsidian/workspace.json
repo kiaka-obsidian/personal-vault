@@ -22,41 +22,19 @@
             }
           },
           {
-            "id": "c48ab89f066c309a",
+            "id": "154beb8230e9f8c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceroc/Beginners/Beginners Move Notes 2024.md",
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2335962fda288ffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/Int Workshop April 2024 - Repertoire Enhancer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3cec3709167f23e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "4fd90baacaab9f96",
@@ -132,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/Int Workshop April 2024 - Repertoire Enhancer.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/Int Workshop April 2024 - Repertoire Enhancer.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceroc/Intermediates/Routines/2024/Int Workshop April 2024 - Repertoire Enhancer.md"
+                "file": "Untitled 2.md"
               }
             }
           },
@@ -249,17 +228,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c3cec3709167f23e",
+  "active": "154beb8230e9f8c2",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Ceroc/Intermediates/Routines/2024/Int Workshop April 2024 - Repertoire Enhancer.md",
-    "Ceroc/Intermediates/Routines/Jeff Import",
-    "Ceroc/Beginners/Beginners Move Notes 2024.md",
-    "Ceroc/Workshops/Beginners W 2024.md",
     "Ceroc/Intermediates/Routines/2023/25-09-2023.md",
+    "Ceroc/Beginners/Beginners Move Notes 2024.md",
+    "Ceroc/Intermediates/Routines/2024/Int Workshop April 2024 - Repertoire Enhancer.md",
+    "1 year anniversary letter.md",
+    "Untitled 2.md",
+    "Ceroc/Escape/Musicality Nerds - Master Class.md",
+    "Ceroc/Escape",
+    "Life.md",
+    "Grandma 1st chat with pallitive care team.md",
+    "Halloween Ceroc 28 Oct 2024.md",
+    "Home/House Tech - Dog Sitting.md",
+    "Home/attachments/Pasted image 20240926141031.png",
+    "Home/attachments/Pasted image 20240924201749.png",
+    "Home/attachments",
+    "Home/Sarah Exam Notes - For Chris.md",
+    "Ceroc/Intermediates/Routines/2024/Int Workshop Aug 2024 - Repetoire Enchancer.md",
+    "Ceroc/Intermediates/Routines/2024/attachments/Pasted image 20240825192717.png",
+    "Ceroc/Intermediates/Routines/2024/attachments",
+    "Sign & Design/Untitled.canvas",
+    "Sign & Design/Sign and Design Website Fixes.md",
+    "Sign & Design",
+    "Ceroc/Intermediates/Routines/Untitled 1.md",
+    "Mum/MUM CV Ideas.md",
+    "Mum",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "Ceroc/Intermediates/Routines/Jeff Import",
+    "Ceroc/Workshops/Beginners W 2024.md",
     "Ceroc/Private Lessons/Helen/0 - First class 05-02-2024.md",
     "Ceroc/Private Lessons/Helen",
     "Ceroc/Private Lessons",
@@ -270,26 +272,8 @@
     "Ceroc/Intermediates/Routines/2023/27-11-23.md",
     "Ceroc/Intermediates/Routines/2024/1 - 08-01-2023.md",
     "Ceroc/Intermediates/Classic Moves Index.md",
-    "Ceroc/Intermediates/Routines/2023/05-06-2023.md",
     "Ceroc/Intermediates/Routines/2024",
-    "Ceroc/Chads/2024.md",
     "Ceroc/Intermediates/Routines/2023",
-    "Ceroc/Intermediates/Routines/2023/Christmas Routine 2023.md",
-    "Ceroc/Chads",
-    "Ceroc/Intermediates/Moves/DB/Neckwrap.md",
-    "Ceroc/Intermediates/Routines/2023/11-12-2023.md",
-    "Spaces/Home",
-    "Spaces",
-    "Ceroc/Intermediates/Moves/CTA/Pretzel.md",
-    "conflict-files-obsidian-git.md",
-    "Dog/General dog notes.md",
-    "Dog",
-    "Ceroc/Intermediates/Routines/11_2023.md",
-    "Ceroc/Beginners/Routines.md",
-    "Ceroc/Beginners/General Beginner Notes.md",
-    "Ceroc/Intermediates/Routines/Untitled.md",
-    "Ceroc/Intermediates/Intermediate Teach REMEMBER.md",
-    "Ceroc/Workshops",
     "Home/CCTV/attachments/PXL_20230529_125734405.jpg",
     "Home/CCTV/attachments/PXL_20230529_125546842~2.jpg",
     "Ceroc/CTTA/Course/attachments/Pasted image 20230514134724.png",
@@ -299,9 +283,6 @@
     "Evernote Import/Sky Sports Republic/_resources/unknown_filename.png",
     "Untitled.canvas",
     "Weekly Notes/Untitled.canvas",
-    "Sky/HEXA/Video/attachments/Pasted image 20230509153644.png",
-    "Evernote Import/Daily Notes/_resources/image.png",
-    "Evernote Import/Line Reports/Line General/_resources/image.png",
     "Sky/Line Reports/James Maskery/Untitled.canvas",
     "Daily Notes/Untitled.canvas",
     "Untitled 1.canvas"

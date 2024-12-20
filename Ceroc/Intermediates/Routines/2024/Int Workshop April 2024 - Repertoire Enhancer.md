@@ -1,6 +1,6 @@
 10:30am - 3:30 pm (5 hours - (15 +15 + 30 breaks) = 4 hours) 
 Break into 4 segments
-#### Things to Cover
+### Things to Cover
 - Tension
 	- Lead control
 	- Follow override
@@ -24,13 +24,14 @@ Break into 4 segments
 - Variations
 - Sabotage? 
 	- Not enough time possibly
+### Notes
 
 > [!NOTE]+
 > [[0 - Nice Moves]]
 ![[0 - Nice Moves]]
 
 ---
-
+### Main Section
 
 Part 1 - Tension, Slotting, Musicality etc - 2 Hours
 - Tension & Body Lead (30)
@@ -40,7 +41,7 @@ Part 1 - Tension, Slotting, Musicality etc - 2 Hours
 		- Basic 
 		- High First Mambos
 		- Spot Turn
-		- + Ceroc Spin
+		- + Manspin - Ceroc Spin
 
 - Slotting 
 	- **bring Wire Tape & Colour Card**
@@ -50,8 +51,8 @@ Part 1 - Tension, Slotting, Musicality etc - 2 Hours
 		- Loss of tension
 		- Spins (Sarah to add on (Paddle))
 	- Moves
-		- Basket Switch
 		- Catapult Hook Spin
+		- Basket Switch
 		- Inside & Outside turn Spotting
 
 - Musicality & Redirection
@@ -75,21 +76,28 @@ Part 2 - Incorporating Part 1 & Fancier Moves - 2 Hours
 		- Change hands behind back
 		- Lead into First Move
 		- End with Turn out
-	- High First Walkthrough Penguin
 - Complex Armography
 	- Closed Neckbreak Medley Switch
 		- Usual Closed Neckbreak
 		- Walkthrough
 		- Two/Three Medely
 		- End Standard Switch
-	- Cross Mambo Swizzle (? on the Swizzle)
+	- + Cross Mambo Swizzle (? on the Swizzle)
 		- R2R, Offer LH Above
 		- Turn Follow and step into Mambo
 		- Into Cross Steps
-		- Fincal Cross Step Raise Right Turn follow Anti-Clockwise, Block LH
-	- 
+		- Final Cross Step Raise Right Turn follow Anti-Clockwise, Block LH
+
 - Complex Variations
-	- Man's Nelson Duck Cleaver
 	- Wurlitzer High Hand Pretzel Infinity
-	- 
-- Moves
+		- Like a L2L handed catapult
+	- + Man's Nelson Duck Cleaver
+		- R2R offer L above
+	- + High First Walkthrough Penguin
+
+
+Combined
+- Catapult Colombian (RR - LR)
+- Closed neckbreak Medley Switch
+- Wurlitzer High Hand Pretzel
+

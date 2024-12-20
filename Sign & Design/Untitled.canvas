@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9d8cdd640029f034","x":-520,"y":-220,"width":480,"height":240,"type":"text","text":"GHOST Website Wrapper"},
+		{"id":"18dd3c9f3cd86739","x":-320,"y":-80,"width":250,"height":50,"type":"text","text":"theme local (git submodule)"}
+	],
+	"edges":[]
+}
